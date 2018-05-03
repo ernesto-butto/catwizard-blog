@@ -10,3 +10,5 @@ Install jekyll: https://help.github.com/articles/setting-up-your-github-pages-si
 Then `bundle install` to download the libraries in the `Gemfile`
 
 Run locally with `bundle exec jekyll serve`
+
+Added custom domain using the A records method here: https://help.github.com/articles/setting-up-an-apex-domain/

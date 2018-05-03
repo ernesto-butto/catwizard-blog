@@ -243,7 +243,7 @@ html { font-size: 14px; }
 @media screen and (min-width: 320px) { html { font-size: calc(14px + 4 * ((100vw - 320px) / 960)); } }
 @media screen and (min-width: 1280px) { html { font-size: 18px; } }
 
-body { background: #fff; color: #000; border-top: solid 0.25em #000; }
+body { background: #fff; color: #000; border-top: solid 0.25em #01AA92; }
 
 blockquote footer, q footer { font-size: 80%; font-style: normal; }
 blockquote footer::before, q footer::before { padding-right: 0.25rem; content: "\2014"; }
