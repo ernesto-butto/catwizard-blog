@@ -1,1 +1,3 @@
 # catwizard-blog
+
+Opening Up!
