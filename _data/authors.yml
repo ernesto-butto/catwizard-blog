@@ -1,0 +1,23 @@
+ernesto:  
+  name: Ernesto Butto
+  picture: /images/ernesto_foto.jpg
+  email: ernesto@catwizard.io
+  twitter: poolebu
+  links:
+    - title: Twitter
+      url: https://twitter.com/poolebu
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/poolebu
+      icon: fab fa-github-square
+
+cindy:
+  name: Cindy Marin
+  twitter: megamantwitter
+  picture: /images/cindy_foto.jpg
+  email: cindy@catwizard.io
+
+fatima:
+  name: Fatima Pestana
+  twitter: drlighttwitter
+  picture: /images/drlight.png
