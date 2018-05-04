@@ -1,6 +1,6 @@
 var store = [{
         "title": "A thank you letter to the Jhipster Team",
-        "excerpt":"We have been working together for 11 years now, we are both originally from Venezuela, we started a software company there http://www.catwizard.io after we graduated from Computer Engineering in the University, and started our path as software development as well as entrepreneur. We had a partner those days that recommended...","categories": [],
+        "excerpt":"We have been working together for 11 years now, we are both originally from Venezuela, we started a software company there called, that now days is called catwizard.io after we graduated from Computer Engineering in the University, and started our path as software development as well as entrepreneur. We had...","categories": [],
         "tags": ["story"],
         "url": "http://localhost:4000/2018/05/04/jhipster-thanks.html"
       },{
