@@ -1,9 +1,4 @@
 var store = [{
-        "title": "A thank you letter to the Jhipster Team",
-        "excerpt":"We have been working together for 11 years now, we are both originally from Venezuela, we started a software company there called, that now days is called catwizard.io after we graduated from Computer Engineering in the University, and started our path as software development as well as entrepreneur. We had...","categories": [],
-        "tags": ["story"],
-        "url": "http://localhost:4000/2018/05/04/jhipster-thanks.html"
-      },{
         "title": "Chocolate Chip Cookies",
         "excerpt":"A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient. The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as...","categories": [],
         "tags": [],
