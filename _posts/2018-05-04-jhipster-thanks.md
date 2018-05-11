@@ -4,6 +4,7 @@ excerpt: "How this amazing opensource project impacted our lives"
 tags: 
   - story
 author: ernesto
+
 ---
 
 We have been working together for 11 years now, we are both originally from Venezuela, we started a software company there called, that now days is called [catwizard.io](http://www.catwizard.io)
