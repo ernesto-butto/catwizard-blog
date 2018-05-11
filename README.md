@@ -12,9 +12,11 @@ Run locally with `bundle exec jekyll serve`
 
 Added custom domain using the A records method here: https://help.github.com/articles/setting-up-an-apex-domain/
 
-To start on server go to
+To start on server go to server and run
 
-`development@Oroku:~/production/catwBlog/catwizard-blog/_site$ screen -L -S blog http-server -p 8031`
+`blogServerStart`. This runs the following alias in the server:
+
+`alias blogServerStart='docker run -it --restart always -d --name blog_catwizard -p 8031:8080 -v /home/development/production/catwBlog/catwizard-blog/_site:/public danjellz/http-s`
 
 Los autores estan en `_data/authors`
 
