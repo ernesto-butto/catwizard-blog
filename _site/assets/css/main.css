@@ -1020,18 +1020,15 @@ th {
 .site-logo-img {
   width: 75px;
   height: 75px;
-  border: 5px solid #fff;
-  border-radius: 75px; }
+  border: 5px solid #fff; }
   @media (min-width: 48em) {
     .site-logo-img {
       width: 112.5px;
-      height: 112.5px;
-      border-radius: 112.5px; } }
+      height: 112.5px; } }
   @media (min-width: 64em) {
     .site-logo-img {
       width: 150px;
-      height: 150px;
-      border-radius: 150px; } }
+      height: 150px; } }
 
 .site-footer {
   clear: both;
