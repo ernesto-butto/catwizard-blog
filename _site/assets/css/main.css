@@ -760,7 +760,7 @@ html {
 body {
   background: #fff;
   color: #000;
-  border-top: solid 0.25em #000; }
+  border-top: solid 0.25em #21086c; }
 
 blockquote footer,
 q footer {
@@ -930,7 +930,7 @@ th {
   margin: 0;
   padding: 0.25em 0.75em 0.5em;
   color: #fff;
-  background-color: #000;
+  background-color: #21086c;
   text-transform: uppercase;
   text-decoration: none;
   text-align: center; }
@@ -948,7 +948,7 @@ th {
     padding: 0.25em 0.75em;
     list-style: none;
     color: #fff;
-    background-color: #000;
+    background-color: #21086c;
     border-radius: 0 0 0.5rem 0.5rem; }
     @media (min-width: 48em) {
       .site-nav ul {
@@ -962,7 +962,7 @@ th {
     color: #fff;
     text-transform: uppercase;
     text-decoration: none;
-    border: 1px solid #000;
+    border: 1px solid #21086c;
     border-radius: 0.25rem; }
     .site-nav a:hover {
       border-color: #fff; }
