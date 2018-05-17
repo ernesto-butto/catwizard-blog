@@ -28,11 +28,24 @@ Thanks to that we were able to pay for the migration costs, find a better place 
 
 Then Cindy submitted the jhipster workshop to Women Tech Makers Barcelona, it's the most viewed video of all the talks (I think that because is very practical and in Spanish) and we are connecting with the community. Currently I'm helping out in the next Software Craft Barcelona 2018 event. 
 
-On top of that, the learning. The learning because of the quality of the generated code (AAA in sonarqube currently!) and because behind each option there are concepts and solutions to set of problems. There is a huge benefit of seeing how you apply the concepts in practical code because it's very easy to get confused on the internet on best practices. Hard to know if a particular approach is a must because of technical bet, or if it makes sense in some cases.
+On top of that, the learning! The learning because of the quality of the generated code (AAA in sonarqube currently!) and because behind each option there are concepts and well thought out solutions to set of problems. There is a huge benefit of seeing how you apply the concepts in practical code because it's very easy to get confused in this craft about the best practices. For example, is hard to know if a particular approach is a must because of technical debt, or if it's something that makes sense in some cases.
 
-This is a small example in the Spring part: the service layer... should I build a service layer for every endopoint or can I get away with calling the repository directly? How do we deal with that kind of thing... ok how does jhipster generates it and why ? so we go read your documentation, test it with some cases, and very quickly we understand come to a conclusion. Because behind your tool there is are philosophies and concept that we also benefit greatly.
+This is a small example in the Spring part: the service layer... should I build a service layer for every endopoint or can I get away with calling the repository directly? How do we deal with that kind of thing... ok how does jhipster generates it and why ? so we go read your documentation, test it with some cases, and very quickly we understand come to our own conclusions. Because behind your tool there are philosophies and concepts that support the results, we also benefit greatly in understanding them faster and better.
 
-Now we are building a product of our own for the education industry, an ionic mobile app that uses jhipster in the backend. We are still very short in money and in an financially unstable situation basically because we are invisible in the market, I don't even know how to make ourselves visible, and that's why we had not connected with you sooner and why we haven't collaborated more actively (I have only helped once updating the documentation).
+I woul recomend 100% to anyone who is in the path of learning about Java + Angular/React/Ionic , or about architectures, or about microservices, or about spring security, or about devops (because the profile and docker stuff is awesome!), or about data modeling, or comparing paradigms like NoSql vs Sql, or about multilanguage architecture, etc... if you want to learn it faster and better, create a simple project with jhipster, see what it does, add a technology you would like to understand, see what it does, repeat.
+
+Recently I was learning and implementing docker, and we have a real use case of a company that have two monolith applications that work together comunicating through their JSON API's. I was't sure if this was right, or common or if there are ways of packaging them. Then in your docker section I found: 
+
+> If your architecture is composed of several JHipster applications, you can use the specific docker-compose sub-generator, which will generate a global Docker Compose configuration for all selected applications....
+
+Ooohh!! That's how!
+
+I mean, every technology in this solution has a reason to be, it's useful, and more if it's combined with another one. But to succesful implement these combinations (JWT Spring security + Angular for example, or ElasticSearch... or Social, etc..) are not trivial. If you want to learn it you need a lot of time, and budgets of SMBs project won't cover for these researches. You, and Depu and all the core team changed that.
+
+- Depu marketplace ()
+- Remove the part that we are strugling, tell jdubois that want to focus on thanks. It's not good for trust. Change it the we are moving forwards. 
+
+Now we are building a product of our own for the education industry with an ionic framework mobile app frontend that uses jhipster in the backend. We are still very short in money and in a financially unstable situation basically because we are invisible in the market, I don't even know how to make ourselves visible, and that's why we had not connected with you sooner and why we haven't collaborated more actively (I have only helped once updating the documentation).
 
 Cindy says that before the Barcelona talk you asked her to contact you so she could collaborate with tickets.
 
