@@ -21,3 +21,14 @@ To start on server go to server and run
 Los autores estan en `_data/authors`
 
 Favicon agregado en `_includes/head-custom.html`, ver https://github.com/mmistakes/so-simple-theme#overriding-includes-and-layouts
+
+## Customizar
+Al instalar un theme, se instala un `gem` que es una libreria en la compu. Esto es para que se pueda actualizar facilmente con `bundle update jekyll-theme-so-simple`
+
+`open $(bundle show jekyll-theme-so-simple)`
+
+## Overriding theme defaults
+
+To replace layouts or includes in your theme, make a copy in your _layouts or _includes directory of the specific file you wish to modify, or create the file from scratch giving it the same name as the file you wish to override.
+
+For example, if your selected theme has a `page` layout, you can override the theme’s layout by creating your own `page` layout in the `_layouts` directory (that is, `_layouts/page.html`).
