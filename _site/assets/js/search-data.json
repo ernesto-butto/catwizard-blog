@@ -4,6 +4,11 @@ var store = [{
         "tags": ["story"],
         "url": "http://localhost:4000/2018/06/07/jhipster-thanks.html"
       },{
+        "title": "A thank you letter to the Jhipster Team 2",
+        "excerpt":"Thank you letter to Julien Dubois and the Jhipster Team Hello! My name is Ernesto Buttó, I’m Co-Funder with Cindy Marin of a small software company (currently 3 people) called catwizard.io. Cindy recently did a workshop in Women Tech Makers Barcelona 2018 about JHipster, and I wanted to say a...","categories": [],
+        "tags": ["story"],
+        "url": "http://localhost:4000/2018/06/09/jhipster-thanks-2.html"
+      },{
         "title": "Chocolate Chip Cookies",
         "excerpt":"A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient. The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as...","categories": [],
         "tags": [],
