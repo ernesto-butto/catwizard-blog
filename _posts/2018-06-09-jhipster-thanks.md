@@ -1,6 +1,6 @@
 ---
-title: "A thank you letter to the Jhipster Team 2"
-excerpt: "How this amazing opensource project impacted our lives 2"
+title: "A thank you letter to the Jhipster Team"
+excerpt: "How this amazing opensource project impacted our lives "
 tags: 
   - story
 author: ernesto
