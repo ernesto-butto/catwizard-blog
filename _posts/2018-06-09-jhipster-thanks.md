@@ -1,5 +1,13 @@
+---
+title: "A thank you letter to the JHipster Team"
+excerpt: "How this amazing opensource project impacted our lives "
+tags: 
+  - story
+author: ernesto
 
-*Thank you letter to [Julien Dubois](https://twitter.com/juliendubois) and the [Jhipster Team](https://twitter.com/java_hipster)* 
+---
+
+*Thank you letter to [Julien Dubois](https://twitter.com/juliendubois) and the [JHipster Team](https://twitter.com/java_hipster)* 
 
 Hello!
 
