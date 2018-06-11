@@ -17,10 +17,8 @@ This comes as a way of thanking the JHipster team for making this platform. I fi
 
 We have been working together for 11 years now. Cindy and I are both originally from Venezuela. We started a software company there that now days is called [catwizard.io](http://www.catwizard.io)  (originally Bambu Soluciones). After getting our degrees in Computer Engineering, we started our professional path as software developers while also starting a company. Being programmers and entrepeneurs. During those early days we were many, not just Cindy and I. We met our first partner, he had the idea of a building an online product catalog solution for a specific industry and a Content Management System to go with it. He sold us that he could sell it and he would become a suporter and mentor for the startup years. 
 
-A friend recomended Spring as the backend, we figured Adobe Flex is the future in the front end... We, young and enthusiastic as we were for anything that sounded fancy and productive, followed. So we coded, we build, we sold. It worked! Kinda…
+A friend recomended Spring as the backend, we figured Adobe Flex is the future in the front end... We, young and enthusiastic as we were for anything that sounded fancy and productive, followed. So we coded, we build, we sold. It worked! Kinda… 
 
-{% include responsive-embed url="https://www.youtube.com/watch?v=56JzI3UxwfM" ratio="16:9" %}
-  
   It was all growing slowly but surely as we became incrementally better in the technical and business front. We were learning how to be a company rather than a team, how to be profitable, how to manage money and time, while at the same learning how to write better code, how to manage ourselves as programmers. We learned to hire and to teach, we gave and took, and in the process we met our third team member that has been working with us since then Fatima Pestana, data driven engineer with a taste for CSS and helping customers to achieve their goals. 
   
   It was like setting up the foundations of a house, sure it was slow, but whatever we were building, it was growing steady and strong. Then Venezuela happened. Economy and personal security levels went in a steep decline. Shortages of basic stuff began (toilet paper, eggs, legumes, milk, etc…) while crime rates went dramatically up. Saddened, we started to think about leaving. What future could we have in these circumstances? Then again: how do you leave behind all that you’ve built for years? How do you leave all your promises to your customers and to yourself? How do you just get on a plane, and... start from scratch? A small decision. To get through a door, to get on a car, to give a final hug, and your habits and definitions and reminders of who you are, in a instant, puff...
@@ -78,3 +76,9 @@ By this point you must know that every technology in JHipster has a reason to be
 ![Jhipster Generator Monitor Screen]({{ "/assets/images/jhip4.png"}})
 
 Again, JHipster was a fundamental solution during a very hard time of our lives, and it is now a fundamental part of our learning, our processes as developers and our processes as business owners. What else can I say but thank you.
+
+
+
+**Links:** 
+- [This is the JHipster website](https://www.jhipster.tech/)  
+- For any one who is curius, where is a [2012 video of Adobe Flex Catwizard ](https://www.youtube.com/watch?v=56JzI3UxwfM)  
