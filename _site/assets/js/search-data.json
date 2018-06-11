@@ -1,7 +1,7 @@
 var store = [{
-        "title": "A thank you letter to the Jhipster Team",
+        "title": "Jhipster Thanks",
         "excerpt":"Thank you letter to Julien Dubois and the Jhipster Team Hello! My name is Ernesto Buttó, I’m Co-Funder with Cindy Marin of a small software company (currently 3 people) called catwizard.io. Cindy recently did a workshop in Women Tech Makers Barcelona 2018 about JHipster, and I wanted to say a...","categories": [],
-        "tags": ["story"],
+        "tags": [],
         "url": "http://localhost:4000/2018/06/09/jhipster-thanks.html"
       },{
         "title": "Chocolate Chip Cookies",
