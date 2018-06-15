@@ -64,7 +64,7 @@ I can recommend 100% JHipster to anyone who is on the path of learning about Jav
 
 Recently I was learning and implementing docker, and we have a real use case of a company that has two monolith applications that work together communicating through their JSON API’s. I wasn’t sure if this was right, or common or if there are ways of packaging them. Came again JHipster. In the Docker section of the documentation I found this gem:
 
-If your architecture is composed of several JHipster applications, you can use the specific docker-compose sub-generator, which will generate a global Docker Compose configuration for all selected applications…
+> If your architecture is composed of several JHipster applications, you can use > the specific docker-compose sub-generator, which will generate a global Docker > Compose configuration for all selected applications…
 
 Ooohh!! So it’s ok! It's OK. They don’t have to be microservices to connect. And look at the docker-compose files! Certainly, we can start from here...!
 
