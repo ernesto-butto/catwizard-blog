@@ -75,4 +75,4 @@ By this point, you must know that every technology in JHipster has a reason to b
 **Example of generated monitor screen** 
 ![Jhipster Generator Monitor Screen]({{ "/assets/images/jhip4.png"}})
 
-Again, JHipster was a fundamental solution during a very hard time of our lives, and it is now a fundamental part of our learning, our processes as developers and our processes as business owners. What else can I say but thank you.
+Again, JHipster was a fundamental solution during a very hard time of our lives, and it is now a fundamental part of our learning, our processes as developers and our processes as service providers. What else can I say but thank you.
