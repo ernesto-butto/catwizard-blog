@@ -19,7 +19,7 @@ We have been working together for 11 years now. Cindy and I are both originally 
 
 A friend recomended Spring as the backend, we figured Adobe Flex is the future in the front end... We, young and enthusiastic as we were for anything that sounded fancy and productive, followed. So we coded, we build, we sold. It worked! Kinda… 
 
-## Learning about Code, Buisiness and Market
+## Learning about Code, Business and Market
   It was all growing slowly but surely as we became incrementally better in the technical and business front. We were learning how to be a company rather than a team, how to be profitable, how to manage money and time, while at the same learning how to write better code, how to manage ourselves as programmers. We learned to hire and to teach, we gave and took, and in the process, we met the third team member that has been working with us since then Fatima Pestana, data engineer with a taste for CSS and helping customers to achieve their goals. 
   
   It was like setting up the foundations of a house, sure it was slow, but whatever we were building, it was growing steady and strong. Then Venezuela happened. Economy and personal security levels went in a steep decline. Shortages of basic stuff began (toilet paper, eggs, legumes, milk, etc…) while crime rates went dramatically up. Saddened, we started to think about leaving. What future could we have in these circumstances? Then again: how do you leave behind all that you’ve built for years? How do you leave all your promises to your customers and to yourself? How do you just get on a plane, and... start from scratch? A small decision. To get through a door, to get on a car, to give a final hug, and your habits and definitions and reminders of who you are, in an instant, puff...
@@ -34,7 +34,7 @@ But Venezuela kept happening. As the country tumbled, many of our customers were
 
 So what could we do? We can work remotely, ok, but most (not all) of our clients were closing shop, and nobody outside of Venezuela knew us. We figured that we could work on custom developments and consulting, primarily to costumers in the USA that we already had bonds with. Strengthen our relationships, you know. Improve our delivery times and features compliance, become competitive, while not forgetting about those in Venezuela that still relied upon us and somehow managed to stay afloat. 
 
-## Digital Nomads ?
+## Digital Nomads vs Giving Up
 After living on the road for a few months, while being a consulting company and traveling to several countries (living the remote life, hooray!), including Colombia, Peru, Chile, Sicily, we decided to settle ourselves for a while in warm, sunny Spain, in a small city close to Barcelona called Girona. It was working great! We had challenges but we had freedom, we had stress but also relief. Responsibilities but also a taste of peace of mind, and less loud worries about politics or tragically, toilet paper (and I do mean less loud …family and friends are still there). We had left our home, but we were finally feeling like were building a new one.
   
 Almost immediately after taking our first breath in our first Spanish flat, we were thrown into a very stressful situation. We accepted a project that was going to affect a core process of our main customers in the USA while a new opportunity involving a mobile app connecting via Bluetooth to an electric skateboard arose (stoked!).  We had very little time, and a very limited budget to handle it all.
