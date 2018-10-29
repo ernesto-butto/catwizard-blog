@@ -4,6 +4,11 @@ var store = [{
         "tags": ["story"],
         "url": "http://blog.catwizard.io/2018/06/09/jhipster-thanks.html"
       },{
+        "title": "The meaning of life for a software professional",
+        "excerpt":"I want to talk about the meaning of life, about how I’m working towards finding it through my work and to share my journey. Hopefully, it helps someone in some unforeseen way, worst case it helps me explore myself. My wife and I have run a small Software Consulting Development...","categories": [],
+        "tags": ["story","meaning of life","lingostand","software"],
+        "url": "http://blog.catwizard.io/2018/10/22/meaning.html"
+      },{
         "title": "Chocolate Chip Cookies",
         "excerpt":"A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient. The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as...","categories": [],
         "tags": [],

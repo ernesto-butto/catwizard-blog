@@ -12,6 +12,19 @@ Run locally with `bundle exec jekyll serve`
 
 Added custom domain using the A records method here: https://help.github.com/articles/setting-up-an-apex-domain/
 
+I created a local command to update content:
+
+```
+alias reloadBlogCatwOroku='dev "cd /home/development/production/catwBlog/catwizard-blog/_site && git pull"'
+```
+To avoid requiring to authenticate in github for each pull, in the server I ran:
+
+```
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=31536000'
+```
+
+
 To start on server go to server and run
 
 `blogServerStart`. This runs the following alias in the server:
