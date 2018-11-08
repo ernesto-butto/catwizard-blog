@@ -9,6 +9,16 @@ var store = [{
         "tags": ["story","meaning of life","lingostand","software"],
         "url": "http://blog.catwizard.io/2018/10/22/meaning.html"
       },{
+        "title": "LingoStand Post 1",
+        "excerpt":"LingoStand mission is to help users attain communication level in a new language as quickly as possible or to take their current level, test it and enhance it. It does this by assisting the user to practice and learn the most used words in a language on its real context....","categories": [],
+        "tags": ["learn language","lingostand","software"],
+        "url": "http://blog.catwizard.io/2018/11/07/lingostand_1.html"
+      },{
+        "title": "Software Integrations",
+        "excerpt":"A back story My wife and I came out of the dentist office. She went for a check-in but ended up druged, operated, and desoriented. “Make sure she takes this drug in the next hour or so, else the pain will bring her to tears once the sedative wears off,...","categories": [],
+        "tags": ["PIM / MDM","Software Integration","software"],
+        "url": "http://blog.catwizard.io/2018/11/08/integrations.html"
+      },{
         "title": "Chocolate Chip Cookies",
         "excerpt":"A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient. The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as...","categories": [],
         "tags": [],

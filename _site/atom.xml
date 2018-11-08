@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://blog.catwizard.io/atom.xml" rel="self" type="application/atom+xml" /><link href="http://blog.catwizard.io/" rel="alternate" type="text/html" /><updated>2018-11-05T12:50:03+01:00</updated><id>http://blog.catwizard.io/</id><title type="html">Catwizard Blog</title><subtitle>A place to tell our stories.</subtitle><author><name>Ernesto Butto</name></author><entry><title type="html">The meaning of life for a software professional</title><link href="http://blog.catwizard.io/2018/10/22/meaning.html" rel="alternate" type="text/html" title="The meaning of life for a software professional" /><published>2018-10-22T00:00:00+02:00</published><updated>2018-10-22T00:00:00+02:00</updated><id>http://blog.catwizard.io/2018/10/22/meaning</id><content type="html" xml:base="http://blog.catwizard.io/2018/10/22/meaning.html">&lt;p&gt;I want to talk about the meaning of life, about how I’m working towards finding it through my work and to share my journey. Hopefully, it helps someone in some unforeseen way, worst case it helps me explore myself.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://blog.catwizard.io/atom.xml" rel="self" type="application/atom+xml" /><link href="http://blog.catwizard.io/" rel="alternate" type="text/html" /><updated>2018-11-08T12:22:36+01:00</updated><id>http://blog.catwizard.io/</id><title type="html">Catwizard Blog</title><subtitle>A place to tell our stories.</subtitle><author><name>Ernesto Butto</name></author><entry><title type="html">Software Integrations</title><link href="http://blog.catwizard.io/2018/11/08/integrations.html" rel="alternate" type="text/html" title="Software Integrations" /><published>2018-11-08T00:00:00+01:00</published><updated>2018-11-08T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/11/08/integrations</id><content type="html" xml:base="http://blog.catwizard.io/2018/11/08/integrations.html">&lt;h2 id=&quot;a-back-story&quot;&gt;A back story&lt;/h2&gt;
+&lt;p&gt;My wife and I came out of the dentist office. She went for a check-in but ended up druged, operated, and desoriented.&lt;/p&gt;
+
+&lt;p&gt;“Make sure she takes this drug in the next hour or so, else the pain will bring her to tears once the sedative wears off, there is a pharmacy right in front of the building, but you know, lately patient have told me the drug is hard to find”&lt;/p&gt;
+
+&lt;p&gt;The drug was a common one, but our political situation was starting to be uncommon. We went to the pharmacy, no luck, then to the next one… same luck.&lt;/p&gt;
+
+&lt;p&gt;Time is running out… “Use the web page we developed for god’s sake!! It’s starting to hurt!!”… Riiiight, I had forgot about that one.&lt;/p&gt;
+
+&lt;h2 id=&quot;developing-integrations-exp&quot;&gt;Developing Integrations Exp&lt;/h2&gt;
+&lt;p&gt;About 8 years ago, we were asked to estimate, develop and implement a module to our in-house made web product catalog system so it would integrate with ours customers inventory systems, they have a bunch of stores all over my home city, Caracas - Venezuela.&lt;/p&gt;
+
+&lt;p&gt;They are a pharmacy, and the motivation behind the online system was to save customers time and money, by giving them price and availability information with a 20 minutes delay providing them with better service vs the 24 hours delay of the competition back then.&lt;/p&gt;
+
+&lt;p&gt;Over time, and while the scarcity of medicines and other products increased, this channel transformed the buisiness making it the priority over the conventional printed catalog, helped a lot of people including myself to find their medicine, and was responsible for giving meaning and direction to our team and the evolution of that software&lt;/p&gt;
+
+&lt;p&gt;We ended up integrating warehouse information from international companies, and doing consulting for integrating information for health clubs.&lt;/p&gt;
+
+&lt;p&gt;The integration problem is not a new one, it’s always been there. You have information in different systems about users, products and other entities, and they are in seperate system across the company.&lt;/p&gt;
+
+&lt;p&gt;“Hello sir! We will provide the information in a few days, the information about stock is in the warehouse accounting system, the new arrivals in the purchasing, and your quote will have to be handled by X. Will inform you as soon as we can”&lt;/p&gt;
+
+&lt;p&gt;This service was ok a few years back, but todays users, both consumers and B2B, expect faster responses, expect Amazon service, they want the information, and they want it now, to make their desicion, which needs to be made this morning, and they need it accurate.&lt;/p&gt;
+
+&lt;p&gt;On-time information is simply more valuable then ever.&lt;/p&gt;
+
+&lt;p&gt;Integration between systems to provide unified views is a common problem that traditionally only enterprises were able to address: to be able to provide an unified view of information that is usually scattered across systems.&lt;/p&gt;
+
+&lt;h2 id=&quot;saas-complexity-and-small-buisiness&quot;&gt;SaaS Complexity and small buisiness&lt;/h2&gt;
+
+&lt;p&gt;Now, on top of this,&lt;/p&gt;</content><author><name>Ernesto Butto</name><email>ernesto@catwizard.io</email></author><category term="PIM / MDM" /><category term="Software Integration" /><category term="software" /><summary type="html">Software Integrations</summary></entry><entry><title type="html">LingoStand Post 1</title><link href="http://blog.catwizard.io/2018/11/07/lingostand_1.html" rel="alternate" type="text/html" title="LingoStand Post 1" /><published>2018-11-07T00:00:00+01:00</published><updated>2018-11-07T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/11/07/lingostand_1</id><content type="html" xml:base="http://blog.catwizard.io/2018/11/07/lingostand_1.html">&lt;p&gt;LingoStand mission is to help users attain communication level in a new language as quickly as possible or to take their current level, test it and enhance it.&lt;/p&gt;
+
+&lt;p&gt;It does this by assisting the user to practice and learn the most used words in a language on its real context.&lt;/p&gt;
+
+&lt;p&gt;Of all the millions of words on a language, you only need to understand a small set to be able to communicate and learn how to use them in real life.&lt;/p&gt;
+
+&lt;p&gt;Native speakers with a low education level do not know a big set of words. But they only need a small group of words to be able to communicate. If you go surfing in Venezuela, you need only to speak with native fishermen, and you can communicate using a small word set.&lt;/p&gt;
+
+&lt;p&gt;It’s been proven multiple times that to learn faster, is better for you to use content that you are really interested in, because you practice with more often, with intention and interest. For this reason, we are constantly updating our library with new trending articles as well as classic books and stories.&lt;/p&gt;
+
+&lt;p&gt;We are constantly re-inventing our interface and technology around these goals.&lt;/p&gt;</content><author><name>Ernesto Butto</name><email>ernesto@catwizard.io</email></author><category term="learn language" /><category term="lingostand" /><category term="software" /><summary type="html">Why Lingostand</summary></entry><entry><title type="html">The meaning of life for a software professional</title><link href="http://blog.catwizard.io/2018/10/22/meaning.html" rel="alternate" type="text/html" title="The meaning of life for a software professional" /><published>2018-10-22T00:00:00+02:00</published><updated>2018-10-22T00:00:00+02:00</updated><id>http://blog.catwizard.io/2018/10/22/meaning</id><content type="html" xml:base="http://blog.catwizard.io/2018/10/22/meaning.html">&lt;p&gt;I want to talk about the meaning of life, about how I’m working towards finding it through my work and to share my journey. Hopefully, it helps someone in some unforeseen way, worst case it helps me explore myself.&lt;/p&gt;
 
 &lt;p&gt;My wife and I have run a small Software Consulting Development company for years, but we are in transition to becoming an Independent Software development company or studio.&lt;/p&gt;
 
@@ -6,31 +46,34 @@
 
 &lt;p&gt;I’m also a book addict, specially self-help book addict, especially to practical books…  I really like testable information. Read, analyze, test, do it again.&lt;/p&gt;
 
-&lt;p&gt;Something I like about software and self-help books is how both can change the current course of your life. For me, the code in both sources contains real magic, assuming they posses real value.&lt;/p&gt;
+&lt;p&gt;Something I like about software and self-help books is how both can change the current course of your life. For me, the code in both sources contains real magic, assuming they are one of the good ones.&lt;/p&gt;
 
 &lt;p&gt;I can read a book, and if it’s the right book at the right time it can transform my life forever.&lt;/p&gt;
 
 &lt;p&gt;To accomplish this, I need to take the time to read it slowly, allowing the information to take a hold a little each day in me, like a plant you water and it slowly starts to grow, changing my thoughts, my believes, my habits and finally my circumstances. They can be a transformative experience.&lt;/p&gt;
 
-&lt;p&gt;Take Allen Carr’s Easy Way to Stop Smoking for example, man talk about a good investment!! I smoked a lot since I was 15 years old up to 36, and the few attempts I had made of quitting were pathetic. A few months and then I was back. After reading that book a bit each day, I developed a complete rejection for a cigarette. 2 years have passed and I can’t stand the smell of it, I respond to it like a non-smoker kid.&lt;/p&gt;
+&lt;h2 id=&quot;from-quiting-to-healing-back-backpain-to-finding-meaning&quot;&gt;From quiting, to healing back backpain, to finding meaning&lt;/h2&gt;
+&lt;p&gt;Take Allen Carr’s Easy Way to Stop Smoking for example, man talk about a good investment!! I smoked a lot since I was 15 years old up to 36, and the few attempts I had made of quitting were pathetic. A few months and then I was back. After reading that book a bit each day, I developed a complete rejection for a cigarette. 2 years have passed and I can’t stand the smell of it, I respond to it like a non-smoker would.&lt;/p&gt;
 
-&lt;p&gt;It is one thing to fight a bad habit with willpower “one day at the time”, and another one entirely to re-write your programming to reject it not needing willpower at all. You just can’t stand the smell. What did the book say? What was the revolutionary message? Smoking is bad for you health, your economy, your self confidence… etc… I had offcourse heard the messages before, but it was written is such a way that if you consumed about 30 minutes each day of the book, by the end of it I really belived the message, it was part of my unconscious. At some point in the reading and then experimenting my life something clicked, I made a desicion, and from that instant I felt a rejection for cigarettes.&lt;/p&gt;
+&lt;p&gt;It is one thing to fight a bad habit with willpower “one day at the time”, and another one entirely to re-write your programming to reject it not needing willpower at all. If you reprogarm yourself correctly, you just can’t stand the smell, no will power needed. What did the book say? What was the revolutionary message? Smoking is bad for you health, your economy, your self confidence… etc… I had offcourse heard the messages before, but it was written in such a way that if you consumed about 30 minutes each day of the book, by the end of it I really belived the message, it was part of my unconscious. At some point in the reading and real life observation cycle something clicked, I made a desicion, and from that instant I felt a rejection for cigarettes.&lt;/p&gt;
 
 &lt;p&gt;Another practical example is John Sarno’s Healing Back Pain book. I had a recurrent and very painful back spasms since 2012 until May 2017. Every 2 or 3 months my back got stiff, and every move in any direction was a world of pain. If I layed out and took anti-inflammatory medicine, in the course of a week I would be able to move again and pretend that nothing happened and I was ok. The first time I got it I was doing longboarding in Caracas and suddenly PAF… had to sit on the sidewalk and walk back home moving like a robot.&lt;/p&gt;
 
-&lt;p&gt;I did not want to go to the doctors, I was afraid they would give the pain a name and made the problem permanent. I’ve lost many outdoors activities buddies due to back pain diagnosis. Doctors do the best they can generally, but I learned through experience that an error in the diagnosis can condition and even create an issue.&lt;/p&gt;
+&lt;p&gt;I did not want to go to the doctors, I was afraid they would give the pain a name and made the problem permanent. I’ve lost many outdoors activities buddies due to back pain diagnosis. Doctors do the best they can generally, but I learned through experience that an error in the diagnosis can condition oneself to always being sick, and even create an issue where there was none.&lt;/p&gt;
 
 &lt;p&gt;Read the book in May 2017 after a very shameful episode at the CrossFit box, again a few pages each day, and well, no more episodes until now (November 2018). Again, abut 30 minutes a day, my thoughs started to change, the pain started to change slowly, until one day I made a life desicion and started to act accordingly and the pain was gone (turns out having internal conflicts causes all kinds of physicall pains).&lt;/p&gt;
+
+&lt;h2 id=&quot;software-and-search-for-meaning&quot;&gt;Software and Search for Meaning.&lt;/h2&gt;
 
 &lt;p&gt;I could go on and on about all these books, and how they are continually shaping my life, but let’s focus on the main subject of this message: Meaning of Life. And for that, I’ll reference a book that contains something very special: Viktor Frankl’s Man’s Search for Meaning.&lt;/p&gt;
 
 &lt;p&gt;As I said I favor tested practical content above theorists, and this one is tested in one of the most extreme environments ever produced in the history of mankind… Hitler’s concentration camps.&lt;/p&gt;
 
-&lt;p&gt;The fact that the author (who was one of the prisoners) illustrated in crude hardcore HD that physically strong people had far less chance of survival than educated people who were able to give their life meaning baffled me.&lt;/p&gt;
+&lt;p&gt;The fact that the author (who was one of the prisoners) illustrated in crude hardcore HD that physically strong people had far less chance of survival than educated unathletic people who were able to give their life meaning baffled me.&lt;/p&gt;
 
 &lt;p&gt;The story of how people, when lost meaning entered a recognizable state that inevitably leads to death, made me wonder for days.&lt;/p&gt;
 
-&lt;p&gt;But one of the most incredible lesson was, that the meaning in your life is something you have to give to yourself. You have to make it up, make your own story, or borrow someone else’s and adjust it, do what you need to do to fabricate your reason to be in the world and then believe it, really believe it. And if you do, you will have a clear goal, and lot’s of energy to accomplish it.&lt;/p&gt;
+&lt;p&gt;But one of the most incredible lessons was, that the meaning in your life is something you have to give to yourself. You have to make it up, make your own story, or borrow someone else’s and adjust it, do what you need to do to fabricate your reason to be in the world and then believe it, really believe it. And if you do, you will have a clear goal, and lot’s of energy to accomplish it.&lt;/p&gt;
 
 &lt;p&gt;You will find solutions to problems, and grow stronger as your solve them. One thing I got from Victor Frankling is that those who had meaning not only survived the concentration camps, but they were able to have a full life afterwards. They did not turn to the dark side, but were able to have a good life themselves and contribute making the world better.&lt;/p&gt;
 
@@ -38,7 +81,8 @@
 
 &lt;p&gt;Take for example Magallanes and his crew, these guys actually did go around the world for the first time in history with equipments that shouldn’t have worked! First to America crossing the Atlantic, then discovered el canal de Magallanes mainly through believing that it existed without any proove, and then went and crossed the Pacific which was 3 times the lenght!! Compare them with todays astronauts that can pre plan the course… not taking anything out of our astronauts, I find them incredible, but they do have a bunch of thing estimated.&lt;/p&gt;
 
-&lt;p&gt;It’s not even important how big or important to others is this meaning, it only matters how big or important it is for you. Your world is what it’s really important. Viktor Frankl talked about people who’s meaning was taking care of their son, sharing time with his partner, or helping a friend that was in the camp. Others like Viktor were able to create more meaning, as a neurologist and psychiatrist, he saw himself comunicating the message of healing through meaning.&lt;/p&gt;
+&lt;h2 id=&quot;we-create-our-meaning-no-one-can-do-it-for-us&quot;&gt;We create our meaning, no one can do it for us.&lt;/h2&gt;
+&lt;p&gt;It’s not even important how big or important to others is this meaning, it only matters how big or important it is for you. Your world is what it’s really important. Viktor Frankl talked about people who’s meaning was taking care of their son, sharing time with his partner, or helping a friend that was in the camp. Others like Viktor were able to create other kinds of meaning, as a neurologist and psychiatrist, he saw himself comunicating the message of healing through meaning.&lt;/p&gt;
 
 &lt;p&gt;In other words, it is our job to find reasons to be excited about what we are doing.&lt;/p&gt;
 
@@ -48,7 +92,34 @@
 
 &lt;p&gt;The responsability side is the one you can use as an element to create your meaning, the side that let’s you collaborate with what you have to give, transform your expiriences and your skills and put it at service.&lt;/p&gt;
 
-&lt;p&gt;Viktor exemplifies how once meaning is lost, the persue of immediate pleasure takes over. This means extreme smoking, drugs, overeating, etc…&lt;/p&gt;
+&lt;h2 id=&quot;consecuences-of-no-meaning&quot;&gt;Consecuences of no Meaning&lt;/h2&gt;
+&lt;p&gt;Viktor exemplifies how once meaning is lost, the persue of immediate pleasure takes over. In concentration camps, it was a clear sign that someone gave up, and his time on this earth was a matter of hours&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;…a behavior pattern crystallized to which they referred as “give-up-itis.” In the concentration camps, this behavior was paralleled by those who one morning, at five, refused to get up and go to work and instead stayed in the hut, on the straw wet with urine and feces. Nothing—neither warnings nor threats—could induce them to change their minds. And then something typical occurred: they took out a cigarette from deep down in a pocket where they had hidden it and started smoking. At that moment we knew that for the next forty-eight hours or so we would watch them dying. Meaning orientation had subsided, and consequently the seeking of immediate pleasure had taken over.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is why, his conclusion, one he was able to test and put into practice during the war and for years after, is that meaning is our must important drive&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Life is not primarily a quest for pleasure, as Freud believed, or a quest for power, as Alfred Adler taught, but a quest for meaning.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hmmm, so what about the reward system that is so used now? You know, the incentive system that the best employers put a lot of effort into implementing, the psychological game that must be part of a good negotiation.&lt;/p&gt;
+
+&lt;p&gt;That reward system embeded in games, your instagram likes, the system to be hacked in your new diet, to contrarest the pleasure of sugar, and the pain of tasteless brocoli… Well this is what the extreme experiment reveals about it:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;…man’s main concern is not to gain pleasure or to avoid pain but rather to see a meaning in his life. That is why man is even ready to suffer, on the condition, to be sure, that his suffering has a meaning.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One important note!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But let me make it perfectly clear that in no way is suffering necessary to find meaning. I only insist that meaning is possible even in spite of suffering—provided, certainly, that the suffering is unavoidable. If it were avoidable, however, the meaningful thing to do would be to remove its cause, be it psychological biological or political. To suffer unnecessarily is masochistic rather than heroic.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;REVISE HASTA AQUI&lt;/p&gt;
 
 &lt;p&gt;So, after going through all that I was like…. ok, how can I contribute? How can I find meaning? They say that questions will focus your attention into finding answers… Because finding meaning is something I definelty want in my life.&lt;/p&gt;
 
