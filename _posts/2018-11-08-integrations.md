@@ -9,6 +9,8 @@ author: ernesto
 
 ---
 
+{% include toc %}
+
 ## The sacredness of time
 
 Man is ill equiped to manage time, however, time is the most important resource in your life, this is true also for your business and for everyone around you.
@@ -34,9 +36,6 @@ The drug was a common one, but our political and in consequence economical situa
 
 Time was running out, and then she grabed me and told me... "Use the web page we developed for god's sake!! It's starting to hurt!!"... Riiiight, I had forgotten about that one...
 
-## What is this article about?
-I'm going to share a simple integration experience first, so you can see that with a little integration everyone gets huge benefits. Then I'm going to talk about doing it step by step, and planning to get big benefits with each step, and finally, for those techies out there, and how I would approach the problem using the Jhipster platform.
-
 ## Our first Integrations Exp
 About 8 years ago, we were asked to estimate, develop and implement a module to our in-house made web software, an online web catalog system, so it would integrate with ours customers accounting systems, so users could get inventory information, pricing and marketing information such as the product picture on one screen... they have a bunch of stores all over my home city, Caracas - Venezuela, and each physical store had their own accounting system.
 
@@ -47,7 +46,7 @@ Farmaplus is a pharmacy, and the motivation behind the online system was to save
 
 It saved time to customers, to employess, gave useful information to laboratories, helped managers and gave piece of mind to stake holders.
 
-Over time, and while the scarcity of medicines and other products increased, this channel transformed the buisiness making it the priority over the conventional printed catalog, helped a lot of people including myself to find their medicine, and was responsible for giving meaning and direction to our team and the evolution of that software
+Over time, and while the scarcity of medicines and other products increased, this channel transformed the buisiness making it the priority over the conventional printed catalog, became a sales focus point, helped a lot of people including myself to find their medicine, and was responsible for giving meaning and direction to our team and the evolution of that software
 
 Years after we internotialized we kept working on integrations, connecting nationals and internationals companies eith all kinds of systems: CRM's such as saleforce, commercial websites, quoting systems, shopify implementations, accounting systems,  warehouses, health clubs, and more.
 
@@ -57,43 +56,33 @@ Decisions shape our reality, it creates our conditions, and that of our buisines
 
 Making the decision at the right time define our lives. But for making a good enough decision, we need key information, not all information! Just the right one.
 
-### What do P.I.M, M.D.M and B.I have in common?
+## Market Facts
 
-In a few words, they are all tools to centralize the data accross different systems and creating meaningfull views from them. Useful, time saving, smile givers, decision empowiring, wealth builders, views.
+- "Where are you going bro?", I asked my brother some years back as I watched him getting ready to paarrtyy!
+- "My company is throwing a party, it's going to be sick man!"
+- "Awesome! what are you guys celebrating?"
+- "It appears that after 3 years and millions of dollars, our company finally integrated sytems from different departaments! Everyone is very excited!"
 
-Last year, I did months of market research around product information and integration software. We had created a system over the years that solved many integrations issues and I was creating a business plan, thus I talked to a lot of software vendors, following the white rabbit.
+Yeah... brace yourself bro, it's going to get geeky. Market geeky, sku geeky.
 
-| MDM | Master Data Management          | Master Data is the consistent and uniform set of identifiers and extended attributes that describes the core entities of the enterprise including customers, prospects, citizens, supplier, sites, hierarchies and chart of accounts |
-| PIM | Product Information Management  | Central set of product data can be used to feed information to media (Website, catalogs, ERP, feeds)                                                                                                                         |
-| BI  | Business Intelligence           | Delivers relative and reliable information at the right people, at the right time, using methods and programs to collect and structure data, and presents it in a meaningful and actionable way.                             |
+Last year, I did months of market research around product information and integration software. We had created a system over the years that solved many integrations issues. We decided to create a business plan for evaluation, thus I talked to a lot of software vendors, following the white rabbit into a deep rabit hole.
 
+Here are some facts I pulled out from the research that might hopefully prompt you to take some kind of action:
 
+1- By 2015, 64% percent of adults in the USA buy online because the products presented there have more precise information than in stores. (Source: Forrester 2016: Product Information Management Solutions, Q4 2016). This strategy seems to work, according to [statista.com](https://www.statista.com/topics/2477/online-shopping-behavior/), retail e-commerce sales worldwide are forecast to nearly double between 2016 and 2020.
 
-### Customers Demand Content
-For this reason customers expect rich, relevant, continually updated content to help them through each step of the customer journey, regardless of purchase touchpoint.
+2- InRiver, one of the many integration software vendors, claims that they have an annual growth rate (CAGR) of %70. I did check other vendors data, and all of them have growned big time.
 
+87% de lideres de data y análisis ya implementaron o estan planeando implementar o expandir en PIM para la calidad de sus datos y gobernanza. Porque ? Manejar contenido en hojas de cálculo y repositorios separados de información es insostenible.
 
-### Grow Market Share through fast and relevant marketing
-It has been proven long ago that the way to grow your market share is with great customer experiences. Systems integrations allows 
+3- 87% of data liders and analysts implemented or are planing to implement or expand on PIM (Software Integration for Products). Why? Managing spreadsheet and separated systems is not sustainable. (Source: Vendor Landscape: Product Information Management (PIM), Q3 2017)
 
+4- In 2015, %67 of desicion makers related to infraestructure said that develop a complete strategy in the cloud was a high or critical priority. Additionally %56 projected an increase on investment in cloud services by the en of 2015. (Source: The Forrester WaveTM: Master Data Management, Q1 2016)
 
-To grow market share with great customer
-experiences, digital businesses must assess
-their merchandising and product management
-benchmarks and modernize their product
-information management processes and
-capabilities.
+5- Experiences in the B2C world increase B2B purchases, almost 75% say that buying from a web page is more convenient than buying to sales representatives when they buy products or services for work. (Source: PIM Is A Cornerstone Of Your Digital Business Why Customer-Obsessed Firms Need Product Information Management January 18, 2017)
 
-Find hidden opportunities in time to take action, correct unhealthy habbits, provide better service, be able to adapt to changes in an agile way.
 
 ## Systems Integrations, an increasing focus point for buisinesses
-
-- "Where are you going bro?", I asked my brother some years back as I watched him getting ready.
-- "My company is throwing a party, it's going to be sick!"
-- "Awesome! what are you guys celebrating?"
-- "It appears that after 3 years and millions of dollars, our company finally integrated sytems from different departaments"
-
-Yeah... brace yourself bro, it's going to get SKU geeky.
 
 The integration problem is not a new one, it's always been there. You have information in different systems about users, products and other entities, and they are in seperate system across the company. Marketing need to know about costs to make a quote, or price a product, meanwhile at the warehouse, people are looking for availability of variations for product Boston Round... can't the sales people send the SKU number?
 
@@ -106,6 +95,7 @@ Amazon raised the bar, Enterprises started to invest in this integration sytems 
 On-time information is simply more valuable then ever. It will define you as a service provider. A customer can make a desicion now to choose you if they have the information, and will choose the one who can give it to them sooner, even if you got better prices and other conditions, if the information is late your customer might have already decided.
 
 Integration between systems to provide unified views is a common problem that only traditionally enterprises were able to address: to be able to provide an unified view of information that is usually scattered across systems. 
+
 
 ## Understanding small business SaaS situation
 
@@ -128,7 +118,35 @@ But, as a small buisiness grows, and grows on top of different SaaS software, th
 
 And you have some systems that are traditionally inside your company. You already got that working, and the investment payed out a long time ago...
 
-## Product Information Management and Master Data
+## What do P.I.M, M.D.M and B.I have in common?
+
+In short, they are all tools to centralize the data accross different systems and creating meaningfull views from them. Useful, time saving, smile givers, decision empowering, wealth builders, information in view format.
+
+| MDM | Master Data Management          | Master Data is the consistent and uniform set of identifiers and extended attributes that describes the core entities of the enterprise including customers, prospects, citizens, supplier, sites, hierarchies and chart of accounts |
+| PIM | Product Information Management  | Central set of product data can be used to feed information to media (Website, catalogs, ERP, feeds)                                                                                                                         |
+| BI  | Business Intelligence           | Delivers relative and reliable information at the right people, at the right time, using methods and programs to collect and structure data, and presents it in a meaningful and actionable way.                             |
 
 
 
+
+
+### Customers Demand Content
+For this reason customers expect rich, relevant, continually updated content to help them through each step of the customer journey, regardless of purchase touchpoint.
+
+
+### Grow Market Share through fast and relevant marketing
+It has been proven long ago that the way to grow your market share is with great customer experiences. Systems integrations allows 
+
+
+To grow market share with great customer
+experiences, digital businesses must assess
+their merchandising and product management
+benchmarks and modernize their product
+information management processes and
+capabilities.
+
+Find hidden opportunities in time to take action, correct unhealthy habbits, provide better service, be able to adapt to changes in an agile way.
+
+
+## Donnation 
+If you liked this article and would want to see more, please

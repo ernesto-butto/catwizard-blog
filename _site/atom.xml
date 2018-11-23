@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://blog.catwizard.io/atom.xml" rel="self" type="application/atom+xml" /><link href="http://blog.catwizard.io/" rel="alternate" type="text/html" /><updated>2018-11-23T09:22:02+01:00</updated><id>http://blog.catwizard.io/</id><title type="html">Catwizard Blog</title><subtitle>A place to tell our stories.</subtitle><author><name>Ernesto Butto</name></author><entry><title type="html">Software Integrations and the sacredness of time</title><link href="http://blog.catwizard.io/2018/11/08/integrations.html" rel="alternate" type="text/html" title="Software Integrations and the sacredness of time" /><published>2018-11-08T00:00:00+01:00</published><updated>2018-11-08T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/11/08/integrations</id><content type="html" xml:base="http://blog.catwizard.io/2018/11/08/integrations.html">&lt;h2 id=&quot;the-sacredness-of-time&quot;&gt;The sacredness of time&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://blog.catwizard.io/atom.xml" rel="self" type="application/atom+xml" /><link href="http://blog.catwizard.io/" rel="alternate" type="text/html" /><updated>2018-11-23T11:35:49+01:00</updated><id>http://blog.catwizard.io/</id><title type="html">Catwizard Blog</title><subtitle>A place to tell our stories.</subtitle><author><name>Ernesto Butto</name></author><entry><title type="html">Software Integrations and the sacredness of time</title><link href="http://blog.catwizard.io/2018/11/08/integrations.html" rel="alternate" type="text/html" title="Software Integrations and the sacredness of time" /><published>2018-11-08T00:00:00+01:00</published><updated>2018-11-08T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/11/08/integrations</id><content type="html" xml:base="http://blog.catwizard.io/2018/11/08/integrations.html">&lt;div id=&quot;entry-table-of-contents&quot; class=&quot;toc-wrapper&quot;&gt;
+  &lt;h2 id=&quot;toc-toggle&quot; class=&quot;no_toc&quot;&gt;
+  Table of Contents &lt;i class=&quot;toc-toggle-icon fas fa-chevron-down&quot;&gt;&lt;/i&gt;
+&lt;/h2&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-sacredness-of-time&quot; id=&quot;markdown-toc-the-sacredness-of-time&quot;&gt;The sacredness of time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-back-story&quot; id=&quot;markdown-toc-a-back-story&quot;&gt;A back story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#our-first-integrations-exp&quot; id=&quot;markdown-toc-our-first-integrations-exp&quot;&gt;Our first Integrations Exp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#information-time-and-decisions&quot; id=&quot;markdown-toc-information-time-and-decisions&quot;&gt;Information, Time and Decisions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#market-facts&quot; id=&quot;markdown-toc-market-facts&quot;&gt;Market Facts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#systems-integrations-an-increasing-focus-point-for-buisinesses&quot; id=&quot;markdown-toc-systems-integrations-an-increasing-focus-point-for-buisinesses&quot;&gt;Systems Integrations, an increasing focus point for buisinesses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#understanding-small-business-saas-situation&quot; id=&quot;markdown-toc-understanding-small-business-saas-situation&quot;&gt;Understanding small business SaaS situation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-do-pim-mdm-and-bi-have-in-common&quot; id=&quot;markdown-toc-what-do-pim-mdm-and-bi-have-in-common&quot;&gt;What do P.I.M, M.D.M and B.I have in common?&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#customers-demand-content&quot; id=&quot;markdown-toc-customers-demand-content&quot;&gt;Customers Demand Content&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#grow-market-share-through-fast-and-relevant-marketing&quot; id=&quot;markdown-toc-grow-market-share-through-fast-and-relevant-marketing&quot;&gt;Grow Market Share through fast and relevant marketing&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#donnation&quot; id=&quot;markdown-toc-donnation&quot;&gt;Donnation&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&quot;the-sacredness-of-time&quot;&gt;The sacredness of time&lt;/h2&gt;
 
 &lt;p&gt;Man is ill equiped to manage time, however, time is the most important resource in your life, this is true also for your business and for everyone around you.&lt;/p&gt;
 
@@ -27,9 +49,6 @@
 
 &lt;p&gt;Time was running out, and then she grabed me and told me… “Use the web page we developed for god’s sake!! It’s starting to hurt!!”… Riiiight, I had forgotten about that one…&lt;/p&gt;
 
-&lt;h2 id=&quot;what-is-this-article-about&quot;&gt;What is this article about?&lt;/h2&gt;
-&lt;p&gt;I’m going to share a simple integration experience first, so you can see that with a little integration everyone gets huge benefits. Then I’m going to talk about doing it step by step, and planning to get big benefits with each step, and finally, for those techies out there, and how I would approach the problem using the Jhipster platform.&lt;/p&gt;
-
 &lt;h2 id=&quot;our-first-integrations-exp&quot;&gt;Our first Integrations Exp&lt;/h2&gt;
 &lt;p&gt;About 8 years ago, we were asked to estimate, develop and implement a module to our in-house made web software, an online web catalog system, so it would integrate with ours customers accounting systems, so users could get inventory information, pricing and marketing information such as the product picture on one screen… they have a bunch of stores all over my home city, Caracas - Venezuela, and each physical store had their own accounting system.&lt;/p&gt;
 
@@ -40,7 +59,7 @@
 
 &lt;p&gt;It saved time to customers, to employess, gave useful information to laboratories, helped managers and gave piece of mind to stake holders.&lt;/p&gt;
 
-&lt;p&gt;Over time, and while the scarcity of medicines and other products increased, this channel transformed the buisiness making it the priority over the conventional printed catalog, helped a lot of people including myself to find their medicine, and was responsible for giving meaning and direction to our team and the evolution of that software&lt;/p&gt;
+&lt;p&gt;Over time, and while the scarcity of medicines and other products increased, this channel transformed the buisiness making it the priority over the conventional printed catalog, became a sales focus point, helped a lot of people including myself to find their medicine, and was responsible for giving meaning and direction to our team and the evolution of that software&lt;/p&gt;
 
 &lt;p&gt;Years after we internotialized we kept working on integrations, connecting nationals and internationals companies eith all kinds of systems: CRM’s such as saleforce, commercial websites, quoting systems, shopify implementations, accounting systems,  warehouses, health clubs, and more.&lt;/p&gt;
 
@@ -50,57 +69,34 @@
 
 &lt;p&gt;Making the decision at the right time define our lives. But for making a good enough decision, we need key information, not all information! Just the right one.&lt;/p&gt;
 
-&lt;h3 id=&quot;what-do-pim-mdm-and-bi-have-in-common&quot;&gt;What do P.I.M, M.D.M and B.I have in common?&lt;/h3&gt;
-
-&lt;p&gt;In a few words, they are all tools to centralize the data accross different systems and creating meaningfull views from them. Useful, time saving, smile givers, decision empowiring, wealth builders, views.&lt;/p&gt;
-
-&lt;p&gt;Last year, I did months of market research around product information and integration software. We had created a system over the years that solved many integrations issues and I was creating a business plan, thus I talked to a lot of software vendors, following the white rabbit.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MDM&lt;/td&gt;
-      &lt;td&gt;Master Data Management&lt;/td&gt;
-      &lt;td&gt;Master Data is the consistent and uniform set of identifiers and extended attributes that describes the core entities of the enterprise including customers, prospects, citizens, supplier, sites, hierarchies and chart of accounts&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;PIM&lt;/td&gt;
-      &lt;td&gt;Product Information Management&lt;/td&gt;
-      &lt;td&gt;Central set of product data can be used to feed information to media (Website, catalogs, ERP, feeds)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;BI&lt;/td&gt;
-      &lt;td&gt;Business Intelligence&lt;/td&gt;
-      &lt;td&gt;Delivers relative and reliable information at the right people, at the right time, using methods and programs to collect and structure data, and presents it in a meaningful and actionable way.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;customers-demand-content&quot;&gt;Customers Demand Content&lt;/h3&gt;
-&lt;p&gt;For this reason customers expect rich, relevant, continually updated content to help them through each step of the customer journey, regardless of purchase touchpoint.&lt;/p&gt;
-
-&lt;h3 id=&quot;grow-market-share-through-fast-and-relevant-marketing&quot;&gt;Grow Market Share through fast and relevant marketing&lt;/h3&gt;
-&lt;p&gt;It has been proven long ago that the way to grow your market share is with great customer experiences. Systems integrations allows&lt;/p&gt;
-
-&lt;p&gt;To grow market share with great customer
-experiences, digital businesses must assess
-their merchandising and product management
-benchmarks and modernize their product
-information management processes and
-capabilities.&lt;/p&gt;
-
-&lt;p&gt;Find hidden opportunities in time to take action, correct unhealthy habbits, provide better service, be able to adapt to changes in an agile way.&lt;/p&gt;
-
-&lt;h2 id=&quot;systems-integrations-an-increasing-focus-point-for-buisinesses&quot;&gt;Systems Integrations, an increasing focus point for buisinesses&lt;/h2&gt;
+&lt;h2 id=&quot;market-facts&quot;&gt;Market Facts&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;“Where are you going bro?”, I asked my brother some years back as I watched him getting ready.&lt;/li&gt;
-  &lt;li&gt;“My company is throwing a party, it’s going to be sick!”&lt;/li&gt;
+  &lt;li&gt;“Where are you going bro?”, I asked my brother some years back as I watched him getting ready to paarrtyy!&lt;/li&gt;
+  &lt;li&gt;“My company is throwing a party, it’s going to be sick man!”&lt;/li&gt;
   &lt;li&gt;“Awesome! what are you guys celebrating?”&lt;/li&gt;
-  &lt;li&gt;“It appears that after 3 years and millions of dollars, our company finally integrated sytems from different departaments”&lt;/li&gt;
+  &lt;li&gt;“It appears that after 3 years and millions of dollars, our company finally integrated sytems from different departaments! Everyone is very excited!”&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Yeah… brace yourself bro, it’s going to get SKU geeky.&lt;/p&gt;
+&lt;p&gt;Yeah… brace yourself bro, it’s going to get geeky. Market geeky, sku geeky.&lt;/p&gt;
+
+&lt;p&gt;Last year, I did months of market research around product information and integration software. We had created a system over the years that solved many integrations issues. We decided to create a business plan for evaluation, thus I talked to a lot of software vendors, following the white rabbit into a deep rabit hole.&lt;/p&gt;
+
+&lt;p&gt;Here are some facts I pulled out from the research that might hopefully prompt you to take some kind of action:&lt;/p&gt;
+
+&lt;p&gt;1- By 2015, 64% percent of adults in the USA buy online because the products presented there have more precise information than in stores. (Source: Forrester 2016: Product Information Management Solutions, Q4 2016). This strategy seems to work, according to &lt;a href=&quot;https://www.statista.com/topics/2477/online-shopping-behavior/&quot;&gt;statista.com&lt;/a&gt;, retail e-commerce sales worldwide are forecast to nearly double between 2016 and 2020.&lt;/p&gt;
+
+&lt;p&gt;2- InRiver, one of the many integration software vendors, claims that they have an annual growth rate (CAGR) of %70. I did check other vendors data, and all of them have growned big time.&lt;/p&gt;
+
+&lt;p&gt;87% de lideres de data y análisis ya implementaron o estan planeando implementar o expandir en PIM para la calidad de sus datos y gobernanza. Porque ? Manejar contenido en hojas de cálculo y repositorios separados de información es insostenible.&lt;/p&gt;
+
+&lt;p&gt;3- 87% of data liders and analysts implemented or are planing to implement or expand on PIM (Software Integration for Products). Why? Managing spreadsheet and separated systems is not sustainable. (Source: Vendor Landscape: Product Information Management (PIM), Q3 2017)&lt;/p&gt;
+
+&lt;p&gt;4- In 2015, %67 of desicion makers related to infraestructure said that develop a complete strategy in the cloud was a high or critical priority. Additionally %56 projected an increase on investment in cloud services by the en of 2015. (Source: The Forrester WaveTM: Master Data Management, Q1 2016)&lt;/p&gt;
+
+&lt;p&gt;5- Experiences in the B2C world increase B2B purchases, almost 75% say that buying from a web page is more convenient than buying to sales representatives when they buy products or services for work. (Source: PIM Is A Cornerstone Of Your Digital Business Why Customer-Obsessed Firms Need Product Information Management January 18, 2017)&lt;/p&gt;
+
+&lt;h2 id=&quot;systems-integrations-an-increasing-focus-point-for-buisinesses&quot;&gt;Systems Integrations, an increasing focus point for buisinesses&lt;/h2&gt;
 
 &lt;p&gt;The integration problem is not a new one, it’s always been there. You have information in different systems about users, products and other entities, and they are in seperate system across the company. Marketing need to know about costs to make a quote, or price a product, meanwhile at the warehouse, people are looking for availability of variations for product Boston Round… can’t the sales people send the SKU number?&lt;/p&gt;
 
@@ -137,7 +133,47 @@ capabilities.&lt;/p&gt;
 
 &lt;p&gt;And you have some systems that are traditionally inside your company. You already got that working, and the investment payed out a long time ago…&lt;/p&gt;
 
-&lt;h2 id=&quot;product-information-management-and-master-data&quot;&gt;Product Information Management and Master Data&lt;/h2&gt;</content><author><name>Ernesto Butto</name><email>ernesto@catwizard.io</email></author><category term="PIM / MDM" /><category term="Software Integration" /><category term="software" /><summary type="html">Software Integrations</summary></entry><entry><title type="html">LingoStand Post 1</title><link href="http://blog.catwizard.io/2018/11/07/lingostand_1.html" rel="alternate" type="text/html" title="LingoStand Post 1" /><published>2018-11-07T00:00:00+01:00</published><updated>2018-11-07T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/11/07/lingostand_1</id><content type="html" xml:base="http://blog.catwizard.io/2018/11/07/lingostand_1.html">&lt;p&gt;LingoStand mission is to help users attain communication level in a new language as quickly as posible, and later to accelerate their current level specializing in a particular topic or area of interest.&lt;/p&gt;
+&lt;h2 id=&quot;what-do-pim-mdm-and-bi-have-in-common&quot;&gt;What do P.I.M, M.D.M and B.I have in common?&lt;/h2&gt;
+
+&lt;p&gt;In short, they are all tools to centralize the data accross different systems and creating meaningfull views from them. Useful, time saving, smile givers, decision empowering, wealth builders, information in view format.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;MDM&lt;/td&gt;
+      &lt;td&gt;Master Data Management&lt;/td&gt;
+      &lt;td&gt;Master Data is the consistent and uniform set of identifiers and extended attributes that describes the core entities of the enterprise including customers, prospects, citizens, supplier, sites, hierarchies and chart of accounts&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PIM&lt;/td&gt;
+      &lt;td&gt;Product Information Management&lt;/td&gt;
+      &lt;td&gt;Central set of product data can be used to feed information to media (Website, catalogs, ERP, feeds)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;BI&lt;/td&gt;
+      &lt;td&gt;Business Intelligence&lt;/td&gt;
+      &lt;td&gt;Delivers relative and reliable information at the right people, at the right time, using methods and programs to collect and structure data, and presents it in a meaningful and actionable way.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;customers-demand-content&quot;&gt;Customers Demand Content&lt;/h3&gt;
+&lt;p&gt;For this reason customers expect rich, relevant, continually updated content to help them through each step of the customer journey, regardless of purchase touchpoint.&lt;/p&gt;
+
+&lt;h3 id=&quot;grow-market-share-through-fast-and-relevant-marketing&quot;&gt;Grow Market Share through fast and relevant marketing&lt;/h3&gt;
+&lt;p&gt;It has been proven long ago that the way to grow your market share is with great customer experiences. Systems integrations allows&lt;/p&gt;
+
+&lt;p&gt;To grow market share with great customer
+experiences, digital businesses must assess
+their merchandising and product management
+benchmarks and modernize their product
+information management processes and
+capabilities.&lt;/p&gt;
+
+&lt;p&gt;Find hidden opportunities in time to take action, correct unhealthy habbits, provide better service, be able to adapt to changes in an agile way.&lt;/p&gt;
+
+&lt;h2 id=&quot;donnation&quot;&gt;Donnation&lt;/h2&gt;
+&lt;p&gt;If you liked this article and would want to see more, please&lt;/p&gt;</content><author><name>Ernesto Butto</name><email>ernesto@catwizard.io</email></author><category term="PIM / MDM" /><category term="Software Integration" /><category term="software" /><summary type="html">Software Integrations</summary></entry><entry><title type="html">LingoStand Post 1</title><link href="http://blog.catwizard.io/2018/11/07/lingostand_1.html" rel="alternate" type="text/html" title="LingoStand Post 1" /><published>2018-11-07T00:00:00+01:00</published><updated>2018-11-07T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/11/07/lingostand_1</id><content type="html" xml:base="http://blog.catwizard.io/2018/11/07/lingostand_1.html">&lt;p&gt;LingoStand mission is to help users attain communication level in a new language as quickly as posible, and later to accelerate their current level specializing in a particular topic or area of interest.&lt;/p&gt;
 
 &lt;p&gt;The first course helps the user to learn the meaning and usage of the most used words in a language on its real context.&lt;/p&gt;
 
