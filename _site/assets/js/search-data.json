@@ -10,12 +10,12 @@ var store = [{
         "url": "http://blog.catwizard.io/2018/10/22/meaning.html"
       },{
         "title": "LingoStand Post 1",
-        "excerpt":"LingoStand mission is to help users attain communication level in a new language as quickly as possible or to take their current level, test it and enhance it. It does this by assisting the user to practice and learn the most used words in a language on its real context....","categories": [],
+        "excerpt":"LingoStand mission is to help users attain communication level in a new language as quickly as posible, and later to accelerate their current level specializing in a particular topic or area of interest. The first course helps the user to learn the meaning and usage of the most used words...","categories": [],
         "tags": ["learn language","lingostand","software"],
         "url": "http://blog.catwizard.io/2018/11/07/lingostand_1.html"
       },{
-        "title": "Software Integrations",
-        "excerpt":"A back story My wife and I came out of the dentist office. She went for a check-in but ended up druged, operated, and desoriented. “Make sure she takes this drug in the next hour or so, else the pain will bring her to tears once the sedative wears off,...","categories": [],
+        "title": "Software Integrations and the sacredness of time",
+        "excerpt":"The sacredness of time Man is ill equiped to manage time, however, time is the most important resource in your life, this is true also for your business and for everyone around you. We long ago should have learned that it is the demand for capital, rather than the supply...","categories": [],
         "tags": ["PIM / MDM","Software Integration","software"],
         "url": "http://blog.catwizard.io/2018/11/08/integrations.html"
       },{

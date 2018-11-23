@@ -1,42 +1,151 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://blog.catwizard.io/atom.xml" rel="self" type="application/atom+xml" /><link href="http://blog.catwizard.io/" rel="alternate" type="text/html" /><updated>2018-11-08T12:22:36+01:00</updated><id>http://blog.catwizard.io/</id><title type="html">Catwizard Blog</title><subtitle>A place to tell our stories.</subtitle><author><name>Ernesto Butto</name></author><entry><title type="html">Software Integrations</title><link href="http://blog.catwizard.io/2018/11/08/integrations.html" rel="alternate" type="text/html" title="Software Integrations" /><published>2018-11-08T00:00:00+01:00</published><updated>2018-11-08T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/11/08/integrations</id><content type="html" xml:base="http://blog.catwizard.io/2018/11/08/integrations.html">&lt;h2 id=&quot;a-back-story&quot;&gt;A back story&lt;/h2&gt;
-&lt;p&gt;My wife and I came out of the dentist office. She went for a check-in but ended up druged, operated, and desoriented.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://blog.catwizard.io/atom.xml" rel="self" type="application/atom+xml" /><link href="http://blog.catwizard.io/" rel="alternate" type="text/html" /><updated>2018-11-23T09:22:02+01:00</updated><id>http://blog.catwizard.io/</id><title type="html">Catwizard Blog</title><subtitle>A place to tell our stories.</subtitle><author><name>Ernesto Butto</name></author><entry><title type="html">Software Integrations and the sacredness of time</title><link href="http://blog.catwizard.io/2018/11/08/integrations.html" rel="alternate" type="text/html" title="Software Integrations and the sacredness of time" /><published>2018-11-08T00:00:00+01:00</published><updated>2018-11-08T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/11/08/integrations</id><content type="html" xml:base="http://blog.catwizard.io/2018/11/08/integrations.html">&lt;h2 id=&quot;the-sacredness-of-time&quot;&gt;The sacredness of time&lt;/h2&gt;
+
+&lt;p&gt;Man is ill equiped to manage time, however, time is the most important resource in your life, this is true also for your business and for everyone around you.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We long ago should have learned that it is the demand for capital, rather than the supply thereof, which sets the limit to economic growth and activity&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And regarding people, we can always hire people, even though good people are hard to find.&lt;/p&gt;
+
+&lt;p&gt;But for time, no matter how high the demand, the supply will not go up. There is no price for it, and it can’t be stored in any way. Yesterday time is gone and it will never come back.&lt;/p&gt;
+
+&lt;p&gt;On top of that, everything requires time, it is the true and only universal condition. All work takes time, uses time, requires time.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;… Yet most people take for granted this unique, irreplaceable, and necessary resource. Nothing else, perhaps, distinguishes effective executives as much as their tender loving care of time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;However systems, if used correctly, are pockets of time, they can bring time wealth in your live, and by consequence to every part of your life and business, and system integrations and all their derivatives are one of the most proven ways of saving time to executives, employees, customers and providers.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-back-story&quot;&gt;A back story&lt;/h2&gt;
+&lt;p&gt;My wife and I came out of the dentist office. She went for a check-in but they had to operate, and ended up druged, and desoriented.&lt;/p&gt;
 
 &lt;p&gt;“Make sure she takes this drug in the next hour or so, else the pain will bring her to tears once the sedative wears off, there is a pharmacy right in front of the building, but you know, lately patient have told me the drug is hard to find”&lt;/p&gt;
 
-&lt;p&gt;The drug was a common one, but our political situation was starting to be uncommon. We went to the pharmacy, no luck, then to the next one… same luck.&lt;/p&gt;
+&lt;p&gt;The drug was a common one, but our political and in consequence economical situation was starting to be uncommon. We went to the pharmacy, no luck, then to the next one… same luck… none!&lt;/p&gt;
 
-&lt;p&gt;Time is running out… “Use the web page we developed for god’s sake!! It’s starting to hurt!!”… Riiiight, I had forgot about that one.&lt;/p&gt;
+&lt;p&gt;Time was running out, and then she grabed me and told me… “Use the web page we developed for god’s sake!! It’s starting to hurt!!”… Riiiight, I had forgotten about that one…&lt;/p&gt;
 
-&lt;h2 id=&quot;developing-integrations-exp&quot;&gt;Developing Integrations Exp&lt;/h2&gt;
-&lt;p&gt;About 8 years ago, we were asked to estimate, develop and implement a module to our in-house made web product catalog system so it would integrate with ours customers inventory systems, they have a bunch of stores all over my home city, Caracas - Venezuela.&lt;/p&gt;
+&lt;h2 id=&quot;what-is-this-article-about&quot;&gt;What is this article about?&lt;/h2&gt;
+&lt;p&gt;I’m going to share a simple integration experience first, so you can see that with a little integration everyone gets huge benefits. Then I’m going to talk about doing it step by step, and planning to get big benefits with each step, and finally, for those techies out there, and how I would approach the problem using the Jhipster platform.&lt;/p&gt;
 
-&lt;p&gt;They are a pharmacy, and the motivation behind the online system was to save customers time and money, by giving them price and availability information with a 20 minutes delay providing them with better service vs the 24 hours delay of the competition back then.&lt;/p&gt;
+&lt;h2 id=&quot;our-first-integrations-exp&quot;&gt;Our first Integrations Exp&lt;/h2&gt;
+&lt;p&gt;About 8 years ago, we were asked to estimate, develop and implement a module to our in-house made web software, an online web catalog system, so it would integrate with ours customers accounting systems, so users could get inventory information, pricing and marketing information such as the product picture on one screen… they have a bunch of stores all over my home city, Caracas - Venezuela, and each physical store had their own accounting system.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/integrations_1/farmaplus_2.png&quot; alt=&quot;farmaplus&quot; /&gt;
+(List of physical stores, green menas available, yellow there are a few left, red means not available)&lt;/p&gt;
+
+&lt;p&gt;Farmaplus is a pharmacy, and the motivation behind the online system was to save customers time, by giving them price and availability information based on inventory rotation with a 10 to 15 minutes delay, providing them with better service vs the 24 hours delay of the competition back then.&lt;/p&gt;
+
+&lt;p&gt;It saved time to customers, to employess, gave useful information to laboratories, helped managers and gave piece of mind to stake holders.&lt;/p&gt;
 
 &lt;p&gt;Over time, and while the scarcity of medicines and other products increased, this channel transformed the buisiness making it the priority over the conventional printed catalog, helped a lot of people including myself to find their medicine, and was responsible for giving meaning and direction to our team and the evolution of that software&lt;/p&gt;
 
-&lt;p&gt;We ended up integrating warehouse information from international companies, and doing consulting for integrating information for health clubs.&lt;/p&gt;
+&lt;p&gt;Years after we internotialized we kept working on integrations, connecting nationals and internationals companies eith all kinds of systems: CRM’s such as saleforce, commercial websites, quoting systems, shopify implementations, accounting systems,  warehouses, health clubs, and more.&lt;/p&gt;
 
-&lt;p&gt;The integration problem is not a new one, it’s always been there. You have information in different systems about users, products and other entities, and they are in seperate system across the company.&lt;/p&gt;
+&lt;h2 id=&quot;information-time-and-decisions&quot;&gt;Information, Time and Decisions&lt;/h2&gt;
 
-&lt;p&gt;“Hello sir! We will provide the information in a few days, the information about stock is in the warehouse accounting system, the new arrivals in the purchasing, and your quote will have to be handled by X. Will inform you as soon as we can”&lt;/p&gt;
+&lt;p&gt;Decisions shape our reality, it creates our conditions, and that of our buisiness and workplace.&lt;/p&gt;
 
-&lt;p&gt;This service was ok a few years back, but todays users, both consumers and B2B, expect faster responses, expect Amazon service, they want the information, and they want it now, to make their desicion, which needs to be made this morning, and they need it accurate.&lt;/p&gt;
+&lt;p&gt;Making the decision at the right time define our lives. But for making a good enough decision, we need key information, not all information! Just the right one.&lt;/p&gt;
 
-&lt;p&gt;On-time information is simply more valuable then ever.&lt;/p&gt;
+&lt;h3 id=&quot;what-do-pim-mdm-and-bi-have-in-common&quot;&gt;What do P.I.M, M.D.M and B.I have in common?&lt;/h3&gt;
 
-&lt;p&gt;Integration between systems to provide unified views is a common problem that traditionally only enterprises were able to address: to be able to provide an unified view of information that is usually scattered across systems.&lt;/p&gt;
+&lt;p&gt;In a few words, they are all tools to centralize the data accross different systems and creating meaningfull views from them. Useful, time saving, smile givers, decision empowiring, wealth builders, views.&lt;/p&gt;
 
-&lt;h2 id=&quot;saas-complexity-and-small-buisiness&quot;&gt;SaaS Complexity and small buisiness&lt;/h2&gt;
+&lt;p&gt;Last year, I did months of market research around product information and integration software. We had created a system over the years that solved many integrations issues and I was creating a business plan, thus I talked to a lot of software vendors, following the white rabbit.&lt;/p&gt;
 
-&lt;p&gt;Now, on top of this,&lt;/p&gt;</content><author><name>Ernesto Butto</name><email>ernesto@catwizard.io</email></author><category term="PIM / MDM" /><category term="Software Integration" /><category term="software" /><summary type="html">Software Integrations</summary></entry><entry><title type="html">LingoStand Post 1</title><link href="http://blog.catwizard.io/2018/11/07/lingostand_1.html" rel="alternate" type="text/html" title="LingoStand Post 1" /><published>2018-11-07T00:00:00+01:00</published><updated>2018-11-07T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/11/07/lingostand_1</id><content type="html" xml:base="http://blog.catwizard.io/2018/11/07/lingostand_1.html">&lt;p&gt;LingoStand mission is to help users attain communication level in a new language as quickly as possible or to take their current level, test it and enhance it.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;MDM&lt;/td&gt;
+      &lt;td&gt;Master Data Management&lt;/td&gt;
+      &lt;td&gt;Master Data is the consistent and uniform set of identifiers and extended attributes that describes the core entities of the enterprise including customers, prospects, citizens, supplier, sites, hierarchies and chart of accounts&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PIM&lt;/td&gt;
+      &lt;td&gt;Product Information Management&lt;/td&gt;
+      &lt;td&gt;Central set of product data can be used to feed information to media (Website, catalogs, ERP, feeds)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;BI&lt;/td&gt;
+      &lt;td&gt;Business Intelligence&lt;/td&gt;
+      &lt;td&gt;Delivers relative and reliable information at the right people, at the right time, using methods and programs to collect and structure data, and presents it in a meaningful and actionable way.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;It does this by assisting the user to practice and learn the most used words in a language on its real context.&lt;/p&gt;
+&lt;h3 id=&quot;customers-demand-content&quot;&gt;Customers Demand Content&lt;/h3&gt;
+&lt;p&gt;For this reason customers expect rich, relevant, continually updated content to help them through each step of the customer journey, regardless of purchase touchpoint.&lt;/p&gt;
+
+&lt;h3 id=&quot;grow-market-share-through-fast-and-relevant-marketing&quot;&gt;Grow Market Share through fast and relevant marketing&lt;/h3&gt;
+&lt;p&gt;It has been proven long ago that the way to grow your market share is with great customer experiences. Systems integrations allows&lt;/p&gt;
+
+&lt;p&gt;To grow market share with great customer
+experiences, digital businesses must assess
+their merchandising and product management
+benchmarks and modernize their product
+information management processes and
+capabilities.&lt;/p&gt;
+
+&lt;p&gt;Find hidden opportunities in time to take action, correct unhealthy habbits, provide better service, be able to adapt to changes in an agile way.&lt;/p&gt;
+
+&lt;h2 id=&quot;systems-integrations-an-increasing-focus-point-for-buisinesses&quot;&gt;Systems Integrations, an increasing focus point for buisinesses&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Where are you going bro?”, I asked my brother some years back as I watched him getting ready.&lt;/li&gt;
+  &lt;li&gt;“My company is throwing a party, it’s going to be sick!”&lt;/li&gt;
+  &lt;li&gt;“Awesome! what are you guys celebrating?”&lt;/li&gt;
+  &lt;li&gt;“It appears that after 3 years and millions of dollars, our company finally integrated sytems from different departaments”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Yeah… brace yourself bro, it’s going to get SKU geeky.&lt;/p&gt;
+
+&lt;p&gt;The integration problem is not a new one, it’s always been there. You have information in different systems about users, products and other entities, and they are in seperate system across the company. Marketing need to know about costs to make a quote, or price a product, meanwhile at the warehouse, people are looking for availability of variations for product Boston Round… can’t the sales people send the SKU number?&lt;/p&gt;
+
+&lt;p&gt;“Hello sir! Thank you for your quote request, we will give you an answer about your quote in a few days…” Yes, &lt;strong&gt;in a few days&lt;/strong&gt;, they have to make a few calls inside and outside the company to give the number.&lt;/p&gt;
+
+&lt;p&gt;This kind of service was ok a few years back, but todays users have a different standard, both consumers and B2B expect faster responses. To achieve this organization is not enough, automation is required.&lt;/p&gt;
+
+&lt;p&gt;Amazon raised the bar, Enterprises started to invest in this integration sytems 5 years ago, all users want the information &lt;strong&gt;now&lt;/strong&gt;, to make their desicion, they need the information, and they need accurate information.&lt;/p&gt;
+
+&lt;p&gt;On-time information is simply more valuable then ever. It will define you as a service provider. A customer can make a desicion now to choose you if they have the information, and will choose the one who can give it to them sooner, even if you got better prices and other conditions, if the information is late your customer might have already decided.&lt;/p&gt;
+
+&lt;p&gt;Integration between systems to provide unified views is a common problem that only traditionally enterprises were able to address: to be able to provide an unified view of information that is usually scattered across systems.&lt;/p&gt;
+
+&lt;h2 id=&quot;understanding-small-business-saas-situation&quot;&gt;Understanding small business SaaS situation&lt;/h2&gt;
+
+&lt;p&gt;Now days a new software model is already stablished, one that 10 years ago was unimaginable. Software as a Service (SaaS) is a model in which software is licensed on a subscription basis and is centrally hosted by another company.&lt;/p&gt;
+
+&lt;p&gt;Support, product updates, year licence, installations… all of this required a big budget to implement, now in your hands for $49,99&lt;/p&gt;
+
+&lt;p&gt;Think gmail or any other email provider for business. You get an awesome and otherwise very expensive product and service for a monthly fee, and you don’t have to worry about updates, hardware, maintainance, etc… Some examples of what a company might choose:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Freshbooks for accounting&lt;/li&gt;
+  &lt;li&gt;Salesforce as a CRM&lt;/li&gt;
+  &lt;li&gt;Shopify for web ecommerce&lt;/li&gt;
+  &lt;li&gt;MailChimp for marketing&lt;/li&gt;
+  &lt;li&gt;Wordpress for the webpage&lt;/li&gt;
+  &lt;li&gt;Cisco Webex for video meetings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This list grows and goes to different segments according to your industry. Gym Owner? Maybe you have something like VirtuaGym. Learning a language? maybe you are paying a monthly fee to memrise.&lt;/p&gt;
+
+&lt;p&gt;But, as a small buisiness grows, and grows on top of different SaaS software, the typycal problem of integration arises. You’re users demand better service, better service means better information, and to do that you need to integrate it. You have offcourse some systems that are now SaaS and in the cloud.&lt;/p&gt;
+
+&lt;p&gt;And you have some systems that are traditionally inside your company. You already got that working, and the investment payed out a long time ago…&lt;/p&gt;
+
+&lt;h2 id=&quot;product-information-management-and-master-data&quot;&gt;Product Information Management and Master Data&lt;/h2&gt;</content><author><name>Ernesto Butto</name><email>ernesto@catwizard.io</email></author><category term="PIM / MDM" /><category term="Software Integration" /><category term="software" /><summary type="html">Software Integrations</summary></entry><entry><title type="html">LingoStand Post 1</title><link href="http://blog.catwizard.io/2018/11/07/lingostand_1.html" rel="alternate" type="text/html" title="LingoStand Post 1" /><published>2018-11-07T00:00:00+01:00</published><updated>2018-11-07T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/11/07/lingostand_1</id><content type="html" xml:base="http://blog.catwizard.io/2018/11/07/lingostand_1.html">&lt;p&gt;LingoStand mission is to help users attain communication level in a new language as quickly as posible, and later to accelerate their current level specializing in a particular topic or area of interest.&lt;/p&gt;
+
+&lt;p&gt;The first course helps the user to learn the meaning and usage of the most used words in a language on its real context.&lt;/p&gt;
 
 &lt;p&gt;Of all the millions of words on a language, you only need to understand a small set to be able to communicate and learn how to use them in real life.&lt;/p&gt;
 
 &lt;p&gt;Native speakers with a low education level do not know a big set of words. But they only need a small group of words to be able to communicate. If you go surfing in Venezuela, you need only to speak with native fishermen, and you can communicate using a small word set.&lt;/p&gt;
 
-&lt;p&gt;It’s been proven multiple times that to learn faster, is better for you to use content that you are really interested in, because you practice with more often, with intention and interest. For this reason, we are constantly updating our library with new trending articles as well as classic books and stories.&lt;/p&gt;
+&lt;p&gt;It’s been proven multiple times that to learn faster, is better for you to use content that you are really interested in, because you will come back to practice with more often, with real intention and interest. For this reason, we are constantly updating our library with new trending articles as well as classic books and stories.&lt;/p&gt;
 
 &lt;p&gt;We are constantly re-inventing our interface and technology around these goals.&lt;/p&gt;</content><author><name>Ernesto Butto</name><email>ernesto@catwizard.io</email></author><category term="learn language" /><category term="lingostand" /><category term="software" /><summary type="html">Why Lingostand</summary></entry><entry><title type="html">The meaning of life for a software professional</title><link href="http://blog.catwizard.io/2018/10/22/meaning.html" rel="alternate" type="text/html" title="The meaning of life for a software professional" /><published>2018-10-22T00:00:00+02:00</published><updated>2018-10-22T00:00:00+02:00</updated><id>http://blog.catwizard.io/2018/10/22/meaning</id><content type="html" xml:base="http://blog.catwizard.io/2018/10/22/meaning.html">&lt;p&gt;I want to talk about the meaning of life, about how I’m working towards finding it through my work and to share my journey. Hopefully, it helps someone in some unforeseen way, worst case it helps me explore myself.&lt;/p&gt;
 
@@ -119,8 +228,60 @@
   &lt;p&gt;But let me make it perfectly clear that in no way is suffering necessary to find meaning. I only insist that meaning is possible even in spite of suffering—provided, certainly, that the suffering is unavoidable. If it were avoidable, however, the meaningful thing to do would be to remove its cause, be it psychological biological or political. To suffer unnecessarily is masochistic rather than heroic.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;REVISE HASTA AQUI&lt;/p&gt;
+&lt;p&gt;– REVISE HASTA AQUI&lt;/p&gt;
 
+&lt;p&gt;– AGREGAR LA PARTE DE EMYTH QUE HABLA DEL MEANING DEL TRABAJO PARA LAS PERSONAS: CHAPTER 16&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“He said, ‘The work we do is a reflection of who we are. If we’re sloppy at it, it’s because we’re sloppy inside. If we’re late at it, it’s because we’re late inside. If we’re bored by it, it’s because we’re bored inside, with ourselves, not with the work. The most menial work can be a piece of art when done by an artist. So the job here is not outside of ourselves, but inside of ourselves. How we do our work becomes a mirror of how we are inside.’”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Manager continued, as if the owner were talking through him. “Work is passive without you. It can’t do anything. Work is only an idea before a person does it. But the moment a person does it, the impact of the work on the world becomes a reflection of that idea—the idea behind the work—as well as the person doing it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“In the process, the work you do becomes you. And you become the force that breathes life into the idea behind the work.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“You become the creator of the impact on the world of the work you do.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“There is no such thing as undesirable work,” he continued. “There are only people who see certain kinds of work as undesirable. People who use every excuse in the world to justify why they have to do work they hate to do. People who look upon their work as a punishment for who they are and where they stand in the world, rather than as an opportunity to see themselves as they really are.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;…  the business is a place where everything we know how to do is tested by what we don’t know how to do, and that the conflict between the two is what creates growth, what creates meaning.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;… That a business is like a martial arts practice hall, a dojo, a place you go to practice being the best you can be. But the true combat in a dojo is not between one person and another as most people believe it to be. The true combat in a martial arts practice hall is between the people within ourselves.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;from-buisiness-owner-to-consultant-to-product-developer&quot;&gt;From buisiness owner, to consultant, to product developer&lt;/h2&gt;
+
+&lt;p&gt;For some reason, since I was a child, I wanted my own buisiness. As soon as I graduated, I took the first opportunity at it. Now, being a buisiness owner of a buisiness that works, is one of the hardest challanges I have ever faced.&lt;/p&gt;
+
+&lt;p&gt;What attracted me about it? In short, the freedom it supposed to give me. But the freedom has to be earned, and working hard in the wrong direction is probably the surest way of failing, and failing means being a slave of your buisiness, of your clients, of yourself.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The purpose of going into business is to expand beyond your existing horizons. So you can invent something that satisfies a need in the marketplace that has never been satisfied before. So you can live an expanded, stimulating new life.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Because, the moment you chose to start a small business, Sarah, you unwittingly chose to play a significantly larger game than any game you had ever played before.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For when the dream is gone, the only thing left is work.
+The tyranny of routine.
+The day-to-day grind of purposeless activity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
 &lt;p&gt;So, after going through all that I was like…. ok, how can I contribute? How can I find meaning? They say that questions will focus your attention into finding answers… Because finding meaning is something I definelty want in my life.&lt;/p&gt;
 
 &lt;p&gt;What is meaning? I would say, simply, something to live for, something to work for. A reason. For me it’s the story we make up ourself of &lt;strong&gt;why&lt;/strong&gt; we are doing &lt;strong&gt;what&lt;/strong&gt; we are doing. This &lt;strong&gt;why&lt;/strong&gt; and &lt;strong&gt;what&lt;/strong&gt; must be compelling enough.&lt;/p&gt;
