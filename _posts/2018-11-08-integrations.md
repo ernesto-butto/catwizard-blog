@@ -25,10 +25,24 @@ On top of that, everything requires time, it is the true and only universal cond
 
 > ... Yet most people take for granted this unique, irreplaceable, and necessary resource. Nothing else, perhaps, distinguishes effective executives as much as their tender loving care of time.
 
-However systems, if used correctly, are pockets of time, they can bring time wealth in your live, and by consequence to every part of your life and business, and system integrations and all their derivatives are one of the most proven ways of saving time to executives, employees, customers and providers.
+Yes, the best executives in the world go to great lenghts to learn how to use their time where it matter most, where it makes a difference. 
+
+However, there is a way to use systems to create pockets of time for everyone in the business, for every customer, employee, provider, manager, stakeholder... And the way is to integrate their data, to provide beutiful and useful information.
+
+This way man can do a miracle. To save time, to be wealthier, happier, productive... but we have to learn how to use such power, so we can use it to serve us.
+
+*“Every business is a software business”* said Watts S. Humphrey, the father of quality in software and CMMI 2 decades ago, and it's repeated by The CEO of Microsoft, Satya Nadella today: 
+
+> “Every company is a software company. You have to start thinking and operating like a digital company. It’s no longer just about procuring one solution and deploying one. It’s not about one simple software solution. It’s really you yourself thinking of your own future as a digital company.”
+
+## Different faces of system integrations
+
+Business Intellegence (B.I.),  Enterprise Resource Planning or ERP (Think SAP software), Product Information Management (P.I.M), Master Data Management (M.D.M), even Zappier, are all faces of the same beast, however these sytems require human cleverness and creativity for them to be useful in your situation.
+
+Just as a powerful drug, systems can do wonders if prescribed correctly, and wreack havocks if applied incorrectly.
 
 ## A back story
-My wife and I came out of the dentist office. She went for a check-in but they had to operate, and ended up druged, and desoriented.
+My wife and I came out of the dentist office. She went for a check-in but they had to operate, she ended up druged, and desoriented.
 
 "Make sure she takes this drug in the next hour or so, else the pain will bring her to tears once the sedative wears off, there is a pharmacy right in front of the building, but you know, lately patient have told me the drug is hard to find"
 
@@ -50,22 +64,20 @@ Over time, and while the scarcity of medicines and other products increased, thi
 
 Years after we internotialized we kept working on integrations, connecting nationals and internationals companies eith all kinds of systems: CRM's such as saleforce, commercial websites, quoting systems, shopify implementations, accounting systems,  warehouses, health clubs, and more.
 
-## Information, Time and Decisions
+## Systems Integrations, an increasing focus point for buisinesses
 
-Decisions shape our reality, it creates our conditions, and that of our buisiness and workplace.
+Decisions shape our reality, it creates our conditions, and that of our buisiness.
 
-Making the decision at the right time define our lives. But for making a good enough decision, we need key information, not all information! Just the right one.
-
-## Market Facts
+Making the decision at the right time define our lives. But for making a good enough decision, we need key information, not all information! Just the right one, at the right time:
 
 - "Where are you going bro?", I asked my brother some years back as I watched him getting ready to paarrtyy!
 - "My company is throwing a party, it's going to be sick man!"
 - "Awesome! what are you guys celebrating?"
 - "It appears that after 3 years and millions of dollars, our company finally integrated sytems from different departaments! Everyone is very excited!"
 
-Yeah... brace yourself bro, it's going to get geeky. Market geeky, sku geeky.
+Yeah... brace yourself bro, it's going to get geeky. Market and SKU geeky.
 
-Last year, I did months of market research around product information and integration software. We had created a system over the years that solved many integrations issues. We decided to create a business plan for evaluation, thus I talked to a lot of software vendors, following the white rabbit into a deep rabit hole.
+Last year, I did months of market research around product information and integration software. We had created a system over the years that solved many integrations issues. We decided to create a business plan for evaluation and se how far could we take it, thus I talked to a lot of software vendors, following the white rabbit into a deep rabit hole.
 
 Here are some facts I pulled out from the research that might hopefully prompt you to take some kind of action:
 
@@ -73,18 +85,15 @@ Here are some facts I pulled out from the research that might hopefully prompt y
 
 2- InRiver, one of the many integration software vendors, claims that they have an annual growth rate (CAGR) of %70. I did check other vendors data, and all of them have growned big time.
 
-87% de lideres de data y análisis ya implementaron o estan planeando implementar o expandir en PIM para la calidad de sus datos y gobernanza. Porque ? Manejar contenido en hojas de cálculo y repositorios separados de información es insostenible.
+3- 87% de lideres de data y análisis ya implementaron o estan planeando implementar o expandir en PIM para la calidad de sus datos y gobernanza. Porque ? Manejar contenido en hojas de cálculo y repositorios separados de información es insostenible. Para ahorrar tiempo, minimizar errores, mejorar el time to market, y manejar el siempre cambiante requerimientos de contenido para aliados, las empresas digitales necesitan los chequeos automatizados de las PIM, portales de contenido, y capacidades de canales de sindicación. Fuente: Vendor Landscape: Product Information Management (PIM), Q3 2017
 
-3- 87% of data liders and analysts implemented or are planing to implement or expand on PIM (Software Integration for Products). Why? Managing spreadsheet and separated systems is not sustainable. (Source: Vendor Landscape: Product Information Management (PIM), Q3 2017)
+3- 87% of data liders and analysts implemented or are planing to implement or expand on PIM (Software Integration for Products). Why? Managing spreadsheet and separated systems is not sustainable. To save time, minimize errors, increase time to market, and manage constantly changing requirements content for allies, digital business need automated checks (Source: Vendor Landscape: Product Information Management (PIM), Q3 2017)
 
 4- In 2015, %67 of desicion makers related to infraestructure said that develop a complete strategy in the cloud was a high or critical priority. Additionally %56 projected an increase on investment in cloud services by the en of 2015. (Source: The Forrester WaveTM: Master Data Management, Q1 2016)
 
 5- Experiences in the B2C world increase B2B purchases, almost 75% say that buying from a web page is more convenient than buying to sales representatives when they buy products or services for work. (Source: PIM Is A Cornerstone Of Your Digital Business Why Customer-Obsessed Firms Need Product Information Management January 18, 2017)
 
-
-## Systems Integrations, an increasing focus point for buisinesses
-
-The integration problem is not a new one, it's always been there. You have information in different systems about users, products and other entities, and they are in seperate system across the company. Marketing need to know about costs to make a quote, or price a product, meanwhile at the warehouse, people are looking for availability of variations for product Boston Round... can't the sales people send the SKU number?
+## The bar is raised
 
 "Hello sir! Thank you for your quote request, we will give you an answer about your quote in a few days..." Yes, **in a few days**, they have to make a few calls inside and outside the company to give the number.
 
@@ -96,8 +105,7 @@ On-time information is simply more valuable then ever. It will define you as a s
 
 Integration between systems to provide unified views is a common problem that only traditionally enterprises were able to address: to be able to provide an unified view of information that is usually scattered across systems. 
 
-
-## Understanding small business SaaS situation
+## This is not only for enterprises, small and medium business need a strategy
 
 Now days a new software model is already stablished, one that 10 years ago was unimaginable. Software as a Service (SaaS) is a model in which software is licensed on a subscription basis and is centrally hosted by another company. 
 
@@ -126,10 +134,75 @@ In short, they are all tools to centralize the data accross different systems an
 | PIM | Product Information Management  | Central set of product data can be used to feed information to media (Website, catalogs, ERP, feeds)                                                                                                                         |
 | BI  | Business Intelligence           | Delivers relative and reliable information at the right people, at the right time, using methods and programs to collect and structure data, and presents it in a meaningful and actionable way.                             |
 
+## A Summarized Checklist for Software integration
+
+This a general guide to systems integrations, and the techonology I would use to create a custom integration system. There are tons of technologies to accomplish this, some are general like an ERP system, some very specific for a domain, for example PIM integrates information around a product. 
+
+If you are going to integrate information about hospital for example, then a different system specialized for hopsitals can be used or develop.
+
+My intentions is to create a general solutions so most readers can understand the general process... at least how we have approached it.
+
+This fuide is a modified version of a more techinical guide created by [Industry Expert Donna Burbank](https://es.slideshare.net/Dataversity/lessons-in-data-modeling-data-modeling-mdm). Thank you Donna for helping us grow!
+
+### Start with the end views in mind
+[SHOW SIMPLE MAP OF BEGINING AND END]
+The first step of the process is to have a clear view of the end result, and test it. Yes, test it even in the most simple way posible, this means putting a fake mockup infront of your user and see if it works.
+
+Create some simple mockups and screens with the ideas. Invision is a wonderful tool for this, but microsoft presentation would do.
+
+Create something that is real enough to have the feel of the interaction of the main tasks, and no, you don't need a designer for this, it's a fake, like movie setup.
+
+We like to use Google's Venture Spring Process [ADD LINK], but sometimes you only need to do some mockups on a white board, iterate over that and that will create a mockup good enough.
+
+With the screen views in place and tested a little, you should have a view of the main screens of your system integration. You are now ready to start modeling your data
+
+### Visual Overview Of the End Process
+Here is a simplified view of the process:
+
+1. Frequently load data from **sources**
+2. Constantly match sources data to **master data**
+3. Show information in **end users views**.
+
+[2 IMAGES, PROCESS AND END VIEWS]
+
+**sources** are anywhere the data is store. They can be systems, databases, spreadsheets, datawharehouses, etc...
+**master data** are identifier that tie id's from other systems togethers, such as product SKU, customer id, invoice numbers. Also called Master Record
+**end users views** are the views you created in the previews steps, the mockups. This is what the user interacts with.
+
+Now that we know what we want, we need to model the data to accomplish the integration.
+
+### 1. Identify Entities
+
+The first step is to identify the entities that you need to integrate, so you can accomplish the end views.
+
+Think of entities as nouns in the system, some examples: 
+- Customer, SalesPerson (who?) 
+- Product, Service (what?)
+- Quote, Order (why?)
+- Location (where?)
+- Invoice (How?)
+
+### 2. Choosing Architcture: Centralized Vs Virtualized
+
+[Slide of Choosing MDM Model: Centralized Vs Virtualized]
+
+Should we create data structures to save temporaly information from the systems? Or should we reuse the information directly from the sources?
+
+To be honest, we have always used the Centralized approach. Mostly because almost always we need some field to make sense of the data, for example to recomend product between them, to save a reference of a document produced by the centrilized system, for historical purposes (e.g. generated quote id).
+
+### 3. Identify Source Systems
+
+### 4. Matching Strategy
+
+### 5. Master Records
+
+### 6. Survivorship fields
+
+### 7. Harmonization (Push the Information)
 
 
 
-
+## Loose pieces
 ### Customers Demand Content
 For this reason customers expect rich, relevant, continually updated content to help them through each step of the customer journey, regardless of purchase touchpoint.
 
