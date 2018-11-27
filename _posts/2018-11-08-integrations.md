@@ -13,11 +13,19 @@ author: ernesto
 
 ## The sacredness of time
 
-Man is ill equiped to manage time, however, time is the most important resource in your life, this is true also for your business and for everyone around you.
+Man is ill equiped to manage time, however, time is the most important resource in your life, and in your business.
 
+**Capital resource**
 > We long ago should have learned that it is the demand for capital, rather than the supply thereof, which sets the limit to economic growth and activity
 
+*Source: [The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459)
+ by Peter F. Drucker*
+
+**Human resource**
+
 And regarding people, we can always hire people, even though good people are hard to find.
+
+**But Time! Time is unique!**
 
 But for time, no matter how high the demand, the supply will not go up. There is no price for it, and it can't be stored in any way. Yesterday time is gone and it will never come back.
 
@@ -25,7 +33,7 @@ On top of that, everything requires time, it is the true and only universal cond
 
 > ... Yet most people take for granted this unique, irreplaceable, and necessary resource. Nothing else, perhaps, distinguishes effective executives as much as their tender loving care of time.
 
-Yes, the best executives in the world go to great lenghts to learn how to use their time where it matter most, where it makes a difference. 
+Yes, the best executives in the world go to great lenghts to learn how to save their time, so they can use it matter most, where it makes a difference. 
 
 However, there is a way to use systems to create pockets of time for everyone in the business, for every customer, employee, provider, manager, stakeholder... And the way is to integrate their data, to provide beutiful and useful information.
 
@@ -35,9 +43,13 @@ This way man can do a miracle. To save time, to be wealthier, happier, productiv
 
 > “Every company is a software company. You have to start thinking and operating like a digital company. It’s no longer just about procuring one solution and deploying one. It’s not about one simple software solution. It’s really you yourself thinking of your own future as a digital company.”
 
+In this article, I hope I can at least set you in the right path.
+
 ## Different faces of system integrations
 
-Business Intellegence (B.I.),  Enterprise Resource Planning or ERP (Think SAP software), Product Information Management (P.I.M), Master Data Management (M.D.M), even Zappier, are all faces of the same beast, however these sytems require human cleverness and creativity for them to be useful in your situation.
+Business Intellegence (B.I.),  Enterprise Resource Planning or ERP (Think SAP software), Product Information Management (P.I.M), Master Data Management (M.D.M), even Zappier, are all faces of the same beast, they all promise to gather data, centralize it, and turn it into useful, on time information. 
+
+However these sytems require human cleverness and creativity for them to be useful in your situation.
 
 Just as a powerful drug, systems can do wonders if prescribed correctly, and wreack havocks if applied incorrectly.
 
@@ -85,19 +97,17 @@ Here are some facts I pulled out from the research that might hopefully prompt y
 
 2- InRiver, one of the many integration software vendors, claims that they have an annual growth rate (CAGR) of %70. I did check other vendors data, and all of them have growned big time.
 
-3- 87% de lideres de data y análisis ya implementaron o estan planeando implementar o expandir en PIM para la calidad de sus datos y gobernanza. Porque ? Manejar contenido en hojas de cálculo y repositorios separados de información es insostenible. Para ahorrar tiempo, minimizar errores, mejorar el time to market, y manejar el siempre cambiante requerimientos de contenido para aliados, las empresas digitales necesitan los chequeos automatizados de las PIM, portales de contenido, y capacidades de canales de sindicación. Fuente: Vendor Landscape: Product Information Management (PIM), Q3 2017
-
 3- 87% of data liders and analysts implemented or are planing to implement or expand on PIM (Software Integration for Products). Why? Managing spreadsheet and separated systems is not sustainable. To save time, minimize errors, increase time to market, and manage constantly changing requirements content for allies, digital business need automated checks (Source: Vendor Landscape: Product Information Management (PIM), Q3 2017)
 
 4- In 2015, %67 of desicion makers related to infraestructure said that develop a complete strategy in the cloud was a high or critical priority. Additionally %56 projected an increase on investment in cloud services by the en of 2015. (Source: The Forrester WaveTM: Master Data Management, Q1 2016)
 
 5- Experiences in the B2C world increase B2B purchases, almost 75% say that buying from a web page is more convenient than buying to sales representatives when they buy products or services for work. (Source: PIM Is A Cornerstone Of Your Digital Business Why Customer-Obsessed Firms Need Product Information Management January 18, 2017)
 
-## The bar is raised
+## Amazon raised the bar, for B2B and B2C
 
 "Hello sir! Thank you for your quote request, we will give you an answer about your quote in a few days..." Yes, **in a few days**, they have to make a few calls inside and outside the company to give the number.
 
-This kind of service was ok a few years back, but todays users have a different standard, both consumers and B2B expect faster responses. To achieve this organization is not enough, automation is required.
+This kind of service was ok a few years back, but todays users have a different standard, both consumers and B2B expect faster responses. To achieve this using organization is not enough, automation is required.
 
 Amazon raised the bar, Enterprises started to invest in this integration sytems 5 years ago, all users want the information **now**, to make their desicion, they need the information, and they need accurate information.
 
@@ -171,7 +181,7 @@ Here is a simplified view of the process:
 
 Now that we know what we want, we need to model the data to accomplish the integration.
 
-### 1. Identify Entities
+### 1. Modeling Data: Identify Entities
 
 The first step is to identify the entities that you need to integrate, so you can accomplish the end views.
 
@@ -182,23 +192,87 @@ Think of entities as nouns in the system, some examples:
 - Location (where?)
 - Invoice (How?)
 
+You will probably need mixed views from every entity, after that, we can go to the next step and choose the architecture.
+
 ### 2. Choosing Architcture: Centralized Vs Virtualized
 
 [Slide of Choosing MDM Model: Centralized Vs Virtualized]
 
-Should we create data structures to save temporaly information from the systems? Or should we reuse the information directly from the sources?
+Should we create data structures to save temporaly information from the systems? Or should we reuse the information directly from the sources and create a virtual layer?
 
-To be honest, we have always used the Centralized approach. Mostly because almost always we need some field to make sense of the data, for example to recomend product between them, to save a reference of a document produced by the centrilized system, for historical purposes (e.g. generated quote id).
+To be honest, we have always used the Centralized approach. Mostly because almost always we need some field to make sense of the data, for example to recomend products between them, to save a reference of a document produced by the centrilized system, for historical purposes (e.g. generated quote id), are a few examples.
 
 ### 3. Identify Source Systems
 
+Now, we need to identify the sources, CRM, In-Store sales, warehouses, supply chain, finance, marketing... 
+
+The central model will create a super set of data, where websites, mobile apps, and other applications can reference the "Golden Record"
+
+Ideally, this central aplication will provide an API, a set of commands to comunicate directly with the centralized data once, as opposed to communicat to the original sources one by one.
+
 ### 4. Matching Strategy
+
+This is a fundamental part of your integration. If your matching strategy is not realistic, then all of your investment will be lost! 
+
+Matching is the process of crossing the records of different systems and tying them into the one record, and identified as equivalent. So if it's left half way, the system won't be useful
+
+Ideally, we select an automatic matching rule, and then we let humans check review them and fix them.
+
+**Step 1. Unique fields matching rules**
+Rules to be added so the system can check and automatically match records from both systems. For example email or social security number for people, SKU's for products, or combinations of fields such as (last name + date of birth)
+
+We can add a list of rules for the system to check, and if match is found then create an automatic match.
+
+**Step 2. Fuzzy Matching**
+For recommending matching strings such as names, product names and addresses where human error or different entry standards between systems can cause slight variations in similar values eg: “Joe Smith” vs “J Smith”.
+
+Match scores are created between each fuzzy logic match, for example, using this [Java library](https://github.com/xdrop/fuzzywuzzy), it would be somehitng like
+
+`FuzzySearch.ratio("mysmilarstring","myawfullysimilarstirng")= 72`
+
+`FuzzySearch.ratio("mysmilarstring","mysimilarstring") = 97`
+
+And the rule could be `if ratio > 85` then do a match.
+
+**Step 3. Matching Approval: Key Role**
+Ideally you would have 2 kind of review:
+
+1- By someone internally
+2- By end users
+
+Both should have a way to comunicate a mismatch if found.
+
+**Step 4. Remember to allow manual matching**
+Finally, your system should be able to allow manual matching, to address exceptional cases.
 
 ### 5. Master Records
 
+Once a matching has been applied to the records, an internal reference table is maintained with the unique ids of the matching entities of the systems and a Master ID that holds the reference of both systems.
+
+Data administrator will have the ability review and un-match between systems if necessary.
+
 ### 6. Survivorship fields
 
-### 7. Harmonization (Push the Information)
+In general, this concept refers to defining the attributes or fields to be used from each system.
+
+## What techonology to use
+I do not have a straight answer for this, I can only give my opinion.
+
+There are several vendors out there, but last time I checked, very few where key on hand solutions, and none cheap since they usually serve the Enterprise sector. Business need to pay for the software, maintainence, and hours for dealing with your data and empowering employees.
+
+Companies invest in their own technologies, and get it right, have huge returns and many times experience huge grow, and reuse the tech to move into other markets.
+
+Based on our experience this is our proposed Techonology Stack and Development Methodology
+
+## Tech Time
+
+- Jhipster
+- Audits
+- Elastic search
+- Angular for the backend
+- Hibrid technology such as Ionic/React for mobile
+
+## Get returns fast using Agile and prototyping
 
 
 
