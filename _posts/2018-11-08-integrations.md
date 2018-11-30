@@ -11,19 +11,31 @@ author: ernesto
 
 {% include toc %}
 
+## NOTA PARA LA PROXIMA:
+Creo que debo quitar lo que no estoy convencido que puse en los titulos, dejar los pasos de design desicions cortos, pero una referencia con la explicacion de los mismos a otro post, Y dejar la parte de tech, donde hablo sobre que tech usar, y custom vs vendors
+
+## Systems help! My wife needs her fix!
+My wife and I came out of the dentist office. She went for a check-in but they had to operate, she ended up druged, and desoriented.
+
+"Make sure she takes this drug in the next hour or so, else the pain will bring her to tears once the sedative wears off, there is a pharmacy right in front of the building, but you know, lately patient have told me the drug is hard to find"
+
+The drug was a common one, but our political and in consequence economical situation was starting to be uncommon. We went to the pharmacy, no luck, then to the next one... same luck... none! 
+
+Time was running out, and then she grabed me and told me... "Use the web page we developed for god's sake!! It's starting to hurt!!"... Riiiight, I had forgotten about that one...
+
 ## The sacredness of time
 
-Man is ill equiped to manage time, however, time is the most important resource in your life, and in your business.
+Man is ill equiped to manage time, however, time is the most important resource in your life, and in your business. Traditionally, business theory teaches us that there are 3 types of resources: Capital, People and Time. Let's break it down:
 
-**Capital resource**
-> We long ago should have learned that it is the demand for capital, rather than the supply thereof, which sets the limit to economic growth and activity
+**Capital**
+> Time is also a unique resource. Of the other major resources, money is actually quite plentiful.We long ago should have learned that it is the demand for capital, rather than the supply thereof, which sets the limit to economic growth and activity
 
 *Source: [The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459)
  by Peter F. Drucker*
 
-**Human resource**
+**People**
 
-And regarding people, we can always hire people, even though good people are hard to find.
+> And regarding people, we can always hire people, even though good people are hard to find.
 
 **But Time! Time is unique!**
 
@@ -33,37 +45,47 @@ On top of that, everything requires time, it is the true and only universal cond
 
 > ... Yet most people take for granted this unique, irreplaceable, and necessary resource. Nothing else, perhaps, distinguishes effective executives as much as their tender loving care of time.
 
-Yes, the best executives in the world go to great lenghts to learn how to save their time, so they can use it matter most, where it makes a difference. 
+Yes, the best executives in the world go to great lenghts to learn how to save their time, so they can use whe it matter most, where it makes a difference. 
 
-However, there is a way to use systems to create pockets of time for everyone in the business, for every customer, employee, provider, manager, stakeholder... And the way is to integrate their data, to provide beutiful and useful information.
+However, there is a way to use systems to create pockets of time for everyone in the business. For the customer, employee, provider, manager, stakeholder, and for the most important person of all, for you... 
 
-This way man can do a miracle. To save time, to be wealthier, happier, productive... but we have to learn how to use such power, so we can use it to serve us.
+What is the way? You might ask, well this one you heard before... Systems. 
 
-*“Every business is a software business”* said Watts S. Humphrey, the father of quality in software and CMMI 2 decades ago, and it's repeated by The CEO of Microsoft, Satya Nadella today: 
+"But I already have systems in the business" you might say... "in fact we have many. And man, what a complication it is! It's overwhelming!"
+
+Well yeah, but are they **integrated** between them? are they **team** players or individualists? Do they **collaborate to create a better system** for everyone do they confuse? Do they help you to provide the service expected by today's standards?
+
+The design and succesful implementation of integrations create wealths of time. Just in time information converts into fast service, and less worry.
+
+But! Just as a drug, systems can do wonders if prescribed correctly, and wreack havocks if applied incorrectly. Take your time to understand the design. 
+
+Designing these collaborations is not an easy task, and it's becoming mandatory for survival, I hope this article saves you time, your must valuable resource, and points you into the right direction.
+
+I will give you a tip before we dive deeper, a big time saving secret: TEST BEFORE YOU IMPLEMENT. Yes, your or your provider, do some mockups, or prototypes. They can be done in Google Slides, Invision, or a piece of paper, and put users to the test. This will save you money and time big time. It can save years!!
+
+> “Every business is a software business”
+said Watts S. Humphrey, the father of quality in software and CMMI 2 decades ago, and it's repeated by The CEO of Microsoft, Satya Nadella today: 
 
 > “Every company is a software company. You have to start thinking and operating like a digital company. It’s no longer just about procuring one solution and deploying one. It’s not about one simple software solution. It’s really you yourself thinking of your own future as a digital company.”
 
-In this article, I hope I can at least set you in the right path.
-
 ## Different faces of system integrations
 
-Business Intellegence (B.I.),  Enterprise Resource Planning or ERP (Think SAP software), Product Information Management (P.I.M), Master Data Management (M.D.M), even Zappier, are all faces of the same beast, they all promise to gather data, centralize it, and turn it into useful, on time information. 
+Business Intellegence (B.I.),  Enterprise Resource Planning or ERP (Think SAP software), Product Information Management (P.I.M), Master Data Management (M.D.M), even Zappier, are all faces of the same beast, they all promise to gather data, centralize it, and turn it into useful informatino, and ready for you when you need it most.
 
-However these sytems require human cleverness and creativity for them to be useful in your situation.
+Now, before feeling overwhelm about the challange, know this.
 
-Just as a powerful drug, systems can do wonders if prescribed correctly, and wreack havocks if applied incorrectly.
+You can reap the benefits of integrations, one step at the time. You do not need to invest in a 3 year project now, just 3 months, do a small integration, enjoy the returns of your investment, and afterwards put the next brick. 
 
-## A back story
-My wife and I came out of the dentist office. She went for a check-in but they had to operate, she ended up druged, and desoriented.
+Slow but un-interrupted. This is a much faster way then it looks like, and it creates a habit, and habits my friend shape reality.
 
-"Make sure she takes this drug in the next hour or so, else the pain will bring her to tears once the sedative wears off, there is a pharmacy right in front of the building, but you know, lately patient have told me the drug is hard to find"
+**Tip**: Aim for effectiveness. What is the one question that if answered fater would solved many problems at once, for the most people in the compay? Identify and focus on that one, do not try to take on 10 inarticulated information problems. You won't solve them, you will create a 7 head beast that will breath to your neck at all times, will waste money, team effort, and most important, waste tons of Time.
 
-The drug was a common one, but our political and in consequence economical situation was starting to be uncommon. We went to the pharmacy, no luck, then to the next one... same luck... none! 
+Combining your current systems can achieve more then you can imagine, in most cases more then aquiring new systems. Don't believe me? ask most legacy banks in the world in what language do they run their fundations... Does Kobol rings a bell? well it shouldn't, Kobol is one old piece of technology, no longer teached, but a scary size of the financing systems of the world runs on top of it. 
 
-Time was running out, and then she grabed me and told me... "Use the web page we developed for god's sake!! It's starting to hurt!!"... Riiiight, I had forgotten about that one...
+This is one of those tasks where is not the amount of hours spent what will give you returns, but the quality of thinking.
 
 ## Our first Integrations Exp
-About 8 years ago, we were asked to estimate, develop and implement a module to our in-house made web software, an online web catalog system, so it would integrate with ours customers accounting systems, so users could get inventory information, pricing and marketing information such as the product picture on one screen... they have a bunch of stores all over my home city, Caracas - Venezuela, and each physical store had their own accounting system.
+About 8 years ago, we were asked to estimate, develop and implement a module to our in-house made web software, an online web catalog system (yes the on at the intro!), so it would integrate with the accounting systems of all the stores and provide one unified view.
 
 ![farmaplus]({{ "/assets/images/integrations_1/farmaplus_2.png"}})
 (List of physical stores, green menas available, yellow there are a few left, red means not available)
@@ -76,11 +98,11 @@ Over time, and while the scarcity of medicines and other products increased, thi
 
 Years after we internotialized we kept working on integrations, connecting nationals and internationals companies eith all kinds of systems: CRM's such as saleforce, commercial websites, quoting systems, shopify implementations, accounting systems,  warehouses, health clubs, and more.
 
-## Systems Integrations, an increasing focus point for buisinesses
+## Market Facts: Systems Integrations, an increasing focus point for buisinesses
 
-Decisions shape our reality, it creates our conditions, and that of our buisiness.
+> It is our desicions, not our conditions, that shape our reality
 
-Making the decision at the right time define our lives. But for making a good enough decision, we need key information, not all information! Just the right one, at the right time:
+Making the decision at the right time define our reality . . But for making a good enough decision, we need key information, not all information! Just the right one, at the right time:
 
 - "Where are you going bro?", I asked my brother some years back as I watched him getting ready to paarrtyy!
 - "My company is throwing a party, it's going to be sick man!"
@@ -103,9 +125,9 @@ Here are some facts I pulled out from the research that might hopefully prompt y
 
 5- Experiences in the B2C world increase B2B purchases, almost 75% say that buying from a web page is more convenient than buying to sales representatives when they buy products or services for work. (Source: PIM Is A Cornerstone Of Your Digital Business Why Customer-Obsessed Firms Need Product Information Management January 18, 2017)
 
-## Amazon raised the bar, for B2B and B2C
+## Amazon raised the bar, for B2B and B2C (NOT SURE ABOUT THIS SECTION, MAYBE NEEDS TO GO)
 
-"Hello sir! Thank you for your quote request, we will give you an answer about your quote in a few days..." Yes, **in a few days**, they have to make a few calls inside and outside the company to give the number.
+"Hello sir! Thank you for your quote request, we will give you an answer about your quote in a few weeks..." Yes, **in a few weeks**, they have to make a few calls inside and outside the company to give the number.
 
 This kind of service was ok a few years back, but todays users have a different standard, both consumers and B2B expect faster responses. To achieve this using organization is not enough, automation is required.
 
@@ -115,7 +137,7 @@ On-time information is simply more valuable then ever. It will define you as a s
 
 Integration between systems to provide unified views is a common problem that only traditionally enterprises were able to address: to be able to provide an unified view of information that is usually scattered across systems. 
 
-## This is not only for enterprises, small and medium business need a strategy
+## This is not only for enterprises, small and medium business need a strategy (NOT SURE ABOUT THIS SECTION, MAYBE NEEDS TO GO)
 
 Now days a new software model is already stablished, one that 10 years ago was unimaginable. Software as a Service (SaaS) is a model in which software is licensed on a subscription basis and is centrally hosted by another company. 
 
@@ -146,7 +168,16 @@ In short, they are all tools to centralize the data accross different systems an
 
 ## A Summarized Checklist for Software integration
 
-This a general guide to systems integrations, and the techonology I would use to create a custom integration system. There are tons of technologies to accomplish this, some are general like an ERP system, some very specific for a domain, for example PIM integrates information around a product. 
+Design wise, and in my opinion, this are the key desicions:
+
+1. Design and test a prototype/mockup
+2. Modeling Data: Identify Entities
+3. Choosing the Architecture: Centralized Vs Virtualized 
+4. Identify Source Systems
+5. Choose The Matching Strategy
+
+
+Following is a general guide to systems integrations, and the techonology I would use to create a custom integration system. There are tons of technologies to accomplish this, some are general like an ERP system, some very specific for a domain, for example PIM integrates information around a product. 
 
 If you are going to integrate information about hospital for example, then a different system specialized for hopsitals can be used or develop.
 
@@ -154,7 +185,7 @@ My intentions is to create a general solutions so most readers can understand th
 
 This fuide is a modified version of a more techinical guide created by [Industry Expert Donna Burbank](https://es.slideshare.net/Dataversity/lessons-in-data-modeling-data-modeling-mdm). Thank you Donna for helping us grow!
 
-### Start with the end views in mind
+### What you do is more important then how you do it
 [SHOW SIMPLE MAP OF BEGINING AND END]
 The first step of the process is to have a clear view of the end result, and test it. Yes, test it even in the most simple way posible, this means putting a fake mockup infront of your user and see if it works.
 
@@ -162,12 +193,12 @@ Create some simple mockups and screens with the ideas. Invision is a wonderful t
 
 Create something that is real enough to have the feel of the interaction of the main tasks, and no, you don't need a designer for this, it's a fake, like movie setup.
 
-We like to use Google's Venture Spring Process [ADD LINK], but sometimes you only need to do some mockups on a white board, iterate over that and that will create a mockup good enough.
+We like to use Google's Venture Spring Process [ADD LINK] because is a proven profesional process, but sometimes you only need to do some mockups on a white board, iterate over that and that will create a mockup good enough.
 
 With the screen views in place and tested a little, you should have a view of the main screens of your system integration. You are now ready to start modeling your data
 
 ### Visual Overview Of the End Process
-Here is a simplified view of the process:
+Here is a simplified view of integrated systems life cycle:
 
 1. Frequently load data from **sources**
 2. Constantly match sources data to **master data**
@@ -255,22 +286,37 @@ Data administrator will have the ability review and un-match between systems if 
 
 In general, this concept refers to defining the attributes or fields to be used from each system.
 
-## What techonology to use
-I do not have a straight answer for this, I can only give my opinion.
+## What techonology to use. Custom Made vs Third Party Vendors
 
-There are several vendors out there, but last time I checked, very few where key on hand solutions, and none cheap since they usually serve the Enterprise sector. Business need to pay for the software, maintainence, and hours for dealing with your data and empowering employees.
+I do not have a straight answer for this, I can only give my opinion
 
-Companies invest in their own technologies, and get it right, have huge returns and many times experience huge grow, and reuse the tech to move into other markets.
+Vendors are usually interested in selling their software and what you need, which is the guidance and of what to integrate, most commercial offers from the companies that I talked to for P.I.M software do not include the integration itself, they redirect you to integrators that they know.
+
+And they will tell you this clearly at the very end of the selling process. At first is all "yes, yes, do not worry"
+
+There are several vendors out there, but last time I checked, very few where key on hand solutions, and the ones that do serve the Enterprise sector.
 
 Based on our experience this is our proposed Techonology Stack and Development Methodology
 
-## Tech Time
+## Custom Technology Stack
 
-- Jhipster
-- Audits
-- Elastic search
-- Angular for the backend
-- Hibrid technology such as Ionic/React for mobile
+I recommend development with Jhipster. I'm developing software since before I started Engineering. After years of consultancy and tons of custom development, I find this platform incredible robust and productive. 
+
+Think of it like a magic wepon, you need enough level to use it, but when used correctly it generates enterprise quality for a fraction of the costs. You can integrate techonologies that usually would take weeks to integrate. Here are some of the features:
+
+- Ready to use API for web and mobile apps
+- Powerfull cross attributes database search (Elastic search)
+- Production ready code (optimized and tested)
+- Generation of Quality Assurance Tests
+- Sql, and no Sql databases
+- Microservices support
+- Auto generated interactive documentation (swagger)
+
+The main benefit is a combination of relaibility, quality, speed and flexability. In short, saving time.
+
+Companies that use it? From Adobe, to Decathlon, USA Defense department, many banks like, etc....(see jhipster webpage)
+
+> Creation is to combine ingridients in the right amount of propotions
 
 ## Get returns fast using Agile and prototyping
 
