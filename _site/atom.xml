@@ -1,167 +1,351 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://blog.catwizard.io/atom.xml" rel="self" type="application/atom+xml" /><link href="http://blog.catwizard.io/" rel="alternate" type="text/html" /><updated>2018-11-08T12:22:36+01:00</updated><id>http://blog.catwizard.io/</id><title type="html">Catwizard Blog</title><subtitle>A place to tell our stories.</subtitle><author><name>Ernesto Butto</name></author><entry><title type="html">Software Integrations</title><link href="http://blog.catwizard.io/2018/11/08/integrations.html" rel="alternate" type="text/html" title="Software Integrations" /><published>2018-11-08T00:00:00+01:00</published><updated>2018-11-08T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/11/08/integrations</id><content type="html" xml:base="http://blog.catwizard.io/2018/11/08/integrations.html">&lt;h2 id=&quot;a-back-story&quot;&gt;A back story&lt;/h2&gt;
-&lt;p&gt;My wife and I came out of the dentist office. She went for a check-in but ended up druged, operated, and desoriented.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://blog.catwizard.io/atom.xml" rel="self" type="application/atom+xml" /><link href="http://blog.catwizard.io/" rel="alternate" type="text/html" /><updated>2018-12-10T12:19:02+01:00</updated><id>http://blog.catwizard.io/</id><title type="html">Catwizard Blog</title><subtitle>A place to tell our stories.</subtitle><author><name>Ernesto Butto</name></author><entry><title type="html">Software Integrations and the sacredness of time</title><link href="http://blog.catwizard.io/2018/11/08/integrations.html" rel="alternate" type="text/html" title="Software Integrations and the sacredness of time" /><published>2018-11-08T00:00:00+01:00</published><updated>2018-11-08T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/11/08/integrations</id><content type="html" xml:base="http://blog.catwizard.io/2018/11/08/integrations.html">&lt;div id=&quot;entry-table-of-contents&quot; class=&quot;toc-wrapper&quot;&gt;
+  &lt;h2 id=&quot;toc-toggle&quot; class=&quot;no_toc&quot;&gt;
+  Table of Contents &lt;i class=&quot;toc-toggle-icon fas fa-chevron-down&quot;&gt;&lt;/i&gt;
+&lt;/h2&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#thank-you-integration-for-relieving-the-pain&quot; id=&quot;markdown-toc-thank-you-integration-for-relieving-the-pain&quot;&gt;Thank you Integration, for relieving the pain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-sacredness-of-time-your-most-important-resource&quot; id=&quot;markdown-toc-the-sacredness-of-time-your-most-important-resource&quot;&gt;The sacredness of time, your most important resource&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#capital&quot; id=&quot;markdown-toc-capital&quot;&gt;Capital&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#people&quot; id=&quot;markdown-toc-people&quot;&gt;People&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#but-time&quot; id=&quot;markdown-toc-but-time&quot;&gt;But Time…&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-do-pim-sap-zapier-and-bi-have-in-common&quot; id=&quot;markdown-toc-what-do-pim-sap-zapier-and-bi-have-in-common&quot;&gt;What do P.I.M, S.A.P, Zapier and B.I have in common&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#our-first-and-simple-integrations-exp&quot; id=&quot;markdown-toc-our-first-and-simple-integrations-exp&quot;&gt;Our first and simple Integrations Exp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#market-facts-systems-integrations-an-increasing-focal-point-for-businesses&quot; id=&quot;markdown-toc-market-facts-systems-integrations-an-increasing-focal-point-for-businesses&quot;&gt;Market Facts: Systems Integrations, an increasing focal point for businesses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-summarized-checklist-for-software-integration&quot; id=&quot;markdown-toc-a-summarized-checklist-for-software-integration&quot;&gt;A Summarized Checklist for Software integration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#finding-the-middle-ground-custom-vs-off-the-shelf-software&quot; id=&quot;markdown-toc-finding-the-middle-ground-custom-vs-off-the-shelf-software&quot;&gt;Finding the middle ground: Custom vs Off The Shelf Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#jhipster-a-recommended-custom-development-technology&quot; id=&quot;markdown-toc-jhipster-a-recommended-custom-development-technology&quot;&gt;Jhipster: A Recommended Custom Development Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#thank-you-support-if-you-can&quot; id=&quot;markdown-toc-thank-you-support-if-you-can&quot;&gt;Thank You, support if you can&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#references&quot; id=&quot;markdown-toc-references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;“Make sure she takes this drug in the next hour or so, else the pain will bring her to tears once the sedative wears off, there is a pharmacy right in front of the building, but you know, lately patient have told me the drug is hard to find”&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;The drug was a common one, but our political situation was starting to be uncommon. We went to the pharmacy, no luck, then to the next one… same luck.&lt;/p&gt;
-
-&lt;p&gt;Time is running out… “Use the web page we developed for god’s sake!! It’s starting to hurt!!”… Riiiight, I had forgot about that one.&lt;/p&gt;
-
-&lt;h2 id=&quot;developing-integrations-exp&quot;&gt;Developing Integrations Exp&lt;/h2&gt;
-&lt;p&gt;About 8 years ago, we were asked to estimate, develop and implement a module to our in-house made web product catalog system so it would integrate with ours customers inventory systems, they have a bunch of stores all over my home city, Caracas - Venezuela.&lt;/p&gt;
-
-&lt;p&gt;They are a pharmacy, and the motivation behind the online system was to save customers time and money, by giving them price and availability information with a 20 minutes delay providing them with better service vs the 24 hours delay of the competition back then.&lt;/p&gt;
-
-&lt;p&gt;Over time, and while the scarcity of medicines and other products increased, this channel transformed the buisiness making it the priority over the conventional printed catalog, helped a lot of people including myself to find their medicine, and was responsible for giving meaning and direction to our team and the evolution of that software&lt;/p&gt;
-
-&lt;p&gt;We ended up integrating warehouse information from international companies, and doing consulting for integrating information for health clubs.&lt;/p&gt;
-
-&lt;p&gt;The integration problem is not a new one, it’s always been there. You have information in different systems about users, products and other entities, and they are in seperate system across the company.&lt;/p&gt;
-
-&lt;p&gt;“Hello sir! We will provide the information in a few days, the information about stock is in the warehouse accounting system, the new arrivals in the purchasing, and your quote will have to be handled by X. Will inform you as soon as we can”&lt;/p&gt;
-
-&lt;p&gt;This service was ok a few years back, but todays users, both consumers and B2B, expect faster responses, expect Amazon service, they want the information, and they want it now, to make their desicion, which needs to be made this morning, and they need it accurate.&lt;/p&gt;
-
-&lt;p&gt;On-time information is simply more valuable then ever.&lt;/p&gt;
-
-&lt;p&gt;Integration between systems to provide unified views is a common problem that traditionally only enterprises were able to address: to be able to provide an unified view of information that is usually scattered across systems.&lt;/p&gt;
-
-&lt;h2 id=&quot;saas-complexity-and-small-buisiness&quot;&gt;SaaS Complexity and small buisiness&lt;/h2&gt;
-
-&lt;p&gt;Now, on top of this,&lt;/p&gt;</content><author><name>Ernesto Butto</name><email>ernesto@catwizard.io</email></author><category term="PIM / MDM" /><category term="Software Integration" /><category term="software" /><summary type="html">Software Integrations</summary></entry><entry><title type="html">LingoStand Post 1</title><link href="http://blog.catwizard.io/2018/11/07/lingostand_1.html" rel="alternate" type="text/html" title="LingoStand Post 1" /><published>2018-11-07T00:00:00+01:00</published><updated>2018-11-07T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/11/07/lingostand_1</id><content type="html" xml:base="http://blog.catwizard.io/2018/11/07/lingostand_1.html">&lt;p&gt;LingoStand mission is to help users attain communication level in a new language as quickly as possible or to take their current level, test it and enhance it.&lt;/p&gt;
-
-&lt;p&gt;It does this by assisting the user to practice and learn the most used words in a language on its real context.&lt;/p&gt;
-
-&lt;p&gt;Of all the millions of words on a language, you only need to understand a small set to be able to communicate and learn how to use them in real life.&lt;/p&gt;
-
-&lt;p&gt;Native speakers with a low education level do not know a big set of words. But they only need a small group of words to be able to communicate. If you go surfing in Venezuela, you need only to speak with native fishermen, and you can communicate using a small word set.&lt;/p&gt;
-
-&lt;p&gt;It’s been proven multiple times that to learn faster, is better for you to use content that you are really interested in, because you practice with more often, with intention and interest. For this reason, we are constantly updating our library with new trending articles as well as classic books and stories.&lt;/p&gt;
-
-&lt;p&gt;We are constantly re-inventing our interface and technology around these goals.&lt;/p&gt;</content><author><name>Ernesto Butto</name><email>ernesto@catwizard.io</email></author><category term="learn language" /><category term="lingostand" /><category term="software" /><summary type="html">Why Lingostand</summary></entry><entry><title type="html">The meaning of life for a software professional</title><link href="http://blog.catwizard.io/2018/10/22/meaning.html" rel="alternate" type="text/html" title="The meaning of life for a software professional" /><published>2018-10-22T00:00:00+02:00</published><updated>2018-10-22T00:00:00+02:00</updated><id>http://blog.catwizard.io/2018/10/22/meaning</id><content type="html" xml:base="http://blog.catwizard.io/2018/10/22/meaning.html">&lt;p&gt;I want to talk about the meaning of life, about how I’m working towards finding it through my work and to share my journey. Hopefully, it helps someone in some unforeseen way, worst case it helps me explore myself.&lt;/p&gt;
-
-&lt;p&gt;My wife and I have run a small Software Consulting Development company for years, but we are in transition to becoming an Independent Software development company or studio.&lt;/p&gt;
-
-&lt;p&gt;I’m of course much more complex than a software developer tag, consultant, programmer, etc… just like you are much more complex than your professional tag.&lt;/p&gt;
-
-&lt;p&gt;I’m also a book addict, specially self-help book addict, especially to practical books…  I really like testable information. Read, analyze, test, do it again.&lt;/p&gt;
-
-&lt;p&gt;Something I like about software and self-help books is how both can change the current course of your life. For me, the code in both sources contains real magic, assuming they are one of the good ones.&lt;/p&gt;
-
-&lt;p&gt;I can read a book, and if it’s the right book at the right time it can transform my life forever.&lt;/p&gt;
-
-&lt;p&gt;To accomplish this, I need to take the time to read it slowly, allowing the information to take a hold a little each day in me, like a plant you water and it slowly starts to grow, changing my thoughts, my believes, my habits and finally my circumstances. They can be a transformative experience.&lt;/p&gt;
-
-&lt;h2 id=&quot;from-quiting-to-healing-back-backpain-to-finding-meaning&quot;&gt;From quiting, to healing back backpain, to finding meaning&lt;/h2&gt;
-&lt;p&gt;Take Allen Carr’s Easy Way to Stop Smoking for example, man talk about a good investment!! I smoked a lot since I was 15 years old up to 36, and the few attempts I had made of quitting were pathetic. A few months and then I was back. After reading that book a bit each day, I developed a complete rejection for a cigarette. 2 years have passed and I can’t stand the smell of it, I respond to it like a non-smoker would.&lt;/p&gt;
-
-&lt;p&gt;It is one thing to fight a bad habit with willpower “one day at the time”, and another one entirely to re-write your programming to reject it not needing willpower at all. If you reprogarm yourself correctly, you just can’t stand the smell, no will power needed. What did the book say? What was the revolutionary message? Smoking is bad for you health, your economy, your self confidence… etc… I had offcourse heard the messages before, but it was written in such a way that if you consumed about 30 minutes each day of the book, by the end of it I really belived the message, it was part of my unconscious. At some point in the reading and real life observation cycle something clicked, I made a desicion, and from that instant I felt a rejection for cigarettes.&lt;/p&gt;
-
-&lt;p&gt;Another practical example is John Sarno’s Healing Back Pain book. I had a recurrent and very painful back spasms since 2012 until May 2017. Every 2 or 3 months my back got stiff, and every move in any direction was a world of pain. If I layed out and took anti-inflammatory medicine, in the course of a week I would be able to move again and pretend that nothing happened and I was ok. The first time I got it I was doing longboarding in Caracas and suddenly PAF… had to sit on the sidewalk and walk back home moving like a robot.&lt;/p&gt;
-
-&lt;p&gt;I did not want to go to the doctors, I was afraid they would give the pain a name and made the problem permanent. I’ve lost many outdoors activities buddies due to back pain diagnosis. Doctors do the best they can generally, but I learned through experience that an error in the diagnosis can condition oneself to always being sick, and even create an issue where there was none.&lt;/p&gt;
-
-&lt;p&gt;Read the book in May 2017 after a very shameful episode at the CrossFit box, again a few pages each day, and well, no more episodes until now (November 2018). Again, abut 30 minutes a day, my thoughs started to change, the pain started to change slowly, until one day I made a life desicion and started to act accordingly and the pain was gone (turns out having internal conflicts causes all kinds of physicall pains).&lt;/p&gt;
-
-&lt;h2 id=&quot;software-and-search-for-meaning&quot;&gt;Software and Search for Meaning.&lt;/h2&gt;
-
-&lt;p&gt;I could go on and on about all these books, and how they are continually shaping my life, but let’s focus on the main subject of this message: Meaning of Life. And for that, I’ll reference a book that contains something very special: Viktor Frankl’s Man’s Search for Meaning.&lt;/p&gt;
-
-&lt;p&gt;As I said I favor tested practical content above theorists, and this one is tested in one of the most extreme environments ever produced in the history of mankind… Hitler’s concentration camps.&lt;/p&gt;
-
-&lt;p&gt;The fact that the author (who was one of the prisoners) illustrated in crude hardcore HD that physically strong people had far less chance of survival than educated unathletic people who were able to give their life meaning baffled me.&lt;/p&gt;
-
-&lt;p&gt;The story of how people, when lost meaning entered a recognizable state that inevitably leads to death, made me wonder for days.&lt;/p&gt;
-
-&lt;p&gt;But one of the most incredible lessons was, that the meaning in your life is something you have to give to yourself. You have to make it up, make your own story, or borrow someone else’s and adjust it, do what you need to do to fabricate your reason to be in the world and then believe it, really believe it. And if you do, you will have a clear goal, and lot’s of energy to accomplish it.&lt;/p&gt;
-
-&lt;p&gt;You will find solutions to problems, and grow stronger as your solve them. One thing I got from Victor Frankling is that those who had meaning not only survived the concentration camps, but they were able to have a full life afterwards. They did not turn to the dark side, but were able to have a good life themselves and contribute making the world better.&lt;/p&gt;
-
-&lt;p&gt;Makes sense, I though, if you think about it. We are constantly making up stories to ourselves. Think about history’s highlighted characters, those that seem to have a driving force beyond human.&lt;/p&gt;
-
-&lt;p&gt;Take for example Magallanes and his crew, these guys actually did go around the world for the first time in history with equipments that shouldn’t have worked! First to America crossing the Atlantic, then discovered el canal de Magallanes mainly through believing that it existed without any proove, and then went and crossed the Pacific which was 3 times the lenght!! Compare them with todays astronauts that can pre plan the course… not taking anything out of our astronauts, I find them incredible, but they do have a bunch of thing estimated.&lt;/p&gt;
-
-&lt;h2 id=&quot;we-create-our-meaning-no-one-can-do-it-for-us&quot;&gt;We create our meaning, no one can do it for us.&lt;/h2&gt;
-&lt;p&gt;It’s not even important how big or important to others is this meaning, it only matters how big or important it is for you. Your world is what it’s really important. Viktor Frankl talked about people who’s meaning was taking care of their son, sharing time with his partner, or helping a friend that was in the camp. Others like Viktor were able to create other kinds of meaning, as a neurologist and psychiatrist, he saw himself comunicating the message of healing through meaning.&lt;/p&gt;
-
-&lt;p&gt;In other words, it is our job to find reasons to be excited about what we are doing.&lt;/p&gt;
-
-&lt;p&gt;However, one note based on expirience: This thing works much better if the meaning is a responsible one. I used to think that responsability was the opposite of freedom, but what I realized with this book is that freedom is a wide concept that has 2 sides of an spectrum, in one side is selfishness and in the other responsability.&lt;/p&gt;
-
-&lt;p&gt;(ShowImage?)&lt;/p&gt;
-
-&lt;p&gt;The responsability side is the one you can use as an element to create your meaning, the side that let’s you collaborate with what you have to give, transform your expiriences and your skills and put it at service.&lt;/p&gt;
-
-&lt;h2 id=&quot;consecuences-of-no-meaning&quot;&gt;Consecuences of no Meaning&lt;/h2&gt;
-&lt;p&gt;Viktor exemplifies how once meaning is lost, the persue of immediate pleasure takes over. In concentration camps, it was a clear sign that someone gave up, and his time on this earth was a matter of hours&lt;/p&gt;
+&lt;h2 id=&quot;thank-you-integration-for-relieving-the-pain&quot;&gt;Thank you Integration, for relieving the pain&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;…a behavior pattern crystallized to which they referred as “give-up-itis.” In the concentration camps, this behavior was paralleled by those who one morning, at five, refused to get up and go to work and instead stayed in the hut, on the straw wet with urine and feces. Nothing—neither warnings nor threats—could induce them to change their minds. And then something typical occurred: they took out a cigarette from deep down in a pocket where they had hidden it and started smoking. At that moment we knew that for the next forty-eight hours or so we would watch them dying. Meaning orientation had subsided, and consequently the seeking of immediate pleasure had taken over.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Scotty:&lt;/strong&gt; She’s all yours, sir. All systems automated and ready. A chimpanzee and two trainees could run her!&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Captain Kirk:&lt;/strong&gt; Thank you, Mr. Scott. I’ll try not to take that personally.&lt;/p&gt;
+
+  &lt;p&gt;— &lt;a href=&quot;http://quotegeek.com/quotes-from-movies/star-trek-iii-the-search-for/6805/&quot;&gt;STAR TREK&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This is why, his conclusion, one he was able to test and put into practice during the war and for years after, is that meaning is our must important drive&lt;/p&gt;
+&lt;p&gt;My wife and I came out of the dentist office. She went for a check-in but they had to operate, she ended up drugged, and disoriented.&lt;/p&gt;
+
+&lt;p&gt;“Make sure she takes this drug in the next hour or so, else the pain will bring her to tears once the sedative wears off, there is a pharmacy right in front of the building, but you know, lately patients have told me the drug is hard to find”&lt;/p&gt;
+
+&lt;p&gt;It was a sunny day in Caracas, Venezuela, and the drug was a common one, but our political and economic situation was starting to be uncommon. We went to the pharmacy, no luck, then to the next one… same luck… none!&lt;/p&gt;
+
+&lt;p&gt;Time was running out when she grabbed me by the arm while I was driving, and told me… “Use the web page we developed for god’s sake!! It’s starting to hurt!!”… Riiiight, I had forgotten about that one…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/integrations_1/farmaplus_2.png&quot; alt=&quot;farmaplus&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-sacredness-of-time-your-most-important-resource&quot;&gt;The sacredness of time, your most important resource&lt;/h2&gt;
+
+&lt;p&gt;Man is ill-equipped to manage time, however, time is the most important resource in your life, and in your business. Traditionally, business theory teaches us that there are 3 types of resources: Capital, People and Time. Let’s break it down:&lt;/p&gt;
+
+&lt;h3 id=&quot;capital&quot;&gt;Capital&lt;/h3&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Life is not primarily a quest for pleasure, as Freud believed, or a quest for power, as Alfred Adler taught, but a quest for meaning.&lt;/p&gt;
+  &lt;p&gt;Time is also a unique resource. Of the other major resources, money is actually quite plentiful. We long ago should have learned that it is the demand for capital, rather than the supply thereof, which sets the limit to economic growth and activity&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Hmmm, so what about the reward system that is so used now? You know, the incentive system that the best employers put a lot of effort into implementing, the psychological game that must be part of a good negotiation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Source: &lt;a href=&quot;https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459&quot;&gt;The Effective Executive&lt;/a&gt;
+ by Peter F. Drucker&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;That reward system embeded in games, your instagram likes, the system to be hacked in your new diet, to contrarest the pleasure of sugar, and the pain of tasteless brocoli… Well this is what the extreme experiment reveals about it:&lt;/p&gt;
+&lt;h3 id=&quot;people&quot;&gt;People&lt;/h3&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;…man’s main concern is not to gain pleasure or to avoid pain but rather to see a meaning in his life. That is why man is even ready to suffer, on the condition, to be sure, that his suffering has a meaning.&lt;/p&gt;
+  &lt;p&gt;And regarding people, we can always hire people, even though good people are hard to find.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;One important note!&lt;/p&gt;
+&lt;h3 id=&quot;but-time&quot;&gt;But Time…&lt;/h3&gt;
+
+&lt;p&gt;But for time, no matter how high the demand, the supply will not go up. There is no price for it, and it can’t be stored in any way. Yesterday time is gone and it will never come back.&lt;/p&gt;
+
+&lt;p&gt;On top of that, everything requires time, it is the true and only universal condition. All work takes time, uses time, requires time.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;But let me make it perfectly clear that in no way is suffering necessary to find meaning. I only insist that meaning is possible even in spite of suffering—provided, certainly, that the suffering is unavoidable. If it were avoidable, however, the meaningful thing to do would be to remove its cause, be it psychological biological or political. To suffer unnecessarily is masochistic rather than heroic.&lt;/p&gt;
+  &lt;p&gt;… Yet most people take for granted this unique, irreplaceable, and necessary resource. Nothing else, perhaps, distinguishes effective executives as much as their tender loving care of time.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;REVISE HASTA AQUI&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/time.jpg&quot; alt=&quot;Time&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;So, after going through all that I was like…. ok, how can I contribute? How can I find meaning? They say that questions will focus your attention into finding answers… Because finding meaning is something I definelty want in my life.&lt;/p&gt;
+&lt;p&gt;Yes, the best executives in the world go to great lengths to learn how to save their time, so they can use where it matters most, where it makes a difference.&lt;/p&gt;
 
-&lt;p&gt;What is meaning? I would say, simply, something to live for, something to work for. A reason. For me it’s the story we make up ourself of &lt;strong&gt;why&lt;/strong&gt; we are doing &lt;strong&gt;what&lt;/strong&gt; we are doing. This &lt;strong&gt;why&lt;/strong&gt; and &lt;strong&gt;what&lt;/strong&gt; must be compelling enough.&lt;/p&gt;
+&lt;p&gt;However, there is a way to use systems to create pockets of time for everyone in the business. For the customer, employee, provider, manager, stakeholder, and for the most important person of all, for you…&lt;/p&gt;
 
-&lt;p&gt;As a software professional I have felt a little of this in the past, I hope you have too. For example, in Venezuela we proposed and implemented an online system for some pharmacies so people could find medications. It updated inventory information from every branch of a city for each of their 7,500 product catalog. Back when we implemented it about 8 years ago, medical shortage was a big thing in Venezuela, and it’s worst each day. Now it’s a tragedy, just check it out for youself: [http://www.farmaplus.com.ve/#!/products].&lt;/p&gt;
+&lt;p&gt;What is the way? You might ask, well there are not many, one of them I can talk about… Systems.&lt;/p&gt;
 
-&lt;p&gt;That project made little profit, but back then it helped a lot of people, and some years afterwards when we ourselves needed the service urgently we were very happy to have built it. From all the projects we developed back then, that one I always remember with particular satisfaction, like we contributed. It is still used a lot daily by thousands of people.&lt;/p&gt;
+&lt;p&gt;“But I already have systems in the business” you might say… “in fact we have many. And man, what a complication it is! It’s overwhelming!”&lt;/p&gt;
 
-&lt;h2 id=&quot;contrasting-this-with-other-more-profitable-projects&quot;&gt;Contrasting this with other more profitable projects&lt;/h2&gt;
+&lt;p&gt;But ask your self, are your systems working together ? are they &lt;strong&gt;team&lt;/strong&gt; players or individualists? Are they designed to &lt;strong&gt;collaborate and to create a better system or eco-system&lt;/strong&gt; for everyone or are they wasting lots of your time? Do they help you to provide the service expected by today’s standards?&lt;/p&gt;
 
-&lt;p&gt;We have built other systems and work for different companies after that. We had an ecommerce project for women handbags in which users could pick a color and color it’s parts. Or another one where we helped cosmetic bottles and accesories distributors located in Miami, New Jersy and California to pick and quote cases of thousands of product using integrations to the wharehouses.&lt;/p&gt;
+&lt;p&gt;The design and successful implementation of integrations create a wealth of time. Just in time information converts into fast service, and less worry.&lt;/p&gt;
 
-&lt;p&gt;Both project where very interesting to make, however the feeling is not the same, knowing that what you made is helping people who really need it just give another meaning.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;A man is rich in proportion to the number of things he can afford to let alone&lt;/p&gt;
 
-&lt;p&gt;So what to do in these cases? A B2B distributor for example? Well we focused our meaning on how this features could make the employees lives of the people who worked in Businesses better, their employees, people we interacted with, people that worked with us in the projects. Once we focused our meaning on serving them then it was a fullfilling experience.&lt;/p&gt;
+  &lt;p&gt;-— HENRY DAVID THOREAU, naturalist&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h2 id=&quot;what-you-do-infintly-more-important-than-how-you-do-it&quot;&gt;What you do infintly more important than how you do it&lt;/h2&gt;
-&lt;p&gt;Ok, so this sentence I got from Tim Ferris and adopted it as a believe. We in the tech industry sometimes get so caught up on the perfect framework, the best methodology, the best language… Then we try to align our meaning to using this tools, and sometimes we can, but some times we force it.&lt;/p&gt;
+&lt;p&gt;But! Just as a drug, systems can do wonders if prescribed correctly, and wreak havoc if applied incorrectly. Take your time to understand the design.&lt;/p&gt;
 
-&lt;p&gt;Our Industry teachs us that success is more about going viral, or having a good paying job, or nailing it as consultant with a high rate per hour.&lt;/p&gt;
+&lt;p&gt;Designing these collaborations is not an easy task, and it’s becoming mandatory for survival, I hope this article saves you time, your most valuable resource, and points you in the right direction.&lt;/p&gt;
 
-&lt;p&gt;We as human need this too, we need to have the need of certainty fulfilled, that we are going to be able to pay our bills, help our families, eat, have a roof, etc… Beleive me as a traveling inmigrant that can’t return to his country because it’s in a very bad shape, I know how important this is.&lt;/p&gt;
+&lt;p&gt;Before we go deeper, I want to give you 2 tips that I hope make a difference for you. If you keep these tips in mind in your process then I can die in peace, my work is done in this world. It’s amazing the impact of these 2 and how few organizations do them:&lt;/p&gt;
 
-&lt;p&gt;But once you have a minimum certainty, meaning goes a long way, or as authous such as Viktor have demostrated, meaning will give you beyon human strenght&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tip 1: Test Before You Implement. Yes, do some mockups, or prototypes. They can be done in Google Slides, Invision, or a piece of paper, and put users to the test. This will save you money and time in a huge way, it will help you estimate much better the scope, the development will be in a fraction of the time, and your end product will be many times better. It can save you years!!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tip 2: Calculate your Return Of Investment: Measure your time wasters before and after. Hey, let’s focus on the objective, time is money and both can be measured. Doing an integration project have Tangible Benefits, such as &lt;em&gt;time reduction in tasks&lt;/em&gt;, and Intangible benefits such as &lt;em&gt;ability to offer improved customer service and support&lt;/em&gt;. Focus on Measuring tangible measures.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Return of investment on correctly implemented system integrations are HUGE, and measuring them is necessary to enable the success of the project, justify future developments, and ensure that your organization gets value for your money. &lt;a href=&quot;https://www.axia-consulting.co.uk/html/basic_roi_calculation.html&quot;&gt;See this guide for tools and spreadsheets to get you started&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Every business is a software business”&lt;/em&gt; said Watts S. Humphrey, the father of quality in software and CMMI 2 decades ago, and it’s &lt;strong&gt;repeated by The CEO of Microsoft, Satya Nadella&lt;/strong&gt; today:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Every company is a software company. You have to start thinking and operating as a digital company. It’s no longer just about procuring one solution and deploying one. It’s not about one simple software solution. It’s really you yourself thinking of your own future as a digital company.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-pim-sap-zapier-and-bi-have-in-common&quot;&gt;What do P.I.M, S.A.P, Zapier and B.I have in common&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/integrationBoards.png&quot; alt=&quot;Integration_Boards&quot; /&gt;
+&lt;a href=&quot;https://www.flydata.com/the-6-challenges-of-big-data-integration/&quot;&gt;flydata.com: The-6-challenges-of-big-data-integration&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In short, they are all tools to centralize the data across different systems and creating meaningful views from them. Useful, time-saving, smile givers, decision empowering, wealth builders information in human format. Here are some formal concepts:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;BI&lt;/td&gt;
+      &lt;td&gt;Business Intelligence&lt;/td&gt;
+      &lt;td&gt;Delivers relative and reliable information at the right people, at the right time, using methods and programs to collect and structure data, and presents it in a meaningful and actionable way.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;MDM&lt;/td&gt;
+      &lt;td&gt;Master Data Management&lt;/td&gt;
+      &lt;td&gt;Master Data is the consistent and uniform set of identifiers and extended attributes that describes the core entities of the enterprise including customers, prospects, citizens, supplier, sites, hierarchies and chart of accounts&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PIM&lt;/td&gt;
+      &lt;td&gt;Product Information Management&lt;/td&gt;
+      &lt;td&gt;Manages the information required to market and sell products through distribution channels. A central set of product data can be used to feed information to media such as websites, print catalogs, ERP systems, and electronic data feeds to trading partners.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Zapier&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Easy automation for busy people. Zapier moves info between your web apps automatically, so you can focus on your most important work.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Now, before feeling overwhelmed about the challenge, know this.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You can reap the benefits of integrations, of becoming “digital” one small step at the time. You do not need to invest in a 3-year project now, just commit to 3 months, do a small integration, enjoy the returns of your investment, and afterward put the next brick.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Slowly but uninterrupted. This is a much faster way to become digital, it creates a habit around development, and habits my friend bring on tangible results.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tip&lt;/strong&gt;: &lt;strong&gt;Aim for effectiveness and leave efficiency for later&lt;/strong&gt;. What is the one question that if answered faster would solve many problems at once, for the most people in the company? Identify and focus on that one, do not try to take on 10 unarticulated data problems. You won’t solve them, you will create a 7 head beast that will breathe down your neck every night at bedtime, it will waste money, team effort, and most important, waste tons of Time.&lt;/p&gt;
+
+&lt;p&gt;Being &lt;strong&gt;effective&lt;/strong&gt; is about doing the right things while being &lt;strong&gt;efficient&lt;/strong&gt; is about doing things right. Don’t be efficient about things that don’t matter.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Learn to keep the door shut, keep out of your mind and out of your world every element that seeks admittance with no definite helpful end in view.”&lt;/p&gt;
+
+  &lt;p&gt;– George Mathew Adams&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Combining your current systems can achieve more than you can imagine, in most cases more than acquiring new systems. Don’t believe me? ask most legacy banks in the world in what language do they run their core… Does &lt;em&gt;Cobol&lt;/em&gt; rings a bell? well it shouldn’t, Cobol is one old piece of technology, no longer taught in most computer science careers, but a scary size of the financial transactions of the world runs on top of it, &lt;a href=&quot;https://devops.com/cobol-completely-obsolete-omnipresent-language/&quot;&gt;around 80%!&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cobol.jpg&quot; alt=&quot;Cobol Image&quot; /&gt;
+&lt;em&gt;From &lt;a href=&quot;https://devops.com/cobol-completely-obsolete-omnipresent-language/&quot;&gt;COBOL: Completely Obsolete But Omnipresent Language&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;However, combine Cobol with newer tech like mobile apps, and it creates powerful experiences.&lt;/p&gt;
+
+&lt;h2 id=&quot;our-first-and-simple-integrations-exp&quot;&gt;Our first and simple Integrations Exp&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The vision is really about empowering workers, giving them all the information about what’s going on so they can do a lot more than they’ve done in the past.&lt;/p&gt;
+
+  &lt;p&gt;—BILL GATES, co-founder of Microsoft, richest man in the world&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;About 8 years ago, we were asked to estimate, develop and implement a module to our in-house made web software, an online web catalog system (yes the one at the intro!), so it would integrate with the accounting systems of all the stores and provide one unified view of product information.&lt;/p&gt;
+
+&lt;p&gt;Farmaplus is a pharmacy, and the motivation behind the online system was to save customers time, by giving them price and availability information based on inventory rotation with a 10 to 15 minutes delay, providing them with better service vs the 24 hours delay of the competition back then.&lt;/p&gt;
+
+&lt;p&gt;It saved time to customers, to employees, gave useful information to laboratories, helped managers and gave a piece of mind to stakeholders.&lt;/p&gt;
+
+&lt;p&gt;Over time, and while the scarcity of medicines and other products increased, this channel transformed the business making it the priority over the conventional printed catalog, became a sales focus point, helped a lot of people including myself to find their medicine, and was responsible for giving meaning and direction to our team and the evolution of that software&lt;/p&gt;
+
+&lt;p&gt;Years after we internationalized we kept working on integrations, connecting nationals and internationals companies with all kinds of systems: CRM’s such as Salesforce, commercial websites, quoting systems, Shopify implementations, accounting systems,  warehouses, health clubs, and more.&lt;/p&gt;
+
+&lt;h2 id=&quot;market-facts-systems-integrations-an-increasing-focal-point-for-businesses&quot;&gt;Market Facts: Systems Integrations, an increasing focal point for businesses&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“It is your decisions, and not your conditions, that determine your destiny.”&lt;/p&gt;
+
+  &lt;p&gt;– Tony Robbins&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Making the decision at the right time define our reality… But for making a good enough decision, we need key information, at the right time.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Where are you going bro?”, I asked my brother some years back as I watched him getting ready to party!&lt;/li&gt;
+  &lt;li&gt;“My company is throwing a party, it’s going to be a sick man!”&lt;/li&gt;
+  &lt;li&gt;“Awesome! what are you guys celebrating?”&lt;/li&gt;
+  &lt;li&gt;“It appears that after 3 years and millions of dollars, our company finally integrated systems from different departments! Everyone is very excited!”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Yeah… brace yourself, bro, it’s going to get geeky. Market and SKU geeky.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/pim_forrester.png&quot; alt=&quot;Pim Forrester 2018&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Last year, I did months of market research around product information and integration software. We had created a system over the years that solved many integrations issues. We decided to create a business plan for evaluation and see how far could we take it, thus I talked to a lot of software vendors, following the white rabbit into a deep rabbit hole.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.enterworks.com/pim/enterworks-leads-2018-forrester-wave-product-information-management/&quot;&gt;Source: 2018-forrester-wave-product-information-management&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are some facts I pulled out from the research that might hopefully prompt you to take some kind of action:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;By 2015, 64% percent of adults in the USA &lt;strong&gt;buy online because the products presented there have more precise information than in stores.&lt;/strong&gt;* &lt;em&gt;- Source: Forrester 2016: Product Information Management Solutions, Q4 2016&lt;/em&gt;. This strategy seems to work, according to &lt;a href=&quot;https://www.statista.com/topics/2477/online-shopping-behavior/&quot;&gt;statista.com&lt;/a&gt;, retail e-commerce sales worldwide are forecast to nearly double between 2016 and 2020.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Experiences in the B2C world increase B2B purchases&lt;/strong&gt;, almost 75% say that buying from a web page is more convenient than buying to sales representatives when they buy products or services for work. &lt;em&gt;-Source: PIM Is A Cornerstone Of Your Digital Business Why Customer-Obsessed Firms Need Product Information Management January 18, 2017&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.inriver.com/&quot;&gt;InRiver&lt;/a&gt;, one of the leading PIM vendors, claims that they have an &lt;strong&gt;annual growth rate (CAGR) of %70&lt;/strong&gt;. I did check other vendors data, and all of them have grown big time.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;87% of data leaders and analysts implemented or are planning to implement or expand on PIM&lt;/strong&gt; (Software Integration for Products). Why? Managing spreadsheet and separated systems is not sustainable. To save time, minimize errors, increase the time to market, and manage constantly changing requirements content for allies, digital business need automated checks &lt;em&gt;- Source: Vendor Landscape: Product Information Management (PIM), Q3 2017&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In 2015, %67 of decision makers related to infrastructure said that develop a complete strategy in the cloud was a high or critical priority. &lt;strong&gt;Additionally %56 projected an increase on investment in cloud services by the end of 2015.&lt;/strong&gt; &lt;em&gt;- Source: The Forrester WaveTM: Master Data Management, Q1 2016&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-summarized-checklist-for-software-integration&quot;&gt;A Summarized Checklist for Software integration&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The vision always precedes and itself determines the realization.”&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Lillian Whiting&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Yes, a clear vision of the end goal is the most important part, luckily we can rely more on processes to accomplish this, and less in mindfulness meditation.&lt;/p&gt;
+
+&lt;p&gt;I believe in processes and methods, in lists and frameworks. This is a simplified checklist of what I consider a very challenging part in software integration. Creating a clear end goal in mind, and modeling the data from the different systems to meet the goal, are both challenging parts of the process.&lt;/p&gt;
+
+&lt;p&gt;With the purpose of keeping this post relatively short, I created a separate post to talk about this subject in detail. The following is a quick list to give you an idea if it interests you can find more content and references in &lt;a href=&quot;&quot;&gt;PART 2 of this post&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Design and test a prototype/mockup: Having the end goal clear.&lt;/li&gt;
+  &lt;li&gt;Measure before and after: Ensure value for your money&lt;/li&gt;
+  &lt;li&gt;Modeling Data: Identify Data Entities&lt;/li&gt;
+  &lt;li&gt;Choosing the Architecture: Centralized Vs Virtualized&lt;/li&gt;
+  &lt;li&gt;Identify Source Systems: Where is my data?&lt;/li&gt;
+  &lt;li&gt;Choose The Matching Strategy: How to tie it all together.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Whatever we choose to develop a tailored system, or customized an off-the-shelf-solution, these steps are common to both approaches.&lt;/p&gt;
+
+&lt;h2 id=&quot;finding-the-middle-ground-custom-vs-off-the-shelf-software&quot;&gt;Finding the middle ground: Custom vs Off The Shelf Software&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Just set it and forget it!&lt;/p&gt;
+
+  &lt;p&gt;—- RON POPEIL, founder of RONCO; responsible for more, than $1 billion in sales of rotisserie chicken roasters&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As you can see in the previous steps, you need to understand why are you doing the integration, identify what data to use, from which systems, and figure out how to merge them together.&lt;/p&gt;
+
+&lt;p&gt;I recommend to Re-use what is working, use third-party for specific and tested solutions like CRM or E-commerce, and customize the part of your eco-system that ties everything together, that makes you unique… The integration core, the business core.&lt;/p&gt;
+
+&lt;p&gt;You don’t want to invest in a year project, with a complete re-write or replace of a system, experience major downtime and potential errors, just to have the same system you had before.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Word of caution:&lt;/strong&gt; Vendors are usually interested in selling their software. Most commercial offers from the companies that I talked to for P.I.M software do not include the integration itself to the systems in the company, they redirect you to integrators that they know, who at the end of the day, are going to be the more important role than the systems you are buying.&lt;/p&gt;
+
+&lt;p&gt;And they will not tell you this clearly but at the very end of the selling process. At first is all “yes, yes, do not worry, this is what the package is worth, these are the yearly fees, and with that, your problems will be solved, etc…”.&lt;/p&gt;
+
+&lt;p&gt;There are several vendors out there, but last time I checked, very few offered key on hand solutions and the ones that do serve the Enterprise segment.&lt;/p&gt;
+
+&lt;h2 id=&quot;jhipster-a-recommended-custom-development-technology&quot;&gt;Jhipster: A Recommended Custom Development Technology&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/logo-jhipster.png&quot; alt=&quot;jhipster logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We have developed a lot of system integrations, and if I had to choose today what technology to use for your custom solution, I recommend &lt;a href=&quot;https://www.jhipster.tech/&quot;&gt;Jhipster&lt;/a&gt;. After years of consultancy and tons of custom development, I find this platform the most productive and incredibly robust.&lt;/p&gt;
+
+&lt;p&gt;The main benefit of our experience are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reliable&lt;/li&gt;
+  &lt;li&gt;Quality&lt;/li&gt;
+  &lt;li&gt;Speed&lt;/li&gt;
+  &lt;li&gt;Maintainable&lt;/li&gt;
+  &lt;li&gt;Flexible&lt;/li&gt;
+  &lt;li&gt;Secure&lt;/li&gt;
+  &lt;li&gt;Economic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In short, a big time saver, with a huge B and humongous I and unmistakable G. BIG time.&lt;/p&gt;
+
+&lt;p&gt;Jhipster generates Spring Code at the back end. &lt;a href=&quot;https://spring.io/&quot;&gt;Spring&lt;/a&gt; is the de-facto standard in Enterprise Java, it has been around for at least 16 years, some define it as the source for modern java. It’s reliable, tested and has a huge community, incredibly active, of enterprise developers.&lt;/p&gt;
+
+&lt;p&gt;For the front end, there is all sort of options: Angular, React and I saw a Vue.js plugging at their marketplace recently. There are also mobile hybrid generators for both Angular and React tech.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/jhipster_logos.png&quot; alt=&quot;using jhipster&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.jhipster.tech/companies-using-jhipster/&quot;&gt;and many more&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Think of it as a magic weapon, you need enough level to use it, but when used correctly it generates enterprise quality for a fraction of the costs. You can integrate technologies that usually would take weeks to integrate, in moments, allowing smaller companies to enjoy the benefits of enterprise technology.&lt;/p&gt;
+
+&lt;p&gt;Developers using the framework also increase their level considerably, since the generated code follows certified best practices, and the tool encourages you to generate a lot of code to save time, developers learn by example.&lt;/p&gt;
+
+&lt;p&gt;Here are some of the features:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Incredible fast code generation with many options depending on your needs&lt;/li&gt;
+  &lt;li&gt;A development profile for fast front and backend development&lt;/li&gt;
+  &lt;li&gt;A Production profile ready setup (optimized and tested).&lt;/li&gt;
+  &lt;li&gt;Generates ready to use API and documentation for web and mobile apps as you code&lt;/li&gt;
+  &lt;li&gt;Generation of automated tests for both backend and frontend&lt;/li&gt;
+  &lt;li&gt;Quality code analyzer with sonar cloud, to maintain the project secure and easy to maintain&lt;/li&gt;
+  &lt;li&gt;SQL, and no SQL databases options such as Oracle, Mysql, Postgre, MongoDB, Casandra, Couchbase&lt;/li&gt;
+  &lt;li&gt;Allows API-First development, code generation, and documentation&lt;/li&gt;
+  &lt;li&gt;Cache options for enhancing performance such as Ehcache, Hazelcast, Infinispan, Memcached&lt;/li&gt;
+  &lt;li&gt;Enterprise-ready Spring Security, out of the box, with users and roles predefined.&lt;/li&gt;
+  &lt;li&gt;Out of the box enterprise search features, such as entity filtering and elastic search.&lt;/li&gt;
+  &lt;li&gt;WebSockets integration for real-time communication&lt;/li&gt;
+  &lt;li&gt;Option to generate Microservices Architecture code generation for big scalable projects.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;Turns the main question that one would ask if you could go back in time and talk to these guys is Why? Why did you do all that? What motivated you? Well… each of them had different why’s different meanings. The stronger the meaning the more challanges were able to overcome. The stories of these guys makes the pirates of the caribean look boring.&lt;/p&gt;
+&lt;h2 id=&quot;thank-you-support-if-you-can&quot;&gt;Thank You, support if you can&lt;/h2&gt;
 
-&lt;p&gt;Was it will power? No, will power is very limited. Unconsciuos is incredible powerful. And it al comes to the meaning, to the why, and we can give ourself this meaning by fabricating our own story. Isn’t that amazingly? I think it’s more incredible then most scifi or fantasy stories. And it’s real, and we all have it.&lt;/p&gt;
+&lt;p&gt;We hope this article was fun and helpful for you. If you want me to keep generating content for you, you can tell me what would you like to help you with and you can help us by donating a small contribution in our &lt;a href=&quot;https://www.patreon.com/ernesto_and_cindy&quot;&gt;patreon page&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;It’s not even important how big or important to others is this meaning, it only matters how big or important it is for you. Your world is what it’s really important. Viktor Frankl talked about people who’s meaning was taking care of their son, sharing time with his partner, or helping a friend that was in the camp. Others like Viktor were able to create more meaning, as a neurologist and psychiatrist, he saw himself comunicating the message of healing through meaning.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.patreon.com/ernesto_and_cindy&quot;&gt;&lt;img src=&quot;/assets/images/become_a_patron_button.png&quot; alt=&quot;Become a Patreon for Ernesto and Cindy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Most of us are so confused because of years of publicity, social standards and other kind of influence, and also so out of touch with our own imagination that it’s very hard to make up this story, to make up this meaning for ourselves. Humans by nature will go by the easiests path: buy someone else’s fictional story. But many times the easiests path is fake.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;PART 2 of this post&lt;/a&gt;&lt;/strong&gt; talks more about the details and challanges of software integration&lt;/p&gt;
 
-&lt;p&gt;Someone else’s story is incomplete, it lacks definition, so we start borrowing pieces of other people stories, which conflict with each other, and create huge conflicts in ourselves, leaving our own story and sense of meaning empty.&lt;/p&gt;
-
-&lt;p&gt;There are some elements that make the sotry more compelling. One is making a responsible story. Being responsible is being free and caring at the same time, as opposed to free and selfish for example.&lt;/p&gt;
-
-&lt;p&gt;To build a meaning for yourself, strong enough to endure, it must be about contributing, and while building this meaning the self centereness will slowly go away, allowing a rich life.&lt;/p&gt;
-
-&lt;p&gt;So how does a selfcentered software profesional fabricates a story full with meaning? how might he use his acquired skill to contribute? Well this is my journey, this is the story we are living, this is how we are turning the direction of our boat.&lt;/p&gt;</content><author><name>Ernesto Butto</name><email>ernesto@catwizard.io</email></author><category term="story" /><category term="meaning of life" /><category term="lingostand" /><category term="software" /><summary type="html">My search toward growing and contribution &quot;</summary></entry><entry><title type="html">A thank you letter to the JHipster Team</title><link href="http://blog.catwizard.io/2018/06/09/jhipster-thanks.html" rel="alternate" type="text/html" title="A thank you letter to the JHipster Team" /><published>2018-06-09T00:00:00+02:00</published><updated>2018-06-09T00:00:00+02:00</updated><id>http://blog.catwizard.io/2018/06/09/jhipster-thanks</id><content type="html" xml:base="http://blog.catwizard.io/2018/06/09/jhipster-thanks.html">&lt;p&gt;&lt;em&gt;Thank you letter to &lt;a href=&quot;https://twitter.com/juliendubois&quot;&gt;Julien Dubois&lt;/a&gt; and the &lt;a href=&quot;https://twitter.com/java_hipster&quot;&gt;JHipster Team&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459&quot;&gt;The Effective Executive by Peter F. Drucker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge-ebook/dp/B002WE46UW/ref=sr_1_2?ie=UTF8&amp;amp;qid=1544377515&amp;amp;sr=8-2&amp;amp;keywords=4+hour+work+week&quot;&gt;The 4-Hour Workweek by Tim Ferris&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://es.slideshare.net/Dataversity/lessons-in-data-modeling-data-modeling-mdm&quot;&gt;Lessons in data modeling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.axia-consulting.co.uk/html/basic_roi_calculation.html&quot;&gt;Basic ROI Calculation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://es.slideshare.net/MSM_Software/slideshare-software-dev-4-steps-to-roi-aug14&quot;&gt;4 steps to calculating ROI in Software Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/cobol-completely-obsolete-omnipresent-language/&quot;&gt;COBOL: Completely Obsolete But Omnipresent Language&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.insightsquared.com/2013/08/effectiveness-vs-efficiency-whats-the-difference/&quot;&gt;The Difference Between Effectiveness And Efficiency Explained&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Ernesto Butto</name><email>ernesto@catwizard.io</email></author><category term="PIM / MDM" /><category term="Software Integration" /><category term="software" /><summary type="html">Software Integrations</summary></entry><entry><title type="html">A thank you letter to the JHipster Team</title><link href="http://blog.catwizard.io/2018/06/09/jhipster-thanks.html" rel="alternate" type="text/html" title="A thank you letter to the JHipster Team" /><published>2018-06-09T00:00:00+02:00</published><updated>2018-06-09T00:00:00+02:00</updated><id>http://blog.catwizard.io/2018/06/09/jhipster-thanks</id><content type="html" xml:base="http://blog.catwizard.io/2018/06/09/jhipster-thanks.html">&lt;p&gt;&lt;em&gt;Thank you letter to &lt;a href=&quot;https://twitter.com/juliendubois&quot;&gt;Julien Dubois&lt;/a&gt; and the &lt;a href=&quot;https://twitter.com/java_hipster&quot;&gt;JHipster Team&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Hello!&lt;/p&gt;
 
