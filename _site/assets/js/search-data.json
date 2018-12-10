@@ -4,18 +4,8 @@ var store = [{
         "tags": ["story"],
         "url": "http://blog.catwizard.io/2018/06/09/jhipster-thanks.html"
       },{
-        "title": "The meaning of life for a software professional",
-        "excerpt":"I want to talk about the meaning of life, about how I’m working towards finding it through my work and to share my journey. Hopefully, it helps someone in some unforeseen way, worst case it helps me explore myself. My wife and I have run a small Software Consulting Development...","categories": [],
-        "tags": ["story","meaning of life","lingostand","software"],
-        "url": "http://blog.catwizard.io/2018/10/22/meaning.html"
-      },{
-        "title": "LingoStand Post 1",
-        "excerpt":"LingoStand mission is to help users attain communication level in a new language as quickly as posible, and later to accelerate their current level specializing in a particular topic or area of interest. The first course helps the user to learn the meaning and usage of the most used words...","categories": [],
-        "tags": ["learn language","lingostand","software"],
-        "url": "http://blog.catwizard.io/2018/11/07/lingostand_1.html"
-      },{
         "title": "Software Integrations and the sacredness of time",
-        "excerpt":"The sacredness of time Man is ill equiped to manage time, however, time is the most important resource in your life, this is true also for your business and for everyone around you. We long ago should have learned that it is the demand for capital, rather than the supply...","categories": [],
+        "excerpt":"Table of Contents Thank you Integration, for relieving the pain The sacredness of time, your most important resource Capital People But Time… What do P.I.M, S.A.P, Zapier and B.I have in common Our first and simple Integrations Exp Market Facts: Systems Integrations, an increasing focal point for businesses A Summarized...","categories": [],
         "tags": ["PIM / MDM","Software Integration","software"],
         "url": "http://blog.catwizard.io/2018/11/08/integrations.html"
       },{
