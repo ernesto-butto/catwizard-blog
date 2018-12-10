@@ -6,7 +6,7 @@ tags:
   - lingostand
   - software
 author: ernesto
-
+published: false
 ---
 
 LingoStand mission is to help users attain communication level in a new language as quickly as posible, and later to accelerate their current level specializing in a particular topic or area of interest.
