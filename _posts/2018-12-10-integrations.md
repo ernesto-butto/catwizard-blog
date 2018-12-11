@@ -44,7 +44,7 @@ Man is ill-equipped to manage time, however, time is the most important resource
 
 > And regarding people, we can always hire people, even though good people are hard to find.
 
-### But Time...
+### Time
 
 But for time, no matter how high the demand, the supply will not go up. There is no price for it, and it can't be stored in any way. Yesterday time is gone and it will never come back.
 
@@ -54,15 +54,15 @@ On top of that, everything requires time, it is the true and only universal cond
 
 ![Time]({{ "/assets/images/time.jpg"}})
 
-Yes, the best executives in the world go to great lengths to learn how to save their time, so they can use where it matters most, where it makes a difference. 
+Yes, the best executives in the world go to great lengths to learn how to save their time, so they can use where it matters most, where it makes a difference.
 
-However, there is a way to use systems to create pockets of time for everyone in the business. For the customer, employee, provider, manager, stakeholder, and for the most important person of all, for you...
+There is, however, a magic artifact that comes in many forms that has repeatly been tested and creates pockets of times, so we can store it, save it, re-use it.
 
-What is the way? You might ask, well there are not many, one of them I can talk about... Systems.
+It has evolved throught the centuries, from ancient times, and today it's precent in many forms. Systmes, rules, automations, information flow.
 
 "But I already have systems in the business" you might say... "in fact we have many. And man, what a complication it is! It's overwhelming!"
 
-But ask your self, are your systems working together ? are they **team** players or individualists? Are they designed to **collaborate and to create a better system or eco-system** for everyone or are they wasting lots of your time? Do they help you to provide the service expected by today's standards?
+But ask your self, are your systems working together ? are they **team** players or individualists? Are they designed to **collaborate and to create a better system (eco-system)** for everyone? or are they wasting lots of your time? Do they help you to provide the service expected by today's standards?
 
 The design and successful implementation of integrations create a wealth of time. Just in time information converts into fast service, and less worry.
 
@@ -93,24 +93,12 @@ Return of investment on correctly implemented system integrations are HUGE, and 
 
 In short, they are all tools to centralize the data across different systems and creating meaningful views from them. Useful, time-saving, smile givers, decision empowering, wealth builders information in human format. Here are some formal concepts:
 
-| BI  | Business Intelligence           | Delivers relative and reliable information at the right people, at the right time, using methods and programs to collect and structure data, and presents it in a meaningful and actionable way.  |
-| MDM | Master Data Management          | Master Data is the consistent and uniform set of identifiers and extended attributes that describes the core entities of the enterprise including customers, prospects, citizens, supplier, sites, hierarchies and chart of accounts |
-| PIM | Product Information Management  |  Manages the information required to market and sell products through distribution channels. A central set of product data can be used to feed information to media such as websites, print catalogs, ERP systems, and electronic data feeds to trading partners.     |
-| Zapier |   | Easy automation for busy people. Zapier moves info between your web apps automatically, so you can focus on your most important work.    |
+| BI  | Business Intelligence           | Delivers relative and reliable information at the right people, at the right **time**, **using methods and programs to collect and structure data**, and presents it in a meaningful and actionable way.  |
+| MDM | Master Data Management          | Master Data is the consistent and uniform set of identifiers and extended attributes that **describes the core entities of the enterprise** including customers, prospects, citizens, supplier, sites, hierarchies and chart of accounts |
+| PIM | Product Information Management  |  Manages the information required to market and sell products through distribution channels. **A central set of product data** can be used to feed information to media such as websites, print catalogs, ERP systems, and electronic data feeds to trading partners.     |
+| Zapier |   | Easy automation for busy people. *Zapier moves info between your web apps automatically*, so you can focus on your most important work.    |
 
-Now, before feeling overwhelmed about the challenge, know this.
-
-*You can reap the benefits of integrations, of becoming "digital" one small step at the time. You do not need to invest in a 3-year project now, just commit to 3 months, do a small integration, enjoy the returns of your investment, and afterward put the next brick.*
-
-Slowly but uninterrupted. This is a much faster way to become digital, it creates a habit around development, and habits my friend bring on tangible results.
-
-**Tip**: **Aim for effectiveness and leave efficiency for later**. What is the one question that if answered faster would solve many problems at once, for the most people in the company? Identify and focus on that one, do not try to take on 10 unarticulated data problems. You won't solve them, you will create a 7 head beast that will breathe down your neck every night at bedtime, it will waste money, team effort, and most important, waste tons of Time.
-
-Being **effective** is about doing the right things while being **efficient** is about doing things right. Don't be efficient about things that don't matter.
-
-> “Learn to keep the door shut, keep out of your mind and out of your world every element that seeks admittance with no definite helpful end in view.”
->
-> -- George Mathew Adams
+This are a few examples of critical systems, but can you see the common denominator? I see Time and Integration everywhere.
 
 Combining your current systems can achieve more than you can imagine, in most cases more than acquiring new systems. Don't believe me? ask most legacy banks in the world in what language do they run their core... Does *Cobol* rings a bell? well it shouldn't, Cobol is one old piece of technology, no longer taught in most computer science careers, but a scary size of the financial transactions of the world runs on top of it, [around 80%!](https://devops.com/cobol-completely-obsolete-omnipresent-language/).
 
@@ -170,9 +158,19 @@ Here are some facts I pulled out from the research that might hopefully prompt y
 
 ## A Summarized Checklist for Software integration
 
-> “The vision always precedes and itself determines the realization.” 
-> 
-> - Lillian Whiting
+Now, before feeling overwhelmed about the challenge at hand, know this.
+
+*You can reap the benefits of integrations, of becoming "digital" one small step at the time. You do not need to invest in a 3-year project now, just commit to 3 months, do a small integration, enjoy the returns of your investment, and afterward put the next brick.*
+
+Slowly but uninterrupted. This is a much faster way to become digital, it creates a habit around development, and habits my friend bring on tangible results.
+
+**Tip**: **Aim for effectiveness**. What is the one question that if answered faster would solve many problems at once, for the most people in the company? Identify and focus on that one, do not try to take on 10 unarticulated data problems. You won't solve them, you will create a 7 head beast that will breathe down your neck every night at bedtime, it will waste money, team effort, and most important, waste tons of Time.
+
+Being **effective** is about doing the right things while being **efficient** is about doing things right. Don't be efficient about things that don't matter.
+
+> “Learn to keep the door shut, keep out of your mind and out of your world every element that seeks admittance with no definite helpful end in view.”
+>
+> -- George Mathew Adams
 
 Yes, a clear vision of the end goal is the most important part, luckily we can rely more on processes to accomplish this, and less in mindfulness meditation.
 
@@ -191,9 +189,9 @@ Whatever we choose to develop a tailored system, or customized an off-the-shelf-
 
 ## Finding the middle ground: Custom vs Off The Shelf Software
 
-> Just set it and forget it!
->
-> —- RON POPEIL, founder of RONCO; responsible for more, than $1 billion in sales of rotisserie chicken roasters
+> “The vision always precedes and itself determines the realization.”
+> 
+> -- Lillian Whiting
 
 As you can see in the previous steps, you need to understand why are you doing the integration, identify what data to use, from which systems, and figure out how to merge them together.
 
@@ -210,6 +208,10 @@ There are several vendors out there, but last time I checked, very few offered k
 ## Jhipster: A Recommended Custom Development Technology
 
 ![jhipster logo]({{ "/assets/images/logo-jhipster.png"}})
+
+> Just set it and forget it!
+>
+> —- RON POPEIL, founder of RONCO; responsible for more, than $1 billion in sales of rotisserie chicken roasters
 
 We have developed a lot of system integrations, and if I had to choose today what technology to use for your custom solution, I recommend [Jhipster](https://www.jhipster.tech/). After years of consultancy and tons of custom development, I find this platform the most productive and incredibly robust.
 
