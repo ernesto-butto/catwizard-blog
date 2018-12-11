@@ -66,9 +66,9 @@ But ask your self, are your systems working together ? are they **team** players
 
 The design and successful implementation of integrations create a wealth of time. Just in time information converts into fast service, and less worry.
 
-> A man is rich in proportion to the number of things he can afford to let alone 
+> A man is rich in proportion to the number of things he can afford to let alone
 >
-> -— HENRY DAVID THOREAU, naturalist
+> -— HENRY DAVID THOREAU
 
 But! Just as a drug, systems can do wonders if prescribed correctly, and wreak havoc if applied incorrectly. Take your time to understand the design.
 
@@ -115,7 +115,7 @@ However, combine Cobol with newer tech like mobile apps, and it creates powerful
 
  > The vision is really about empowering workers, giving them all the information about what's going on so they can do a lot more than they've done in the past. 
  >
- > —BILL GATES, co-founder of Microsoft, richest man in the world
+ > —BILL GATES, co-founder of Microsoft
 
 About 8 years ago, we were asked to estimate, develop and implement a module to our in-house made web software, an online web catalog system (yes the one at the intro!), so it would integrate with the accounting systems of all the stores and provide one unified view of product information.
 
