@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://blog.catwizard.io/atom.xml" rel="self" type="application/atom+xml" /><link href="http://blog.catwizard.io/" rel="alternate" type="text/html" /><updated>2018-12-11T08:21:28+01:00</updated><id>http://blog.catwizard.io/</id><title type="html">Catwizard Blog</title><subtitle>A place to tell our stories.</subtitle><author><name>Ernesto Butto</name></author><entry><title type="html">Software Integrations and the sacredness of time</title><link href="http://blog.catwizard.io/2018/12/10/integrations.html" rel="alternate" type="text/html" title="Software Integrations and the sacredness of time" /><published>2018-12-10T00:00:00+01:00</published><updated>2018-12-10T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/12/10/integrations</id><content type="html" xml:base="http://blog.catwizard.io/2018/12/10/integrations.html">&lt;div id=&quot;entry-table-of-contents&quot; class=&quot;toc-wrapper&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://blog.catwizard.io/atom.xml" rel="self" type="application/atom+xml" /><link href="http://blog.catwizard.io/" rel="alternate" type="text/html" /><updated>2018-12-11T08:36:31+01:00</updated><id>http://blog.catwizard.io/</id><title type="html">Catwizard Blog</title><subtitle>A place to tell our stories.</subtitle><author><name>Ernesto Butto</name></author><entry><title type="html">Software Integrations and the sacredness of time</title><link href="http://blog.catwizard.io/2018/12/10/integrations.html" rel="alternate" type="text/html" title="Software Integrations and the sacredness of time" /><published>2018-12-10T00:00:00+01:00</published><updated>2018-12-10T00:00:00+01:00</updated><id>http://blog.catwizard.io/2018/12/10/integrations</id><content type="html" xml:base="http://blog.catwizard.io/2018/12/10/integrations.html">&lt;div id=&quot;entry-table-of-contents&quot; class=&quot;toc-wrapper&quot;&gt;
   &lt;h2 id=&quot;toc-toggle&quot; class=&quot;no_toc&quot;&gt;
   Table of Contents &lt;i class=&quot;toc-toggle-icon fas fa-chevron-down&quot;&gt;&lt;/i&gt;
 &lt;/h2&gt;
@@ -95,14 +95,20 @@
 
 &lt;p&gt;Designing these collaborations is not an easy task, and it’s becoming mandatory for survival, I hope this article saves you time, your most valuable resource, and points you in the right direction.&lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.&lt;/p&gt;
+
+  &lt;p&gt;– BILL GATES&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;Before we go deeper, I want to give you 2 tips that I hope make a difference for you. If you keep these tips in mind in your process then I can die in peace, my work is done in this world. It’s amazing the impact of these 2 and how few organizations do them:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Tip 1: Test Before You Implement. Yes, do some mockups, or prototypes. They can be done in Google Slides, Invision, or a piece of paper, and put users to the test. This will save you money and time in a huge way, it will help you estimate much better the scope, the development will be in a fraction of the time, and your end product will be many times better. It can save you years!!&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Tip 1: Test Before You Implement&lt;/strong&gt;. Yes, do some mockups, or prototypes. They can be done in Google Slides, Invision, or a piece of paper, and put users to the test. This will save you money and time in a huge way, it will help you estimate much better the scope, the development will be in a fraction of the time, and your end product will be many times better. It can save you years!!&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Tip 2: Calculate your Return Of Investment: Measure your time wasters before and after. Hey, let’s focus on the objective, time is money and both can be measured. Doing an integration project have Tangible Benefits, such as &lt;em&gt;time reduction in tasks&lt;/em&gt;, and Intangible benefits such as &lt;em&gt;ability to offer improved customer service and support&lt;/em&gt;. Focus on Measuring tangible measures.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Tip 2: Calculate your Return Of Investment:&lt;/strong&gt; Measure your time wasters before and after. Hey, let’s focus on the objective, time is money and both can be measured. Doing an integration project have Tangible Benefits, such as &lt;em&gt;time reduction in tasks&lt;/em&gt;, and Intangible benefits such as &lt;em&gt;ability to offer improved customer service and support&lt;/em&gt;. Focus on Measuring tangible measures.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -139,7 +145,7 @@
     &lt;tr&gt;
       &lt;td&gt;Zapier&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Easy automation for busy people. &lt;em&gt;Zapier moves info between your web apps automatically&lt;/em&gt;, so you can focus on your most important work.&lt;/td&gt;
+      &lt;td&gt;Easy automation for busy people. Zapier &lt;strong&gt;moves info between your web apps automatically&lt;/strong&gt;, so you can focus on your most important work.&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;

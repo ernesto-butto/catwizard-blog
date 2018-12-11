@@ -74,11 +74,15 @@ But! Just as a drug, systems can do wonders if prescribed correctly, and wreak h
 
 Designing these collaborations is not an easy task, and it's becoming mandatory for survival, I hope this article saves you time, your most valuable resource, and points you in the right direction.
 
+> The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.
+>
+> -- BILL GATES
+
 Before we go deeper, I want to give you 2 tips that I hope make a difference for you. If you keep these tips in mind in your process then I can die in peace, my work is done in this world. It's amazing the impact of these 2 and how few organizations do them:
 
-- Tip 1: Test Before You Implement. Yes, do some mockups, or prototypes. They can be done in Google Slides, Invision, or a piece of paper, and put users to the test. This will save you money and time in a huge way, it will help you estimate much better the scope, the development will be in a fraction of the time, and your end product will be many times better. It can save you years!!
+- **Tip 1: Test Before You Implement**. Yes, do some mockups, or prototypes. They can be done in Google Slides, Invision, or a piece of paper, and put users to the test. This will save you money and time in a huge way, it will help you estimate much better the scope, the development will be in a fraction of the time, and your end product will be many times better. It can save you years!!
 
-- Tip 2: Calculate your Return Of Investment: Measure your time wasters before and after. Hey, let's focus on the objective, time is money and both can be measured. Doing an integration project have Tangible Benefits, such as *time reduction in tasks*, and Intangible benefits such as *ability to offer improved customer service and support*. Focus on Measuring tangible measures.
+- **Tip 2: Calculate your Return Of Investment:** Measure your time wasters before and after. Hey, let's focus on the objective, time is money and both can be measured. Doing an integration project have Tangible Benefits, such as *time reduction in tasks*, and Intangible benefits such as *ability to offer improved customer service and support*. Focus on Measuring tangible measures.
 
 Return of investment on correctly implemented system integrations are HUGE, and measuring them is necessary to enable the success of the project, justify future developments, and ensure that your organization gets value for your money. [See this guide for tools and spreadsheets to get you started](https://www.axia-consulting.co.uk/html/basic_roi_calculation.html)
 
@@ -96,7 +100,7 @@ In short, they are all tools to centralize the data across different systems and
 | BI  | Business Intelligence           | Delivers relative and reliable information at the right people, at the right **time**, **using methods and programs to collect and structure data**, and presents it in a meaningful and actionable way.  |
 | MDM | Master Data Management          | Master Data is the consistent and uniform set of identifiers and extended attributes that **describes the core entities of the enterprise** including customers, prospects, citizens, supplier, sites, hierarchies and chart of accounts |
 | PIM | Product Information Management  |  Manages the information required to market and sell products through distribution channels. **A central set of product data** can be used to feed information to media such as websites, print catalogs, ERP systems, and electronic data feeds to trading partners.     |
-| Zapier |   | Easy automation for busy people. *Zapier moves info between your web apps automatically*, so you can focus on your most important work.    |
+| Zapier |   | Easy automation for busy people. Zapier **moves info between your web apps automatically**, so you can focus on your most important work.    |
 
 This are a few examples of critical systems, but can you see the common denominator? I see Time and Integration everywhere.
 
