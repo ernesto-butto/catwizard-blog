@@ -12,6 +12,9 @@ Run locally with `bundle exec jekyll serve`
 
 Added custom domain using the A records method here: https://help.github.com/articles/setting-up-an-apex-domain/
 
+## Run on Oroku Server
+NOTE: Always regenerate the site locally using `bundle exec jekyll serve` and upoad with the bellow command to see changes. Pushing changes in `md` files is not enough, a full regenration must happen locally.
+
 I created a local command to update content:
 
 ```
