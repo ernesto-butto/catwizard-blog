@@ -4,6 +4,11 @@ var store = [{
         "tags": ["story"],
         "url": "http://blog.catwizard.io/2018/06/09/jhipster-thanks.html"
       },{
+        "title": "Master Data Overview",
+        "excerpt":"Table of Contents On time information The Challange: Scattered information Why is MDM so important? Attaining Master Data in 3 steps A Summarized Checklist for Software integration Finding the middle ground: Custom vs Off The Shelf Software Market Facts: Systems Integrations, an increasing focal point for businesses References Thank You,...","categories": [],
+        "tags": ["PIM / MDM","Software Integration","software"],
+        "url": "http://blog.catwizard.io/2019/01/22/master-data.html"
+      },{
         "title": "Chocolate Chip Cookies",
         "excerpt":"A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient. The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as...","categories": [],
         "tags": [],

@@ -1,4 +1,186 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://blog.catwizard.io/atom.xml" rel="self" type="application/atom+xml" /><link href="http://blog.catwizard.io/" rel="alternate" type="text/html" /><updated>2019-01-07T10:46:46+01:00</updated><id>http://blog.catwizard.io/</id><title type="html">Catwizard Blog</title><subtitle>A place to tell our stories.</subtitle><author><name>Ernesto Butto</name></author><entry><title type="html">A thank you letter to the JHipster Team</title><link href="http://blog.catwizard.io/2018/06/09/jhipster-thanks.html" rel="alternate" type="text/html" title="A thank you letter to the JHipster Team" /><published>2018-06-09T00:00:00+02:00</published><updated>2018-06-09T00:00:00+02:00</updated><id>http://blog.catwizard.io/2018/06/09/jhipster-thanks</id><content type="html" xml:base="http://blog.catwizard.io/2018/06/09/jhipster-thanks.html">&lt;p&gt;&lt;em&gt;Thank you letter to &lt;a href=&quot;https://twitter.com/juliendubois&quot;&gt;Julien Dubois&lt;/a&gt; and the &lt;a href=&quot;https://twitter.com/java_hipster&quot;&gt;JHipster Team&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://blog.catwizard.io/atom.xml" rel="self" type="application/atom+xml" /><link href="http://blog.catwizard.io/" rel="alternate" type="text/html" /><updated>2019-01-22T18:48:01+01:00</updated><id>http://blog.catwizard.io/</id><title type="html">Catwizard Blog</title><subtitle>A place to tell our stories.</subtitle><author><name>Ernesto Butto</name></author><entry><title type="html">Master Data Overview</title><link href="http://blog.catwizard.io/2019/01/22/master-data.html" rel="alternate" type="text/html" title="Master Data Overview" /><published>2019-01-22T00:00:00+01:00</published><updated>2019-01-22T00:00:00+01:00</updated><id>http://blog.catwizard.io/2019/01/22/master-data</id><content type="html" xml:base="http://blog.catwizard.io/2019/01/22/master-data.html">&lt;div id=&quot;entry-table-of-contents&quot; class=&quot;toc-wrapper&quot;&gt;
+  &lt;h2 id=&quot;toc-toggle&quot; class=&quot;no_toc&quot;&gt;
+  Table of Contents &lt;i class=&quot;toc-toggle-icon fas fa-chevron-down&quot;&gt;&lt;/i&gt;
+&lt;/h2&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#on-time-information&quot; id=&quot;markdown-toc-on-time-information&quot;&gt;On time information&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-challange-scattered-information&quot; id=&quot;markdown-toc-the-challange-scattered-information&quot;&gt;The Challange: Scattered information&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#why-is-mdm-so-important&quot; id=&quot;markdown-toc-why-is-mdm-so-important&quot;&gt;Why is MDM so important?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#attaining-master-data-in-3-steps&quot; id=&quot;markdown-toc-attaining-master-data-in-3-steps&quot;&gt;Attaining Master Data in 3 steps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-summarized-checklist-for-software-integration&quot; id=&quot;markdown-toc-a-summarized-checklist-for-software-integration&quot;&gt;A Summarized Checklist for Software integration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#finding-the-middle-ground-custom-vs-off-the-shelf-software&quot; id=&quot;markdown-toc-finding-the-middle-ground-custom-vs-off-the-shelf-software&quot;&gt;Finding the middle ground: Custom vs Off The Shelf Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#market-facts-systems-integrations-an-increasing-focal-point-for-businesses&quot; id=&quot;markdown-toc-market-facts-systems-integrations-an-increasing-focal-point-for-businesses&quot;&gt;Market Facts: Systems Integrations, an increasing focal point for businesses&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#references&quot; id=&quot;markdown-toc-references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#thank-you-support-if-you-can&quot; id=&quot;markdown-toc-thank-you-support-if-you-can&quot;&gt;Thank You, support if you can&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;/div&gt;
+
+&lt;h1 id=&quot;on-time-information&quot;&gt;On time information&lt;/h1&gt;
+
+&lt;p&gt;On time information is on demand. On time information has become a key component on our every day decisions. We are not willing to wait 2 days for the answer, if someone can give me the information now, the one I want to know, that is relevant to me, then that is who I’m going to buy from.&lt;/p&gt;
+
+&lt;p&gt;I want to know what I’m buying, and I want that information now. In fact, I’d rather have enough data now, then deep data 2 days from now.&lt;/p&gt;
+
+&lt;p&gt;And I’m not the only one. B2B executives want it know, shareholders want it know, clients want it now, millennials want it now, and kids want it now.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;By 2015, 64% percent of adults in the USA &lt;strong&gt;buy online because the products presented there have more precise information than in stores.&lt;/strong&gt;* &lt;em&gt;- Source: Forrester 2016: Product Information Management Solutions, Q4 2016&lt;/em&gt;. This strategy seems to work, according to &lt;a href=&quot;https://www.statista.com/topics/2477/online-shopping-behavior/&quot;&gt;statista.com&lt;/a&gt;, retail e-commerce sales worldwide are forecast to nearly double between 2016 and 2020.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We want to have access to it, to understand enough of what we are buying, so we can make the decision now.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-challange-scattered-information&quot;&gt;The Challange: Scattered information&lt;/h1&gt;
+
+&lt;p&gt;However, providing the updated data is a big challenge for business. Typically a company grows to a point where this is needed, but there was not forethought for this while the company is growing. As a result the data is scattered around a bunch of excel sheets, ERP and accounting systems&lt;/p&gt;
+
+&lt;p&gt;If you own the company, or you fullfil a top role, you might feel trapped and guilty about this situation. First of all, don’t feel bad, this is the norm, not the exception. You had no idea your company was going to grow so much. But it is time to do something about it, and you need a plan.&lt;/p&gt;
+
+&lt;p&gt;Each company has it’s own environment of variables to deal with that makes them unique, it’s own context. So a “one size fits all” solution does not exists.&lt;/p&gt;
+
+&lt;p&gt;I want to contribute a little to anyone out there that has this challenge now days, by providing some concepts and steps that hopefully helps points to the right direction.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-is-mdm-so-important&quot;&gt;Why is MDM so important?&lt;/h1&gt;
+
+&lt;p&gt;I want to start by explaining what Master Data is as a concept, I believe that if you understand this concept, then yo will know what is the core ingridient required for accesing on time information.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/integrations_1/MasterDataOverview.png&quot; alt=&quot;master_data_overview&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://es.slideshare.net/Dataversity/lessons-in-data-modeling-data-modeling-mdm&quot;&gt;Source Dataversity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ok, so first I’ll give you the formal, very technical concept, and  I’ll break it down later:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Master Data is the consistent and uniform set of identifiers and extended attributes that describes the core entities (product, customer, etc…) of the enterprise - &lt;em&gt;&lt;a href=&quot;https://www.gartner.com/technology/it-glossary/mdm.jsp&quot;&gt;Source gartner.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So if our entity is product, then this means, that he goal is to create unique reference that holds all the other references of the other products.&lt;/p&gt;
+
+&lt;p&gt;You might have stock information, price information, marketing information such as pictures, and so on different sources, each of them is represented in the above image as database source.&lt;/p&gt;
+
+&lt;p&gt;Well with the MDM you can access all of that updated information at an instant to create view for different users.&lt;/p&gt;
+
+&lt;p&gt;Here is an example for the &lt;strong&gt;Customers Entity&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/integrations_1/customer_mdm.png&quot; alt=&quot;master_data_overview&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Source &lt;a href=&quot;https://social.technet.microsoft.com/wiki/contents/articles/2021.mapping-multiple-systems-with-master-data-services.aspx&quot;&gt;Microsoft Wiki&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In the above example, Code represents the Master Data Identifier.&lt;/p&gt;
+
+&lt;h1 id=&quot;attaining-master-data-in-3-steps&quot;&gt;Attaining Master Data in 3 steps&lt;/h1&gt;
+
+&lt;p&gt;Here is a simplified example to acquire MDM.
+You need to:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Store the Information in systems&lt;/strong&gt;: For the information to be on time, it most flow, for it to flow it most be on some type of system. Each time the information is updated, it most be updated directly on the system&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Allow the flow of information flow&lt;/strong&gt;: Once the information is constantly being updated on a system, each product will have an unique identifier in that system. Now you can set the system to connect to the central system.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Match the identifiers to create MD (Master Data)&lt;/strong&gt;:  Using a combination of fuzzy matching techiniques and with the cooperation of knwoladgeble personal, you assign all of the products it’s Master Number, lets say Black Logitech Mouse, SKU: 3243 in the store X, with Black M. Logitech, SKU: AC23 stored in your warehouse. &lt;strong&gt;Once assigned one time, you won’t ever need to do it again.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Now you can create views and applications that show the customer information they need to make their desicion, such as the picture, origin information or availability, and to the salesman you can show the cost, sugested price, and any information useful at the sales pitch moment.&lt;/p&gt;
+
+&lt;h1 id=&quot;a-summarized-checklist-for-software-integration&quot;&gt;A Summarized Checklist for Software integration&lt;/h1&gt;
+
+&lt;p&gt;Now, before feeling overwhelmed about the challenge at hand, know this.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You can reap the benefits of integrations, of becoming “digital” one small step at the time. You do not need to invest in a 3-year project now, just commit to 3 months, do a small integration, enjoy the returns of your investment, and afterward put the next brick.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Slowly but uninterrupted. This is a much faster way to become digital, it creates a habit around development, and habits my friend bring on tangible results.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tip&lt;/strong&gt;: &lt;strong&gt;Aim for effectiveness&lt;/strong&gt;. What is the one question that if answered faster would solve many problems at once, for the most people in the company? Identify and focus on that one, do not try to take on 10 unarticulated data problems. You won’t solve them, you will create a 7 head beast that will breathe down your neck every night at bedtime, it will waste money, team effort, and most important, waste tons of time.&lt;/p&gt;
+
+&lt;p&gt;The following is a quick more detailed list to give you an idea of the process as a whole on integrating systems, if it’s of your interests you can find detailed information and references in &lt;a href=&quot;https://es.slideshare.net/Dataversity/lessons-in-data-modeling-data-modeling-mdm&quot;&gt;this fantastic post by Donna Burbank&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are the most basic steps:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Modeling Data&lt;/strong&gt;: Identify Data Entities&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Choosing the Architecture&lt;/strong&gt;: Centralized Vs Virtualized&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Identify Source Systems&lt;/strong&gt;: Where is my data?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Choose The Matching Strategy&lt;/strong&gt;: How to tie it all together.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Whatever we choose to develop a tailored system, or customized an off-the-shelf-solution, these steps are common to both approaches.&lt;/p&gt;
+
+&lt;h1 id=&quot;finding-the-middle-ground-custom-vs-off-the-shelf-software&quot;&gt;Finding the middle ground: Custom vs Off The Shelf Software&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The vision always precedes and itself determines the realization.”&lt;/p&gt;
+
+  &lt;p&gt;– Lillian Whiting&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As you can see in the previous steps, you need to understand why are you doing the integration, identify what data to use, from which systems, and figure out how to merge them together.&lt;/p&gt;
+
+&lt;p&gt;I recommend to Re-use what is working, use third-party for specific and tested solutions like CRM or E-commerce, and customize the part of your eco-system that ties everything together, that makes you unique… The integration core, the business core.&lt;/p&gt;
+
+&lt;p&gt;You don’t want to invest in a year project, with a complete re-write or replace of a system, experience major downtime and potential errors, just to have the same system you had before.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Word of caution:&lt;/strong&gt; Vendors are usually interested in selling their software (I guess this is not new to you). Most commercial offers from the companies that I talked to for &lt;a href=&quot;https://en.wikipedia.org/wiki/Product_information_management&quot;&gt;P.I.M&lt;/a&gt; software do not include the integration itself to the systems in the company, they redirect you to integrators that they know, who at the end of the day, are going to be the more important role than the systems you are buying.&lt;/p&gt;
+
+&lt;p&gt;And they will not tell you this clearly but at the very end of the selling process. At first is all “yes, yes, do not worry, this is what the package is worth, these are the yearly fees, and with that, your problems will be solved, etc…”.&lt;/p&gt;
+
+&lt;p&gt;There are several vendors out there, but last time I checked, very few offered key on hand solutions and the ones that do serve the Enterprise segment.&lt;/p&gt;
+
+&lt;h1 id=&quot;market-facts-systems-integrations-an-increasing-focal-point-for-businesses&quot;&gt;Market Facts: Systems Integrations, an increasing focal point for businesses&lt;/h1&gt;
+
+&lt;p&gt;Here are some facts I pulled out from a research I did in 2017 that might hopefully prompt you to take some kind of action:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Experiences in the B2C world increase B2B purchases&lt;/strong&gt;, almost 75% say that buying from a web page is more convenient than buying to sales representatives when they buy products or services for work. &lt;em&gt;-Source: PIM Is A Cornerstone Of Your Digital Business Why Customer-Obsessed Firms Need Product Information Management January 18, 2017&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.inriver.com/&quot;&gt;InRiver&lt;/a&gt;, one of the leading PIM vendors, claims that they have an &lt;strong&gt;annual growth rate (CAGR) of %70&lt;/strong&gt;. I did check other vendors data, and all of them have grown big time.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;87% of data leaders and analysts implemented or are planning to implement or expand on PIM&lt;/strong&gt; (Software Integration for Products). Why? Managing spreadsheet and separated systems is not sustainable. To save time, minimize errors, increase the time to market, and manage constantly changing requirements content for allies, digital business need automated checks &lt;em&gt;- Source: Vendor Landscape: Product Information Management (PIM), Q3 2017&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In 2015, %67 of decision makers related to infrastructure said that develop a complete strategy in the cloud was a high or critical priority. &lt;strong&gt;Additionally %56 projected an increase on investment in cloud services by the end of 2015.&lt;/strong&gt; &lt;em&gt;- Source: The Forrester WaveTM: Master Data Management, Q1 2016&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Scotty:&lt;/strong&gt; She’s all yours, sir. All systems automated and ready. A chimpanzee and two trainees could run her!&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Captain Kirk:&lt;/strong&gt; Thank you, Mr. Scott. I’ll try not to take that personally.&lt;/p&gt;
+
+  &lt;p&gt;— [STAR TREK]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The benefits riped out of these integrations are beyond measure. They will save you money, give you status, and more important, tons of Time, the non renouvable resource&lt;/p&gt;
+
+&lt;p&gt;Man is ill-equipped to manage time, however, time is the most important resource in your life, and in your business. Traditionally, business theory teaches us that there are 3 types of resources: Capital, People and Time.&lt;/p&gt;
+
+&lt;p&gt;For time, no matter how high the demand, the supply will not go up. There is no price for it, and it can’t be stored in any way. Yesterday time is gone and it will never come back.&lt;/p&gt;
+
+&lt;p&gt;On top of that, everything requires time, it is the true and only universal condition. All work takes time, uses time, requires time.&lt;/p&gt;
+
+&lt;p&gt;System integration are one of the few ways I know to create time where there was none. So take a moment to plan your strategy, and be part of a healthy future.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://es.slideshare.net/Dataversity/lessons-in-data-modeling-data-modeling-mdm&quot;&gt;Lessons in data modeling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459&quot;&gt;The Effective Executive by Peter F. Drucker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://go.forrester.com/&quot;&gt;Forrester Wave&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;thank-you-support-if-you-can&quot;&gt;Thank You, support if you can&lt;/h2&gt;
+
+&lt;p&gt;We hope this article was fun and helpful for you. If you want me to keep generating content for you, you can tell me what would you like to help you with and you can help us by donating a small contribution in our &lt;a href=&quot;https://www.patreon.com/ernesto_and_cindy&quot;&gt;patreon page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.patreon.com/ernesto_and_cindy&quot;&gt;&lt;img src=&quot;/assets/images/become_a_patron_button.png&quot; alt=&quot;Become a Patreon for Ernesto and Cindy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Ernesto Butto</name><email>ernesto@catwizard.io</email></author><category term="PIM / MDM" /><category term="Software Integration" /><category term="software" /><summary type="html">Software Integrations</summary></entry><entry><title type="html">A thank you letter to the JHipster Team</title><link href="http://blog.catwizard.io/2018/06/09/jhipster-thanks.html" rel="alternate" type="text/html" title="A thank you letter to the JHipster Team" /><published>2018-06-09T00:00:00+02:00</published><updated>2018-06-09T00:00:00+02:00</updated><id>http://blog.catwizard.io/2018/06/09/jhipster-thanks</id><content type="html" xml:base="http://blog.catwizard.io/2018/06/09/jhipster-thanks.html">&lt;p&gt;&lt;em&gt;Thank you letter to &lt;a href=&quot;https://twitter.com/juliendubois&quot;&gt;Julien Dubois&lt;/a&gt; and the &lt;a href=&quot;https://twitter.com/java_hipster&quot;&gt;JHipster Team&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Hello!&lt;/p&gt;
 
