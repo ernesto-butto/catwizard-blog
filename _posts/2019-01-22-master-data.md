@@ -1,5 +1,5 @@
 ---
-title: "Master Data Overview"
+title: "Software Integration and the Sacredness of time"
 excerpt: "Software Integrations"
 tags: 
   - PIM / MDM
@@ -11,17 +11,48 @@ published: true
 
 {% include toc %}
 
-# On time information
 
-On time information is on demand. On time information has become a key component on our every day decisions. We are not willing to wait 2 days for the answer, if someone can give me the information now, the one I want to know, that is relevant to me, then that is who I'm going to buy from.
+> **Scotty:** She's all yours, sir. All systems automated and ready. A chimpanzee and two trainees could run her!
+>
+> **Captain Kirk:** Thank you, Mr. Scott. I'll try not to take that personally.
+>
+> — [STAR TREK]
 
-I want to know what I'm buying, and I want that information now. In fact, I'd rather have enough data now, then deep data 2 days from now.
+## Systems help, I need time.
 
-And I'm not the only one. B2B executives want it know, shareholders want it know, clients want it now, millennials want it now, and kids want it now.
+My wife and I came out of the dentist office. She went for a check-in but they had to operate, she ended up drugged, and disoriented.
+
+“Make sure she takes this drug in the next hour or so, else the pain will bring her to tears once the sedative wears off, there is a pharmacy right in front of the building, but you know, lately patient has told me the drug is hard to find”
+
+The drug was a common one, but the political and in consequence economical situation in Venezuela was starting to be uncommon. We went to the pharmacy, no luck, then to the next one… same luck… none!
+
+Time was running out, and then she grabbed me and told me… “Use the web page we developed for god’s sake!! It’s starting to hurt!!”… Riiiight, I had forgotten about that one…
+
+We had developed a web page that was integrated with the in stock system of multiple locations: farmaplus.com.ve.
+
+It saved us lots of time and tears knowing exactly where to go to get the required medicine, as it still does in Caracas for some people at the time of this writing.
+
+## The sacredness of time
+
+Man is ill equipped to manage time, however, time is the most important resource in your life, and in your business. Traditionally, business theory teaches us that there are 3 basic resources: Capital, People and Time. Let’s break it down:
+
+Capital: …We long ago should have learned that it is the demand for capital, rather than the supply thereof, which sets the limit to economic growth and activity…
+
+People: …And regarding people, we can always hire people, even though good people are hard to find…
+
+Time: But for Time, no matter how high the demand, the supply will not go up. There is no price for it, and it can’t be stored in any way. Yesterday time is gone and it will never come back.
+
+On top of that, everything requires time, it is the true and only universal condition. All work takes time, uses time, requires time.
+
+The best executives in the world go to great lengths to learn how to save their time so they can use it when it matters most, where it makes a difference.There is a way to use systems to create pockets of time for everyone in the business. For the customer, employee, provider, manager, stakeholder, and for the most important person of all, for you…
+
+On time information is on demand. On time information has become a key component on our everyday decisions.
+
+If you design your systems and solutions to be able to communicate between them and present it integrated and in a simple interface so different users in and outside of the company can consume, then you will be saving lot’s of the most valuable resources, time, and in consequence money and these components will attract better and happier people.
+
+This is why I recommend that, before investing on an integration project, measure the time currently used, and estimate how much time will you save along with all the additional benefits. I have used [this tool](https://www.axia-consulting.co.uk/html/basic_roi_calculation.html) to get me started in the past.
 
 - By 2015, 64% percent of adults in the USA **buy online because the products presented there have more precise information than in stores.*** *- Source: Forrester 2016: Product Information Management Solutions, Q4 2016*. This strategy seems to work, according to [statista.com](https://www.statista.com/topics/2477/online-shopping-behavior/), retail e-commerce sales worldwide are forecast to nearly double between 2016 and 2020.
-
-We want to have access to it, to understand enough of what we are buying, so we can make the decision now.
 
 # The Challange: Scattered information
 
@@ -35,7 +66,7 @@ I want to contribute a little to anyone out there that has this challenge now da
 
 # Why is MDM so important?
 
-I want to start by explaining what Master Data is as a concept, I believe that if you understand this concept, then yo will know what is the core ingridient required for accesing on time information.
+I want to start by explaining what Master Data is as a concept, I believe that if you understand this concept, then you will know what is the core ingredient required for accessing on time information.
 
 ![master_data_overview]({{ "/assets/images/integrations_1/MasterDataOverview.png"}})
 
@@ -44,11 +75,11 @@ I want to start by explaining what Master Data is as a concept, I believe that i
 Ok, so first I'll give you the formal, very technical concept, and  I'll break it down later:
 > Master Data is the consistent and uniform set of identifiers and extended attributes that describes the core entities (product, customer, etc...) of the enterprise - *[Source gartner.com](https://www.gartner.com/technology/it-glossary/mdm.jsp)*
 
-So if our entity is product, then this means, that he goal is to create unique reference that holds all the other references of the other products.
+So if our entity is the product, then this means, that the goal is to create a unique reference that holds all the other references of the other products.
 
-You might have stock information, price information, marketing information such as pictures, and so on different sources, each of them is represented in the above image as database source.
+You might have stock information, price information, marketing information such as pictures, and so on different sources, each of them is represented in the above image as a database source.
 
-Well with the MDM you can access all of that updated information at an instant to create view for different users.
+Well with the MDM you can access all of that updated information at an instant to create a view for different users.
 
 Here is an example for the **Customers Entity**:
 
@@ -121,12 +152,6 @@ Here are some facts I pulled out from a research I did in 2017 that might hopefu
 - **87% of data leaders and analysts implemented or are planning to implement or expand on PIM** (Software Integration for Products). Why? Managing spreadsheet and separated systems is not sustainable. To save time, minimize errors, increase the time to market, and manage constantly changing requirements content for allies, digital business need automated checks *- Source: Vendor Landscape: Product Information Management (PIM), Q3 2017*
 
 - In 2015, %67 of decision makers related to infrastructure said that develop a complete strategy in the cloud was a high or critical priority. **Additionally %56 projected an increase on investment in cloud services by the end of 2015.** *- Source: The Forrester WaveTM: Master Data Management, Q1 2016*
-
-> **Scotty:** She's all yours, sir. All systems automated and ready. A chimpanzee and two trainees could run her!
->
-> **Captain Kirk:** Thank you, Mr. Scott. I'll try not to take that personally.
->
-> — [STAR TREK]
 
 The benefits riped out of these integrations are beyond measure. They will save you money, give you status, and more important, tons of Time, the non renouvable resource
 
